@@ -171,7 +171,7 @@ date,rank,name,id,points
 19740107,167,David Lloyd,L083,11
 19740107,171,Jan Pisecky,P167,10
 19740107,171,Toma Ovici,O069,10
-19740107,171,Kiyoski Tanabe,NA,10
+19740107,171,Kiyoski Tanabe,,10
 19740107,171,Jun Kuki,K054,10
 19740107,171,Jean-Francois Caujolle,C082,10
 19740107,171,Rolf Norberg,N048,10
@@ -209,7 +209,7 @@ date,rank,name,id,points
 19740107,201,Tony Bardsley,B120,5
 19740107,201,Jose Castanon,C189,5
 19740107,210,Richard Lewis,L025,4
-19740107,210,Thomas Koch,NA,4
+19740107,210,Thomaz Koch,,4
 19740107,210,Vittorio Crotta,C123,4
 19740107,210,Zan Guerry,G116,4
 19740107,210,Gaurav Misra,M773,4
@@ -251,7 +251,7 @@ date,rank,name,id,points
 19740107,249,Max Senior,S249,1
 19740107,249,William Coghlan,C228,1
 19740107,249,Cliff Letcher,L062,1
-19740107,249,Teimuraz Kakoulia,NA,1
+19740107,249,Teimuraz Kakoulia,,1
 19740107,249,Hans-Joachim Ploetz,P081,1
 19740107,249,Frank Sedgman,S248,1
 19740107,249,Neale Fraser,F113,1
@@ -365,7 +365,7 @@ date,rank,name,id,points
 19740114,102,Byron Bertram,B130,32
 19740114,103,Corrado Barazzutti,B007,41
 19740114,104,Patricio Cornejo,C088,58
-19740114,105,Fred McNair,NA,35
+19740114,105,Fred McNair IV,,35
 19740114,106,Jim McManus,M144,79
 19740114,107,John Paish,P142,32
 19740114,108,Anand Amritraj,A021,39
@@ -433,7 +433,7 @@ date,rank,name,id,points
 19740114,167,David Lloyd,L083,11
 19740114,171,Jan Pisecky,P167,10
 19740114,171,Toma Ovici,O069,10
-19740114,171,Kiyoski Tanabe,NA,10
+19740114,171,Kiyoski Tanabe,,10
 19740114,171,Jun Kuki,K054,10
 19740114,171,Jean-Francois Caujolle,C082,10
 19740114,171,Rolf Norberg,N048,10
@@ -475,7 +475,7 @@ date,rank,name,id,points
 19740114,211,Zan Guerry,G116,4
 19740114,211,Gaurav Misra,M773,4
 19740114,211,Richard Lewis,L025,4
-19740114,211,Thomas Koch,NA,4
+19740114,211,Thomaz Koch,,4
 19740114,211,Alejandro Olmedo,O042,4
 19740114,211,Belus Prajoux,P046,4
 19740114,211,Terry Moor,M081,4
@@ -509,7 +509,7 @@ date,rank,name,id,points
 19740114,244,Thies Roepcke,R180,2
 19740114,244,Jean-Paul Meyer,M280,2
 19740114,244,Thierry Bernasconi,B261,2
-19740114,249,Teimuraz Kakoulia,NA,1
+19740114,249,Teimuraz Kakoulia,,1
 19740114,249,Hans-Joachim Ploetz,P081,1
 19740114,249,Michael Phillips,P180,1
 19740114,249,Max Senior,S249,1
@@ -627,7 +627,7 @@ date,rank,name,id,points
 19740121,102,Byron Bertram,B130,32
 19740121,103,Patricio Cornejo,C088,57
 19740121,104,Corrado Barazzutti,B007,41
-19740121,105,Fred McNair,NA,35
+19740121,105,Fred McNair IV,,35
 19740121,106,John Paish,P142,32
 19740121,107,Jose Edison Mandarino,M135,44
 19740121,108,Anand Amritraj,A021,39
@@ -695,7 +695,7 @@ date,rank,name,id,points
 19740121,167,David Lloyd,L083,11
 19740121,171,Jan Pisecky,P167,10
 19740121,171,Toma Ovici,O069,10
-19740121,171,Kiyoski Tanabe,NA,10
+19740121,171,Kiyoski Tanabe,,10
 19740121,171,Jun Kuki,K054,10
 19740121,171,Jean-Francois Caujolle,C082,10
 19740121,171,Rolf Norberg,N048,10
@@ -737,7 +737,7 @@ date,rank,name,id,points
 19740121,211,Zan Guerry,G116,4
 19740121,211,Gaurav Misra,M773,4
 19740121,211,Richard Lewis,L025,4
-19740121,211,Thomas Koch,NA,4
+19740121,211,Thomaz Koch,,4
 19740121,211,Alejandro Olmedo,O042,4
 19740121,211,Belus Prajoux,P046,4
 19740121,211,Terry Moor,M081,4
@@ -771,7 +771,7 @@ date,rank,name,id,points
 19740121,244,Thies Roepcke,R180,2
 19740121,244,Jean-Paul Meyer,M280,2
 19740121,244,Thierry Bernasconi,B261,2
-19740121,249,Teimuraz Kakoulia,NA,1
+19740121,249,Teimuraz Kakoulia,,1
 19740121,249,Hans-Joachim Ploetz,P081,1
 19740121,249,Michael Phillips,P180,1
 19740121,249,Max Senior,S249,1
@@ -892,7 +892,7 @@ date,rank,name,id,points
 19740128,105,Corrado Barazzutti,B007,41
 19740128,106,Jose Edison Mandarino,M135,43
 19740128,107,Patricio Cornejo,C088,55
-19740128,107,Fred McNair,NA,35
+19740128,107,Fred McNair IV,,35
 19740128,109,John Paish,P142,32
 19740128,110,Anand Amritraj,A021,39
 19740128,111,John Cooper,C171,29
@@ -958,7 +958,7 @@ date,rank,name,id,points
 19740128,168,David Lloyd,L083,11
 19740128,172,Jan Pisecky,P167,10
 19740128,172,Toma Ovici,O069,10
-19740128,172,Kiyoski Tanabe,NA,10
+19740128,172,Kiyoski Tanabe,,10
 19740128,172,Jun Kuki,K054,10
 19740128,172,Jean-Francois Caujolle,C082,10
 19740128,172,Rolf Norberg,N048,10
@@ -999,7 +999,7 @@ date,rank,name,id,points
 19740128,211,Zan Guerry,G116,4
 19740128,211,Gaurav Misra,M773,4
 19740128,211,Richard Lewis,L025,4
-19740128,211,Thomas Koch,NA,4
+19740128,211,Thomaz Koch,,4
 19740128,211,Alejandro Olmedo,O042,4
 19740128,211,Belus Prajoux,P046,4
 19740128,211,Terry Moor,M081,4
@@ -1032,7 +1032,7 @@ date,rank,name,id,points
 19740128,243,Thies Roepcke,R180,2
 19740128,243,Jean-Paul Meyer,M280,2
 19740128,243,Thierry Bernasconi,B261,2
-19740128,248,Teimuraz Kakoulia,NA,1
+19740128,248,Teimuraz Kakoulia,,1
 19740128,248,Hans-Joachim Ploetz,P081,1
 19740128,248,Michael Phillips,P180,1
 19740128,248,Max Senior,S249,1
@@ -1154,7 +1154,7 @@ date,rank,name,id,points
 19740204,105,Jose Edison Mandarino,M135,42
 19740204,106,Patricio Cornejo,C088,54
 19740204,107,Corrado Barazzutti,B007,41
-19740204,108,Fred McNair,NA,35
+19740204,108,Fred McNair IV,,35
 19740204,109,John Paish,P142,32
 19740204,110,Anand Amritraj,A021,39
 19740204,111,John Cooper,C171,29
@@ -1222,7 +1222,7 @@ date,rank,name,id,points
 19740204,170,David Lloyd,L083,11
 19740204,174,Jan Pisecky,P167,10
 19740204,174,Toma Ovici,O069,10
-19740204,174,Kiyoski Tanabe,NA,10
+19740204,174,Kiyoski Tanabe,,10
 19740204,174,Jun Kuki,K054,10
 19740204,174,Jean-Francois Caujolle,C082,10
 19740204,174,Rolf Norberg,N048,10
@@ -1262,7 +1262,7 @@ date,rank,name,id,points
 19740204,212,Zan Guerry,G116,4
 19740204,212,Gaurav Misra,M773,4
 19740204,212,Richard Lewis,L025,4
-19740204,212,Thomas Koch,NA,4
+19740204,212,Thomaz Koch,,4
 19740204,212,Alejandro Olmedo,O042,4
 19740204,212,Belus Prajoux,P046,4
 19740204,212,Terry Moor,M081,4
@@ -1295,7 +1295,7 @@ date,rank,name,id,points
 19740204,244,Thies Roepcke,R180,2
 19740204,244,Jean-Paul Meyer,M280,2
 19740204,244,Thierry Bernasconi,B261,2
-19740204,249,Teimuraz Kakoulia,NA,1
+19740204,249,Teimuraz Kakoulia,,1
 19740204,249,Hans-Joachim Ploetz,P081,1
 19740204,249,Michael Phillips,P180,1
 19740204,249,Max Senior,S249,1
@@ -1417,7 +1417,7 @@ date,rank,name,id,points
 19740211,105,Bob Hewitt,H058,31
 19740211,106,Patricio Cornejo,C088,54
 19740211,107,Corrado Barazzutti,B007,41
-19740211,108,Fred McNair,NA,37
+19740211,108,Fred McNair IV,,37
 19740211,109,John Paish,P142,32
 19740211,110,Anand Amritraj,A021,39
 19740211,111,John Cooper,C171,29
@@ -1485,7 +1485,7 @@ date,rank,name,id,points
 19740211,170,David Lloyd,L083,11
 19740211,174,Jan Pisecky,P167,10
 19740211,174,Toma Ovici,O069,10
-19740211,174,Kiyoski Tanabe,NA,10
+19740211,174,Kiyoski Tanabe,,10
 19740211,174,Jun Kuki,K054,10
 19740211,174,Jean-Francois Caujolle,C082,10
 19740211,174,Rolf Norberg,N048,10
@@ -1526,7 +1526,7 @@ date,rank,name,id,points
 19740211,213,Zan Guerry,G116,4
 19740211,213,Gaurav Misra,M773,4
 19740211,213,Richard Lewis,L025,4
-19740211,213,Thomas Koch,NA,4
+19740211,213,Thomaz Koch,,4
 19740211,213,Alejandro Olmedo,O042,4
 19740211,213,Belus Prajoux,P046,4
 19740211,213,Terry Moor,M081,4
@@ -1560,7 +1560,7 @@ date,rank,name,id,points
 19740211,245,Jean-Paul Meyer,M280,2
 19740211,245,Thierry Bernasconi,B261,2
 19740211,245,Armistead Neely,N043,2
-19740211,251,Teimuraz Kakoulia,NA,1
+19740211,251,Teimuraz Kakoulia,,1
 19740211,251,Hans-Joachim Ploetz,P081,1
 19740211,251,Michael Phillips,P180,1
 19740211,251,Max Senior,S249,1
@@ -1683,7 +1683,7 @@ date,rank,name,id,points
 19740218,105,Byron Bertram,B130,32
 19740218,107,Patricio Cornejo,C088,53
 19740218,108,Graham Stilwell,S147,77
-19740218,109,Fred McNair,NA,37
+19740218,109,Fred McNair IV,,37
 19740218,110,John Paish,P142,32
 19740218,111,Anand Amritraj,A021,39
 19740218,112,Butch Seewagen,S139,29
@@ -1752,7 +1752,7 @@ date,rank,name,id,points
 19740218,172,David Lloyd,L083,11
 19740218,176,Jan Pisecky,P167,10
 19740218,176,Toma Ovici,O069,10
-19740218,176,Kiyoski Tanabe,NA,10
+19740218,176,Kiyoski Tanabe,,10
 19740218,176,Jun Kuki,K054,10
 19740218,176,Jean-Francois Caujolle,C082,10
 19740218,176,Rolf Norberg,N048,10
@@ -1790,7 +1790,7 @@ date,rank,name,id,points
 19740218,212,Zan Guerry,G116,4
 19740218,212,Gaurav Misra,M773,4
 19740218,212,Richard Lewis,L025,4
-19740218,212,Thomas Koch,NA,4
+19740218,212,Thomaz Koch,,4
 19740218,212,Alejandro Olmedo,O042,4
 19740218,212,Belus Prajoux,P046,4
 19740218,212,Terry Moor,M081,4
@@ -1829,7 +1829,7 @@ date,rank,name,id,points
 19740218,245,Rejean Genois,G072,2
 19740218,245,Keith A Carpenter,C176,2
 19740218,245,Pietro Marzano,M224,2
-19740218,255,Teimuraz Kakoulia,NA,1
+19740218,255,Teimuraz Kakoulia,,1
 19740218,255,Hans-Joachim Ploetz,P081,1
 19740218,255,Michael Phillips,P180,1
 19740218,255,Max Senior,S249,1
@@ -1953,7 +1953,7 @@ date,rank,name,id,points
 19740225,107,Dick R. Bohrnstedt,B238,31
 19740225,108,Byron Bertram,B130,30
 19740225,109,Graham Stilwell,S147,77
-19740225,110,Fred McNair,NA,37
+19740225,110,Fred McNair IV,,37
 19740225,111,Torben Ulrich,U011,51
 19740225,111,Juan Gisbert Sr,G076,34
 19740225,113,Butch Seewagen,S139,29
@@ -2023,7 +2023,7 @@ date,rank,name,id,points
 19740225,173,William Higgins,H129,11
 19740225,173,Felix Ponte,P179,11
 19740225,173,David Lloyd,L083,11
-19740225,180,Kiyoski Tanabe,NA,10
+19740225,180,Kiyoski Tanabe,,10
 19740225,180,Jun Kuki,K054,10
 19740225,180,Jean-Francois Caujolle,C082,10
 19740225,180,Humphrey Hose,H064,10
@@ -2061,7 +2061,7 @@ date,rank,name,id,points
 19740225,215,Vittorio Crotta,C123,4
 19740225,215,Gaurav Misra,M773,4
 19740225,215,Richard Lewis,L025,4
-19740225,215,Thomas Koch,NA,4
+19740225,215,Thomaz Koch,,4
 19740225,215,Alejandro Olmedo,O042,4
 19740225,215,Terry Moor,M081,4
 19740225,215,Janos Benyik,B202,4
@@ -2104,7 +2104,7 @@ date,rank,name,id,points
 19740225,245,Jose A. Moreno,M088,2
 19740225,245,Pietro Marzano,M224,2
 19740225,260,Zan Guerry,G116,1
-19740225,260,Teimuraz Kakoulia,NA,1
+19740225,260,Teimuraz Kakoulia,,1
 19740225,260,Hans-Joachim Ploetz,P081,1
 19740225,260,Michael Phillips,P180,1
 19740225,260,Max Senior,S249,1
@@ -2121,7 +2121,7 @@ date,rank,name,id,points
 19740225,260,Spencer Segura,S305,1
 19740225,260,John James,J029,1
 19740225,260,Ernie Ewert,E066,1
-19740225,260,Jairo Velasco Sr,NA,1
+19740225,260,Jairo Velasco Sr,,1
 19740225,260,John Andrews,A062,1
 19740304,1,Ilie Nastase,N008,890
 19740304,2,Jimmy Connors,C044,501
@@ -2236,7 +2236,7 @@ date,rank,name,id,points
 19740304,111,Juan Gisbert Sr,G076,36
 19740304,112,John Paish,P142,30
 19740304,113,Graham Stilwell,S147,77
-19740304,114,Fred McNair,NA,39
+19740304,114,Fred McNair IV,,39
 19740304,115,Byron Bertram,B130,29
 19740304,116,Jasjit Singh,S142,36
 19740304,117,Jun Kamiwazumi,K002,38
@@ -2302,7 +2302,7 @@ date,rank,name,id,points
 19740304,171,Felix Ponte,P179,11
 19740304,171,Nicholas Kalogeropoulos,K045,11
 19740304,171,David Lloyd,L083,11
-19740304,180,Kiyoski Tanabe,NA,10
+19740304,180,Kiyoski Tanabe,,10
 19740304,180,Jun Kuki,K054,10
 19740304,180,Jean-Francois Caujolle,C082,10
 19740304,180,Humphrey Hose,H064,10
@@ -2340,7 +2340,7 @@ date,rank,name,id,points
 19740304,215,Vittorio Crotta,C123,4
 19740304,215,Gaurav Misra,M773,4
 19740304,215,Richard Lewis,L025,4
-19740304,215,Thomas Koch,NA,4
+19740304,215,Thomaz Koch,,4
 19740304,215,Alejandro Olmedo,O042,4
 19740304,215,Terry Moor,M081,4
 19740304,215,Janos Benyik,B202,4
@@ -2388,7 +2388,7 @@ date,rank,name,id,points
 19740304,245,Nicolas Kelaidis,K046,2
 19740304,245,Juan Ignacio Muntanola,M157,2
 19740304,245,Jose Guerrero,G183,2
-19740304,266,Teimuraz Kakoulia,NA,1
+19740304,266,Teimuraz Kakoulia,,1
 19740304,266,Hans-Joachim Ploetz,P081,1
 19740304,266,Michael Phillips,P180,1
 19740304,266,Max Senior,S249,1
@@ -2407,9 +2407,8 @@ date,rank,name,id,points
 19740304,266,Ernie Ewert,E066,1
 19740304,266,Rafael Ruiz,R209,1
 19740304,266,Luis Bruguera,B195,1
-19740304,266,Jairo Velasco Sr,NA,1
+19740304,266,Jairo Velasco Sr,,1
 19740304,266,John Andrews,A062,1
-19740304,0,Zan Guerry,G116,0
 19740311,1,Ilie Nastase,N008,906
 19740311,2,John Newcombe,N044,586
 19740311,3,Jimmy Connors,C044,524
@@ -2524,7 +2523,7 @@ date,rank,name,id,points
 19740311,112,Byron Bertram,B130,30
 19740311,112,John Paish,P142,30
 19740311,114,Graham Stilwell,S147,77
-19740311,115,Fred McNair,NA,39
+19740311,115,Fred McNair IV,,39
 19740311,116,Jasjit Singh,S142,36
 19740311,117,Jun Kamiwazumi,K002,38
 19740311,118,Butch Seewagen,S139,28
@@ -2589,7 +2588,7 @@ date,rank,name,id,points
 19740311,174,William Higgins,H129,11
 19740311,174,Felix Ponte,P179,11
 19740311,174,David Lloyd,L083,11
-19740311,180,Kiyoski Tanabe,NA,10
+19740311,180,Kiyoski Tanabe,,10
 19740311,180,Jun Kuki,K054,10
 19740311,180,Jean-Francois Caujolle,C082,10
 19740311,180,Humphrey Hose,H064,10
@@ -2629,7 +2628,7 @@ date,rank,name,id,points
 19740311,216,Vittorio Crotta,C123,4
 19740311,216,Gaurav Misra,M773,4
 19740311,216,Richard Lewis,L025,4
-19740311,216,Thomas Koch,NA,4
+19740311,216,Thomaz Koch,,4
 19740311,216,Alejandro Olmedo,O042,4
 19740311,216,Terry Moor,M081,4
 19740311,216,Janos Benyik,B202,4
@@ -2675,10 +2674,10 @@ date,rank,name,id,points
 19740311,249,Keith A Carpenter,C176,2
 19740311,249,Pietro Marzano,M224,2
 19740311,249,Nicolas Kelaidis,K046,2
-19740311,249,Jairo Velasco Sr,NA,2
+19740311,249,Jairo Velasco Sr,,2
 19740311,249,Juan Ignacio Muntanola,M157,2
 19740311,249,Jose Guerrero,G183,2
-19740311,269,Teimuraz Kakoulia,NA,1
+19740311,269,Teimuraz Kakoulia,,1
 19740311,269,Hans-Joachim Ploetz,P081,1
 19740311,269,Michael Phillips,P180,1
 19740311,269,Max Senior,S249,1
@@ -2813,9 +2812,9 @@ date,rank,name,id,points
 19740318,112,Byron Bertram,B130,30
 19740318,112,John Paish,P142,30
 19740318,115,Graham Stilwell,S147,78
-19740318,115,Fred McNair,NA,39
+19740318,115,Fred McNair IV,,39
 19740318,117,Jasjit Singh,S142,36
-19740318,118,Thomas Koch,NA,28
+19740318,118,Thomaz Koch,,28
 19740318,118,Butch Seewagen,S139,28
 19740318,118,Paul Kronk,K073,28
 19740318,118,Frantisek Pala,P100,28
@@ -2878,7 +2877,7 @@ date,rank,name,id,points
 19740318,175,William Higgins,H129,11
 19740318,175,Felix Ponte,P179,11
 19740318,175,David Lloyd,L083,11
-19740318,181,Kiyoski Tanabe,NA,10
+19740318,181,Kiyoski Tanabe,,10
 19740318,181,Jun Kuki,K054,10
 19740318,181,Jean-Francois Caujolle,C082,10
 19740318,181,Humphrey Hose,H064,10
@@ -2965,10 +2964,10 @@ date,rank,name,id,points
 19740318,249,Keith A Carpenter,C176,2
 19740318,249,Pietro Marzano,M224,2
 19740318,249,Nicolas Kelaidis,K046,2
-19740318,249,Jairo Velasco Sr,NA,2
+19740318,249,Jairo Velasco Sr,,2
 19740318,249,Juan Ignacio Muntanola,M157,2
 19740318,249,Jose Guerrero,G183,2
-19740318,271,Teimuraz Kakoulia,NA,1
+19740318,271,Teimuraz Kakoulia,,1
 19740318,271,Hans-Joachim Ploetz,P081,1
 19740318,271,Michael Phillips,P180,1
 19740318,271,Max Senior,S249,1
@@ -3101,12 +3100,12 @@ date,rank,name,id,points
 19740325,111,Byron Bertram,B130,30
 19740325,111,John Paish,P142,30
 19740325,113,Jim McManus,M144,78
-19740325,113,Fred McNair,NA,39
+19740325,113,Fred McNair IV,,39
 19740325,115,Dick Dell,D073,36
 19740325,115,Jasjit Singh,S142,36
 19740325,117,Tom Leonard,L061,38
 19740325,118,Marcelo Lara,L057,49
-19740325,118,Thomas Koch,NA,28
+19740325,118,Thomaz Koch,,28
 19740325,118,Butch Seewagen,S139,28
 19740325,118,Paul Kronk,K073,28
 19740325,122,Anand Amritraj,A021,41
@@ -3168,7 +3167,7 @@ date,rank,name,id,points
 19740325,175,William Higgins,H129,11
 19740325,175,Felix Ponte,P179,11
 19740325,175,David Lloyd,L083,11
-19740325,181,Kiyoski Tanabe,NA,10
+19740325,181,Kiyoski Tanabe,,10
 19740325,181,Jun Kuki,K054,10
 19740325,181,Jean-Francois Caujolle,C082,10
 19740325,181,Humphrey Hose,H064,10
@@ -3255,10 +3254,10 @@ date,rank,name,id,points
 19740325,249,Keith A Carpenter,C176,2
 19740325,249,Pietro Marzano,M224,2
 19740325,249,Nicolas Kelaidis,K046,2
-19740325,249,Jairo Velasco Sr,NA,2
+19740325,249,Jairo Velasco Sr,,2
 19740325,249,Juan Ignacio Muntanola,M157,2
 19740325,249,Jose Guerrero,G183,2
-19740325,271,Teimuraz Kakoulia,NA,1
+19740325,271,Teimuraz Kakoulia,,1
 19740325,271,Hans-Joachim Ploetz,P081,1
 19740325,271,Michael Phillips,P180,1
 19740325,271,Max Senior,S249,1
@@ -3391,12 +3390,12 @@ date,rank,name,id,points
 19740401,111,Byron Bertram,B130,30
 19740401,111,John Paish,P142,30
 19740401,113,Frank Froehling,F079,57
-19740401,114,Fred McNair,NA,39
+19740401,114,Fred McNair IV,,39
 19740401,115,Marcelo Lara,L057,48
 19740401,115,Dick Dell,D073,36
 19740401,115,Jasjit Singh,S142,36
 19740401,118,Tom Leonard,L061,38
-19740401,119,Thomas Koch,NA,28
+19740401,119,Thomaz Koch,,28
 19740401,119,Butch Seewagen,S139,28
 19740401,119,Paul Kronk,K073,28
 19740401,122,Tom Edlefsen,E035,51
@@ -3456,7 +3455,7 @@ date,rank,name,id,points
 19740401,172,William Higgins,H129,11
 19740401,172,Felix Ponte,P179,11
 19740401,172,Nicholas Kalogeropoulos,K045,11
-19740401,179,Kiyoski Tanabe,NA,10
+19740401,179,Kiyoski Tanabe,,10
 19740401,179,Jun Kuki,K054,10
 19740401,179,Szabolcz Baranyi,B233,10
 19740401,179,Istvan Gulyas,G151,10
@@ -3553,8 +3552,8 @@ date,rank,name,id,points
 19740401,250,Nicolas Kelaidis,K046,2
 19740401,250,Juan Ignacio Muntanola,M157,2
 19740401,250,Jose Guerrero,G183,2
-19740401,250,Jairo Velasco Sr,NA,2
-19740401,277,Teimuraz Kakoulia,NA,1
+19740401,250,Jairo Velasco Sr,,2
+19740401,277,Teimuraz Kakoulia,,1
 19740401,277,Hans-Joachim Ploetz,P081,1
 19740401,277,Michael Phillips,P180,1
 19740401,277,Max Senior,S249,1
@@ -3691,11 +3690,11 @@ date,rank,name,id,points
 19740408,115,Marcelo Lara,L057,47
 19740408,116,Tom Leonard,L061,37
 19740408,117,Jim McManus,M144,78
-19740408,117,Fred McNair,NA,39
+19740408,117,Fred McNair IV,,39
 19740408,119,Dick Dell,D073,36
 19740408,119,Jasjit Singh,S142,36
 19740408,121,Tom Edlefsen,E035,50
-19740408,122,Thomas Koch,NA,28
+19740408,122,Thomaz Koch,,28
 19740408,122,Butch Seewagen,S139,28
 19740408,122,Paul Kronk,K073,28
 19740408,125,Anand Amritraj,A021,41
@@ -3749,7 +3748,7 @@ date,rank,name,id,points
 19740408,171,Jean-Louis Haillet,H041,11
 19740408,171,William Higgins,H129,11
 19740408,171,Felix Ponte,P179,11
-19740408,176,Kiyoski Tanabe,NA,10
+19740408,176,Kiyoski Tanabe,,10
 19740408,176,Jun Kuki,K054,10
 19740408,176,Jean-Francois Caujolle,C082,10
 19740408,176,Humphrey Hose,H064,10
@@ -3852,8 +3851,8 @@ date,rank,name,id,points
 19740408,252,Jose Guerrero,G183,2
 19740408,252,Rayno Seegers,S138,2
 19740408,252,Juan Ignacio Muntanola,M157,2
-19740408,252,Jairo Velasco Sr,NA,2
-19740408,280,Teimuraz Kakoulia,NA,1
+19740408,252,Jairo Velasco Sr,,2
+19740408,280,Teimuraz Kakoulia,,1
 19740408,280,Hans-Joachim Ploetz,P081,1
 19740408,280,Michael Phillips,P180,1
 19740408,280,Max Senior,S249,1
@@ -3994,8 +3993,8 @@ date,rank,name,id,points
 19740415,118,John Paish,P142,29
 19740415,120,Jasjit Singh,S142,36
 19740415,121,Dick Dell,D073,38
-19740415,122,Fred McNair,NA,40
-19740415,123,Thomas Koch,NA,28
+19740415,122,Fred McNair IV,,40
+19740415,123,Thomaz Koch,,28
 19740415,123,Butch Seewagen,S139,28
 19740415,123,Paul Kronk,K073,28
 19740415,126,Kim Warwick,W006,46
@@ -4048,7 +4047,7 @@ date,rank,name,id,points
 19740415,169,Jean-Louis Haillet,H041,11
 19740415,169,William Higgins,H129,11
 19740415,169,Felix Ponte,P179,11
-19740415,176,Kiyoski Tanabe,NA,10
+19740415,176,Kiyoski Tanabe,,10
 19740415,176,Humphrey Hose,H064,10
 19740415,176,Rolf Norberg,N048,10
 19740415,176,Nicholas Kalogeropoulos,K045,10
@@ -4155,8 +4154,8 @@ date,rank,name,id,points
 19740415,253,Jose Guerrero,G183,2
 19740415,253,Rayno Seegers,S138,2
 19740415,253,Juan Ignacio Muntanola,M157,2
-19740415,253,Jairo Velasco Sr,NA,2
-19740415,284,Teimuraz Kakoulia,NA,1
+19740415,253,Jairo Velasco Sr,,2
+19740415,284,Teimuraz Kakoulia,,1
 19740415,284,Hans-Joachim Ploetz,P081,1
 19740415,284,Michael Phillips,P180,1
 19740415,284,Max Senior,S249,1
@@ -4298,8 +4297,8 @@ date,rank,name,id,points
 19740422,120,Jasjit Singh,S142,36
 19740422,121,Kim Warwick,W006,45
 19740422,122,Dick Dell,D073,40
-19740422,122,Fred McNair,NA,40
-19740422,124,Thomas Koch,NA,28
+19740422,122,Fred McNair IV,,40
+19740422,124,Thomaz Koch,,28
 19740422,124,Butch Seewagen,S139,28
 19740422,124,Paul Kronk,K073,28
 19740422,124,John Feaver,F008,28
@@ -4355,7 +4354,7 @@ date,rank,name,id,points
 19740422,171,William Higgins,H129,11
 19740422,171,Felix Ponte,P179,11
 19740422,179,Patricio Rodriguez,R074,10
-19740422,179,Kiyoski Tanabe,NA,10
+19740422,179,Kiyoski Tanabe,,10
 19740422,179,Humphrey Hose,H064,10
 19740422,179,Rolf Norberg,N048,10
 19740422,179,Nicholas Kalogeropoulos,K045,10
@@ -4469,8 +4468,8 @@ date,rank,name,id,points
 19740422,255,Rayno Seegers,S138,2
 19740422,255,Juan Ignacio Muntanola,M157,2
 19740422,255,John Fort,F073,2
-19740422,255,Jairo Velasco Sr,NA,2
-19740422,295,Teimuraz Kakoulia,NA,1
+19740422,255,Jairo Velasco Sr,,2
+19740422,295,Teimuraz Kakoulia,,1
 19740422,295,Hans-Joachim Ploetz,P081,1
 19740422,295,Michael Phillips,P180,1
 19740422,295,Max Senior,S249,1
@@ -4610,9 +4609,9 @@ date,rank,name,id,points
 19740429,118,Byron Bertram,B130,29
 19740429,118,John Paish,P142,29
 19740429,120,Tom Edlefsen,E035,50
-19740429,121,Fred McNair,NA,40
+19740429,121,Fred McNair IV,,40
 19740429,122,Dick Dell,D073,42
-19740429,122,Thomas Koch,NA,28
+19740429,122,Thomaz Koch,,28
 19740429,122,Billy Martin,M138,28
 19740429,122,Butch Seewagen,S139,28
 19740429,122,Paul Kronk,K073,28
@@ -4665,7 +4664,7 @@ date,rank,name,id,points
 19740429,169,Jun Kuki,K054,11
 19740429,169,William Higgins,H129,11
 19740429,169,Felix Ponte,P179,11
-19740429,176,Kiyoski Tanabe,NA,10
+19740429,176,Kiyoski Tanabe,,10
 19740429,176,Humphrey Hose,H064,10
 19740429,176,Jean-Louis Haillet,H041,10
 19740429,176,Rolf Norberg,N048,10
@@ -4787,8 +4786,8 @@ date,rank,name,id,points
 19740429,255,Nicolas Kelaidis,K046,2
 19740429,255,Rayno Seegers,S138,2
 19740429,255,John Fort,F073,2
-19740429,255,Jairo Velasco Sr,NA,2
-19740429,299,Teimuraz Kakoulia,NA,1
+19740429,255,Jairo Velasco Sr,,2
+19740429,299,Teimuraz Kakoulia,,1
 19740429,299,Hans-Joachim Ploetz,P081,1
 19740429,299,Michael Phillips,P180,1
 19740429,299,Max Senior,S249,1
@@ -4930,8 +4929,8 @@ date,rank,name,id,points
 19740506,119,Byron Bertram,B130,29
 19740506,119,John Paish,P142,29
 19740506,121,Tom Edlefsen,E035,50
-19740506,122,Fred McNair,NA,40
-19740506,123,Thomas Koch,NA,28
+19740506,122,Fred McNair IV,,40
+19740506,123,Thomaz Koch,,28
 19740506,123,Billy Martin,M138,28
 19740506,123,Butch Seewagen,S139,28
 19740506,126,Anand Amritraj,A021,41
@@ -4984,7 +4983,7 @@ date,rank,name,id,points
 19740506,168,Jun Kuki,K054,11
 19740506,168,William Higgins,H129,11
 19740506,168,Felix Ponte,P179,11
-19740506,176,Kiyoski Tanabe,NA,10
+19740506,176,Kiyoski Tanabe,,10
 19740506,176,Humphrey Hose,H064,10
 19740506,176,Rolf Norberg,N048,10
 19740506,176,Nicholas Kalogeropoulos,K045,10
@@ -5108,8 +5107,8 @@ date,rank,name,id,points
 19740506,255,Nicolas Kelaidis,K046,2
 19740506,255,Rayno Seegers,S138,2
 19740506,255,John Fort,F073,2
-19740506,255,Jairo Velasco Sr,NA,2
-19740506,301,Teimuraz Kakoulia,NA,1
+19740506,255,Jairo Velasco Sr,,2
+19740506,301,Teimuraz Kakoulia,,1
 19740506,301,Hans-Joachim Ploetz,P081,1
 19740506,301,Michael Phillips,P180,1
 19740506,301,Max Senior,S249,1
@@ -5249,8 +5248,8 @@ date,rank,name,id,points
 19740513,116,Kim Warwick,W006,44
 19740513,117,Bob Carmichael,C080,80
 19740513,118,Tom Edlefsen,E035,50
-19740513,119,Fred McNair,NA,40
-19740513,120,Thomas Koch,NA,28
+19740513,119,Fred McNair IV,,40
+19740513,120,Thomaz Koch,,28
 19740513,120,Byron Bertram,B130,28
 19740513,120,Francois Jauffret,J031,28
 19740513,120,Billy Martin,M138,28
@@ -5306,7 +5305,7 @@ date,rank,name,id,points
 19740513,167,William Higgins,H129,11
 19740513,167,Felix Ponte,P179,11
 19740513,175,Colin Dowdeswell,D037,10
-19740513,175,Kiyoski Tanabe,NA,10
+19740513,175,Kiyoski Tanabe,,10
 19740513,175,Humphrey Hose,H064,10
 19740513,175,Jean-Louis Haillet,H041,10
 19740513,175,Rolf Norberg,N048,10
@@ -5432,8 +5431,8 @@ date,rank,name,id,points
 19740513,257,Rayno Seegers,S138,2
 19740513,257,John Fort,F073,2
 19740513,257,Eric Deblicker,D063,2
-19740513,257,Jairo Velasco Sr,NA,2
-19740513,303,Teimuraz Kakoulia,NA,1
+19740513,257,Jairo Velasco Sr,,2
+19740513,303,Teimuraz Kakoulia,,1
 19740513,303,Hans-Joachim Ploetz,P081,1
 19740513,303,Michael Phillips,P180,1
 19740513,303,Max Senior,S249,1
@@ -5577,8 +5576,8 @@ date,rank,name,id,points
 19740520,117,Tom Edlefsen,E035,49
 19740520,118,Kim Warwick,W006,44
 19740520,119,Bob Carmichael,C080,80
-19740520,120,Fred McNair,NA,40
-19740520,121,Thomas Koch,NA,28
+19740520,120,Fred McNair IV,,40
+19740520,121,Thomaz Koch,,28
 19740520,121,Byron Bertram,B130,28
 19740520,121,Billy Martin,M138,28
 19740520,121,Butch Seewagen,S139,28
@@ -5634,7 +5633,7 @@ date,rank,name,id,points
 19740520,166,Felix Ponte,P179,11
 19740520,175,Colin Dowdeswell,D037,10
 19740520,175,Ulrich Pinner,P034,10
-19740520,175,Kiyoski Tanabe,NA,10
+19740520,175,Kiyoski Tanabe,,10
 19740520,175,Humphrey Hose,H064,10
 19740520,175,Jean-Louis Haillet,H041,10
 19740520,175,Rolf Norberg,N048,10
@@ -5760,8 +5759,8 @@ date,rank,name,id,points
 19740520,257,Rayno Seegers,S138,2
 19740520,257,John Fort,F073,2
 19740520,257,Eric Deblicker,D063,2
-19740520,257,Jairo Velasco Sr,NA,2
-19740520,304,Teimuraz Kakoulia,NA,1
+19740520,257,Jairo Velasco Sr,,2
+19740520,304,Teimuraz Kakoulia,,1
 19740520,304,Michael Phillips,P180,1
 19740520,304,Max Senior,S249,1
 19740520,304,William Coghlan,C228,1
@@ -5906,12 +5905,12 @@ date,rank,name,id,points
 19740527,119,Kim Warwick,W006,44
 19740527,120,Bob Carmichael,C080,80
 19740527,121,Dick Dell,D073,48
-19740527,122,Thomas Koch,NA,28
+19740527,122,Thomaz Koch,,28
 19740527,122,Byron Bertram,B130,28
 19740527,122,Billy Martin,M138,28
 19740527,122,Butch Seewagen,S139,28
 19740527,126,Anand Amritraj,A021,41
-19740527,126,Fred McNair,NA,41
+19740527,126,Fred McNair IV,,41
 19740527,128,Charles Owens,O033,27
 19740527,129,Torben Ulrich,U011,47
 19740527,130,Jun Kamiwazumi,K002,51
@@ -5950,7 +5949,7 @@ date,rank,name,id,points
 19740527,162,Ray Keldie,K047,14
 19740527,162,Jean-Louis Haillet,H041,14
 19740527,162,Robert McKinley,M293,14
-19740527,166,Jairo Velasco Sr,NA,13
+19740527,166,Jairo Velasco Sr,,13
 19740527,166,Birger Andersson,A086,13
 19740527,166,Jun Kuki,K054,13
 19740527,169,Bernard Mitton,M072,12
@@ -5966,7 +5965,7 @@ date,rank,name,id,points
 19740527,179,Colin Dowdeswell,D037,10
 19740527,179,Keith Hancock,H136,10
 19740527,179,Frank Gebert,G071,10
-19740527,179,Kiyoski Tanabe,NA,10
+19740527,179,Kiyoski Tanabe,,10
 19740527,179,Humphrey Hose,H064,10
 19740527,179,Rolf Norberg,N048,10
 19740527,185,Mike Machette,M132,9
@@ -6091,7 +6090,7 @@ date,rank,name,id,points
 19740527,261,John Fort,F073,2
 19740527,261,Eric Deblicker,D063,2
 19740527,261,Anthony Fawcett,F100,2
-19740527,307,Teimuraz Kakoulia,NA,1
+19740527,307,Teimuraz Kakoulia,,1
 19740527,307,Michael Phillips,P180,1
 19740527,307,Max Senior,S249,1
 19740527,307,William Coghlan,C228,1
@@ -6236,14 +6235,14 @@ date,rank,name,id,points
 19740603,116,Steve Krulevitz,K053,30
 19740603,117,John Lloyd,L036,37
 19740603,118,Wanaro N'Godrella,N045,39
-19740603,119,Thomas Koch,NA,29
+19740603,119,Thomaz Koch,,29
 19740603,120,Dick Dell,D073,48
 19740603,121,Anand Amritraj,A021,40
 19740603,122,Byron Bertram,B130,28
 19740603,122,Billy Martin,M138,28
 19740603,122,Butch Seewagen,S139,28
 19740603,125,Frank Froehling,F079,44
-19740603,126,Fred McNair,NA,41
+19740603,126,Fred McNair IV,,41
 19740603,127,Charles Owens,O033,27
 19740603,128,Jun Kamiwazumi,K002,47
 19740603,129,Tom Leonard,L061,31
@@ -6279,7 +6278,7 @@ date,rank,name,id,points
 19740603,159,Bernard Mignot,M151,14
 19740603,159,Ray Keldie,K047,14
 19740603,159,Robert McKinley,M293,14
-19740603,162,Jairo Velasco Sr,NA,13
+19740603,162,Jairo Velasco Sr,,13
 19740603,162,Vincenzo Franchitti,F103,13
 19740603,162,Birger Andersson,A086,13
 19740603,162,Jun Kuki,K054,13
@@ -6296,7 +6295,7 @@ date,rank,name,id,points
 19740603,175,Keith Hancock,H136,10
 19740603,175,Frank Gebert,G071,10
 19740603,175,Frantisek Pala,P100,10
-19740603,175,Kiyoski Tanabe,NA,10
+19740603,175,Kiyoski Tanabe,,10
 19740603,175,Joaquin Loyo-Mayo,L066,10
 19740603,175,Jan Kukal,K099,10
 19740603,175,Humphrey Hose,H064,10
@@ -6418,7 +6417,7 @@ date,rank,name,id,points
 19740603,255,Rayno Seegers,S138,2
 19740603,255,John Fort,F073,2
 19740603,255,Anthony Fawcett,F100,2
-19740603,255,Victor Pecci Sr.,NA,2
+19740603,255,Victor Pecci,,2
 19740603,255,Dimitru Haradau,H006,2
 19740603,303,Shamil Tarpischev,T035,1
 19740603,303,Patrick Hombergen,H127,1
@@ -6449,11 +6448,6 @@ date,rank,name,id,points
 19740603,303,Harald Neuner,N074,1
 19740603,303,Max Wunschig,W058,1
 19740603,303,Francisco Mastelli,M121,1
-19740603,0,Jean-Loup Rouyer,R141,0
-19740603,0,Vittorio Crotta,C123,0
-19740603,0,Eugenio Castigliano,C173,0
-19740603,0,Giuseppe Merlo,M276,0
-19740603,0,Teimuraz Kakoulia,NA,0
 19740610,1,John Newcombe,N044,861
 19740610,2,Jimmy Connors,C044,522
 19740610,3,Tom Okker,O032,836
@@ -6571,14 +6565,14 @@ date,rank,name,id,points
 19740610,114,Paul Kronk,K073,30
 19740610,116,John Lloyd,L036,37
 19740610,117,Wanaro N'Godrella,N045,39
-19740610,118,Thomas Koch,NA,29
+19740610,118,Thomaz Koch,,29
 19740610,118,Jose Edison Mandarino,M135,29
 19740610,120,Dick Dell,D073,48
 19740610,121,Anand Amritraj,A021,40
 19740610,122,Byron Bertram,B130,28
 19740610,122,Billy Martin,M138,28
 19740610,124,Frank Froehling,F079,44
-19740610,125,Fred McNair,NA,41
+19740610,125,Fred McNair IV,,41
 19740610,126,Charles Owens,O033,27
 19740610,127,Jun Kamiwazumi,K002,47
 19740610,128,Tom Leonard,L061,31
@@ -6613,7 +6607,7 @@ date,rank,name,id,points
 19740610,157,Ray Keldie,K047,14
 19740610,157,Nicola Spear,S146,14
 19740610,157,Robert McKinley,M293,14
-19740610,160,Jairo Velasco Sr,NA,13
+19740610,160,Jairo Velasco Sr,,13
 19740610,160,Vincenzo Franchitti,F103,13
 19740610,160,Birger Andersson,A086,13
 19740610,160,Jun Kuki,K054,13
@@ -6630,7 +6624,7 @@ date,rank,name,id,points
 19740610,173,Keith Hancock,H136,10
 19740610,173,Ulrich Pinner,P034,10
 19740610,173,Frantisek Pala,P100,10
-19740610,173,Kiyoski Tanabe,NA,10
+19740610,173,Kiyoski Tanabe,,10
 19740610,173,Jan Kukal,K099,10
 19740610,173,Humphrey Hose,H064,10
 19740610,173,Robert Machan,M194,10
@@ -6753,7 +6747,7 @@ date,rank,name,id,points
 19740610,254,Rayno Seegers,S138,2
 19740610,254,John Fort,F073,2
 19740610,254,Anthony Fawcett,F100,2
-19740610,254,Victor Pecci Sr.,NA,2
+19740610,254,Victor Pecci,,2
 19740610,254,Dimitru Haradau,H006,2
 19740610,302,Shamil Tarpischev,T035,1
 19740610,302,Michael Phillips,P180,1
@@ -6783,8 +6777,6 @@ date,rank,name,id,points
 19740610,302,Harald Neuner,N074,1
 19740610,302,Max Wunschig,W058,1
 19740610,302,Francisco Mastelli,M121,1
-19740610,0,Frank Falderbaum,F132,0
-19740610,0,Patrick Hombergen,H127,0
 19740617,1,John Newcombe,N044,854
 19740617,2,Jimmy Connors,C044,492
 19740617,3,Tom Okker,O032,836
@@ -6864,7 +6856,7 @@ date,rank,name,id,points
 19740617,76,Owen Davidson,D054,68
 19740617,78,Colin Dibley,D076,117
 19740617,79,Ian Fletcher,F071,83
-19740617,80,Thomas Koch,NA,48
+19740617,80,Thomaz Koch,,48
 19740617,81,Gerald Battrick,B124,119
 19740617,82,Patricio Cornejo,C088,83
 19740617,83,Jeff Austin,A065,47
@@ -6904,7 +6896,7 @@ date,rank,name,id,points
 19740617,117,Dick Dell,D073,49
 19740617,117,Byron Bertram,B130,28
 19740617,117,Billy Martin,M138,28
-19740617,120,Fred McNair,NA,44
+19740617,120,Fred McNair IV,,44
 19740617,121,Tom Leonard,L061,30
 19740617,122,Anand Amritraj,A021,41
 19740617,123,Torben Ulrich,U011,43
@@ -6939,7 +6931,7 @@ date,rank,name,id,points
 19740617,150,Steve Faulk,F069,17
 19740617,150,William Lloyd,L064,17
 19740617,154,Jun Kuki,K054,16
-19740617,155,Jairo Velasco Sr,NA,14
+19740617,155,Jairo Velasco Sr,,14
 19740617,155,Vincenzo Franchitti,F103,14
 19740617,155,D. Richard Russell,R077,14
 19740617,155,Ray Keldie,K047,14
@@ -6961,7 +6953,7 @@ date,rank,name,id,points
 19740617,174,Ulrich Pinner,P034,10
 19740617,174,John Cooper,C171,10
 19740617,174,Frantisek Pala,P100,10
-19740617,174,Kiyoski Tanabe,NA,10
+19740617,174,Kiyoski Tanabe,,10
 19740617,174,Humphrey Hose,H064,10
 19740617,174,Rolf Norberg,N048,10
 19740617,180,Petr Kanderal,K113,9
@@ -7019,7 +7011,7 @@ date,rank,name,id,points
 19740617,221,Jose A. Moreno,M088,4
 19740617,221,Nicholas Kalogeropoulos,K045,4
 19740617,221,Jean Lovera,L139,4
-19740617,221,Victor Pecci Sr.,NA,4
+19740617,221,Victor Pecci,,4
 19740617,236,Premjit Lall,L117,3
 19740617,236,Rudolf Hoskowetz,H183,3
 19740617,236,Bertalan Csoknyai,C227,3
@@ -7042,7 +7034,7 @@ date,rank,name,id,points
 19740617,236,Ramiro Benavides,B034,3
 19740617,236,Jorge Andrew,A061,3
 19740617,236,Piero Toci,T086,3
-19740617,236,Teimuraz Kakoulia,NA,3
+19740617,236,Teimuraz Kakoulia,,3
 19740617,236,Jean-Claude Barclay,B119,3
 19740617,260,Frank Gebert,G071,2
 19740617,260,Robert Casey,C100,2
@@ -7124,9 +7116,6 @@ date,rank,name,id,points
 19740617,310,Michel Leclercq,L123,1
 19740617,310,Daniel Contet,C170,1
 19740617,310,Patrice Hagelauer,H101,1
-19740617,0,Hans Engert,E063,0
-19740617,0,Istvan Gulyas,G151,0
-19740617,0,Wilhelm Bungert,B237,0
 19740624,1,John Newcombe,N044,849
 19740624,2,Jimmy Connors,C044,507
 19740624,3,Tom Okker,O032,833
@@ -7205,7 +7194,7 @@ date,rank,name,id,points
 19740624,76,Ian Fletcher,F071,78
 19740624,77,Antonio Zugarelli,Z013,86
 19740624,78,Gerald Battrick,B124,118
-19740624,79,Thomas Koch,NA,48
+19740624,79,Thomaz Koch,,48
 19740624,80,Barry Phillips-Moore,P078,131
 19740624,81,Patrice Dominguez,D080,91
 19740624,82,Ismail El Shafei,E038,87
@@ -7247,7 +7236,7 @@ date,rank,name,id,points
 19740624,118,Dick Dell,D073,49
 19740624,118,Byron Bertram,B130,28
 19740624,118,Billy Martin,M138,28
-19740624,121,Fred McNair,NA,44
+19740624,121,Fred McNair IV,,44
 19740624,122,John Lloyd,L036,37
 19740624,123,Tom Leonard,L061,30
 19740624,124,Torben Ulrich,U011,43
@@ -7281,7 +7270,7 @@ date,rank,name,id,points
 19740624,152,Andres Gimeno,G075,16
 19740624,152,Martin Mulligan,M155,16
 19740624,152,Jun Kuki,K054,16
-19740624,155,Jairo Velasco Sr,NA,14
+19740624,155,Jairo Velasco Sr,,14
 19740624,155,Vincenzo Franchitti,F103,14
 19740624,155,D. Richard Russell,R077,14
 19740624,155,Robert McKinley,M293,14
@@ -7302,7 +7291,7 @@ date,rank,name,id,points
 19740624,166,Felix Ponte,P179,11
 19740624,174,Ulrich Pinner,P034,10
 19740624,174,Frantisek Pala,P100,10
-19740624,174,Kiyoski Tanabe,NA,10
+19740624,174,Kiyoski Tanabe,,10
 19740624,174,Mark Farrell,F067,10
 19740624,174,Humphrey Hose,H064,10
 19740624,174,Rolf Norberg,N048,10
@@ -7359,7 +7348,7 @@ date,rank,name,id,points
 19740624,222,Tadeusz Nowicki,N082,4
 19740624,222,Jose A. Moreno,M088,4
 19740624,222,Jean Lovera,L139,4
-19740624,222,Victor Pecci Sr.,NA,4
+19740624,222,Victor Pecci,,4
 19740624,234,Premjit Lall,L117,3
 19740624,234,Rudolf Hoskowetz,H183,3
 19740624,234,Bertalan Csoknyai,C227,3
@@ -7383,7 +7372,7 @@ date,rank,name,id,points
 19740624,234,Jorge Andrew,A061,3
 19740624,234,Nicholas Kalogeropoulos,K045,3
 19740624,234,Piero Toci,T086,3
-19740624,234,Teimuraz Kakoulia,NA,3
+19740624,234,Teimuraz Kakoulia,,3
 19740624,234,Jean-Claude Barclay,B119,3
 19740624,259,Frank Gebert,G071,2
 19740624,259,Robert Casey,C100,2
@@ -7544,7 +7533,7 @@ date,rank,name,id,points
 19740701,76,Ian Fletcher,F071,78
 19740701,77,Antonio Zugarelli,Z013,86
 19740701,78,Gerald Battrick,B124,118
-19740701,79,Thomas Koch,NA,48
+19740701,79,Thomaz Koch,,48
 19740701,80,Barry Phillips-Moore,P078,131
 19740701,81,Patrice Dominguez,D080,91
 19740701,82,Ismail El Shafei,E038,87
@@ -7586,7 +7575,7 @@ date,rank,name,id,points
 19740701,118,Dick Dell,D073,49
 19740701,118,Byron Bertram,B130,28
 19740701,118,Billy Martin,M138,28
-19740701,121,Fred McNair,NA,44
+19740701,121,Fred McNair IV,,44
 19740701,122,John Lloyd,L036,37
 19740701,123,Tom Leonard,L061,30
 19740701,124,Torben Ulrich,U011,43
@@ -7620,7 +7609,7 @@ date,rank,name,id,points
 19740701,152,Andres Gimeno,G075,16
 19740701,152,Martin Mulligan,M155,16
 19740701,152,Jun Kuki,K054,16
-19740701,155,Jairo Velasco Sr,NA,14
+19740701,155,Jairo Velasco Sr,,14
 19740701,155,Vincenzo Franchitti,F103,14
 19740701,155,D. Richard Russell,R077,14
 19740701,155,Robert McKinley,M293,14
@@ -7641,7 +7630,7 @@ date,rank,name,id,points
 19740701,166,Felix Ponte,P179,11
 19740701,174,Ulrich Pinner,P034,10
 19740701,174,Frantisek Pala,P100,10
-19740701,174,Kiyoski Tanabe,NA,10
+19740701,174,Kiyoski Tanabe,,10
 19740701,174,Mark Farrell,F067,10
 19740701,174,Humphrey Hose,H064,10
 19740701,174,Rolf Norberg,N048,10
@@ -7698,7 +7687,7 @@ date,rank,name,id,points
 19740701,222,Tadeusz Nowicki,N082,4
 19740701,222,Jose A. Moreno,M088,4
 19740701,222,Jean Lovera,L139,4
-19740701,222,Victor Pecci Sr.,NA,4
+19740701,222,Victor Pecci,,4
 19740701,234,Premjit Lall,L117,3
 19740701,234,Rudolf Hoskowetz,H183,3
 19740701,234,Bertalan Csoknyai,C227,3
@@ -7722,7 +7711,7 @@ date,rank,name,id,points
 19740701,234,Jorge Andrew,A061,3
 19740701,234,Nicholas Kalogeropoulos,K045,3
 19740701,234,Piero Toci,T086,3
-19740701,234,Teimuraz Kakoulia,NA,3
+19740701,234,Teimuraz Kakoulia,,3
 19740701,234,Jean-Claude Barclay,B119,3
 19740701,259,Frank Gebert,G071,2
 19740701,259,Robert Casey,C100,2
@@ -7882,7 +7871,7 @@ date,rank,name,id,points
 19740708,74,Fred Stolle,S129,52
 19740708,76,Robert Maud,M140,60
 19740708,77,Ian Fletcher,F071,85
-19740708,77,Thomas Koch,NA,51
+19740708,77,Thomaz Koch,,51
 19740708,79,Sandy Mayer,M039,49
 19740708,80,Gerald Battrick,B124,121
 19740708,81,Colin Dibley,D076,116
@@ -7924,7 +7913,7 @@ date,rank,name,id,points
 19740708,116,Tenny Svensson,S149,29
 19740708,118,Byron Bertram,B130,28
 19740708,119,Dick Dell,D073,51
-19740708,120,Fred McNair,NA,44
+19740708,120,Fred McNair IV,,44
 19740708,121,Wanaro N'Godrella,N045,37
 19740708,122,Tom Leonard,L061,30
 19740708,123,Anand Amritraj,A021,41
@@ -7961,7 +7950,7 @@ date,rank,name,id,points
 19740708,153,Martin Mulligan,M155,16
 19740708,153,Jun Kuki,K054,16
 19740708,156,Bernard Mitton,M072,14
-19740708,156,Jairo Velasco Sr,NA,14
+19740708,156,Jairo Velasco Sr,,14
 19740708,156,Vincenzo Franchitti,F103,14
 19740708,156,D. Richard Russell,R077,14
 19740708,156,Robert McKinley,M293,14
@@ -7984,7 +7973,7 @@ date,rank,name,id,points
 19740708,170,Mark Farrell,F067,11
 19740708,170,William Higgins,H129,11
 19740708,170,Felix Ponte,P179,11
-19740708,180,Kiyoski Tanabe,NA,10
+19740708,180,Kiyoski Tanabe,,10
 19740708,180,Humphrey Hose,H064,10
 19740708,180,Rolf Norberg,N048,10
 19740708,183,Mike Machette,M132,9
@@ -8016,7 +8005,7 @@ date,rank,name,id,points
 19740708,200,Szabolcz Baranyi,B233,6
 19740708,200,Doug Crawford,C053,6
 19740708,200,Armistead Neely,N043,6
-19740708,200,Teimuraz Kakoulia,NA,6
+19740708,200,Teimuraz Kakoulia,,6
 19740708,213,Terry Addison,A056,5
 19740708,213,John Whitlinger,W051,5
 19740708,213,Mohammad Hossein Akbari,A122,5
@@ -8041,7 +8030,7 @@ date,rank,name,id,points
 19740708,227,Jose A. Moreno,M088,4
 19740708,227,Rayno Seegers,S138,4
 19740708,227,Jean Lovera,L139,4
-19740708,227,Victor Pecci Sr.,NA,4
+19740708,227,Victor Pecci,,4
 19740708,238,Premjit Lall,L117,3
 19740708,238,Rudolf Hoskowetz,H183,3
 19740708,238,Bertalan Csoknyai,C227,3
@@ -8210,7 +8199,7 @@ date,rank,name,id,points
 19740715,64,Julian Ganzabal,G068,57
 19740715,64,Hans Kary,K041,57
 19740715,66,Patrice Dominguez,D080,112
-19740715,66,Thomas Koch,NA,56
+19740715,66,Thomaz Koch,,56
 19740715,68,Dick Crealy,C093,146
 19740715,69,Georges Goven,G031,131
 19740715,70,Ion Tiriac,T040,108
@@ -8266,7 +8255,7 @@ date,rank,name,id,points
 19740715,119,Jasjit Singh,S142,30
 19740715,121,Anand Amritraj,A021,41
 19740715,122,Torben Ulrich,U011,43
-19740715,123,Fred McNair,NA,45
+19740715,123,Fred McNair IV,,45
 19740715,123,Attila Korpas,K090,27
 19740715,123,Dick R. Bohrnstedt,B238,27
 19740715,126,Colin Dowdeswell,D037,26
@@ -8291,7 +8280,7 @@ date,rank,name,id,points
 19740715,145,Brian Teacher,T011,20
 19740715,146,Terry Ryan,R078,21
 19740715,147,Gene Scott,S210,19
-19740715,147,Jairo Velasco Sr,NA,19
+19740715,147,Jairo Velasco Sr,,19
 19740715,147,Peter Szoke,S230,19
 19740715,150,Dennis Ralston,R064,18
 19740715,150,Jun Kuki,K054,18
@@ -8327,10 +8316,10 @@ date,rank,name,id,points
 19740715,172,Felix Ponte,P179,11
 19740715,182,Tadeusz Nowicki,N082,10
 19740715,182,Humphrey Hose,H064,10
-19740715,182,Jan-Eric Lundquist,NA,10
+19740715,182,Jan-Erik Lundqvist,,10
 19740715,185,Jorge Andrew,A061,9
 19740715,185,Mike Machette,M132,9
-19740715,185,Kiyoski Tanabe,NA,9
+19740715,185,Kiyoski Tanabe,,9
 19740715,185,Eric Deblicker,D063,9
 19740715,185,Belus Prajoux,P046,9
 19740715,190,Jacques Thamin,T099,8
@@ -8356,8 +8345,8 @@ date,rank,name,id,points
 19740715,202,Armistead Neely,N043,6
 19740715,202,Douglas Palm,P150,6
 19740715,202,Derek Schroder,S243,6
-19740715,202,Teimuraz Kakoulia,NA,6
-19740715,202,Victor Pecci Sr.,NA,6
+19740715,202,Teimuraz Kakoulia,,6
+19740715,202,Victor Pecci,,6
 19740715,215,Terry Addison,A056,5
 19740715,215,John Whitlinger,W051,5
 19740715,215,Mohammad Hossein Akbari,A122,5
@@ -8491,16 +8480,16 @@ date,rank,name,id,points
 19740715,315,Patrice Hagelauer,H101,1
 19740715,315,Goran Berglund,BM36,1
 19740715,315,Ashok Amritraj,A059,1
-19740715,315,Michael Burgener,NA,1
+19740715,315,Michael Burgener,,1
 19740715,315,Michael Hickey,H152,1
 19740715,315,Peter Ledbetter,L745,1
-19740715,315,James Mcardle,NA,1
+19740715,315,James Mcardle,,1
 19740715,315,Harry Sheridan,SA38,1
-19740715,315,Jim Casey,NA,1
+19740715,315,Jim Casey,,1
 19740715,315,Kevin Menton,MD14,1
-19740715,315,John O'Brien,NA,1
+19740715,315,John O'Brien,,1
 19740715,315,Kenneth Reid,R727,1
-19740715,315,David Hill,NA,1
+19740715,315,David Hill,,1
 19740722,1,Jimmy Connors,C044,601
 19740722,2,John Newcombe,N044,881
 19740722,3,Tom Okker,O032,822
@@ -8566,7 +8555,7 @@ date,rank,name,id,points
 19740722,62,Robert Maud,M140,69
 19740722,64,Erik Van Dillen,V049,113
 19740722,65,Pierre Barthes,B122,82
-19740722,66,Thomas Koch,NA,57
+19740722,66,Thomaz Koch,,57
 19740722,67,Patrice Dominguez,D080,112
 19740722,68,Georges Goven,G031,130
 19740722,69,Dick Crealy,C093,146
@@ -8598,7 +8587,7 @@ date,rank,name,id,points
 19740722,95,Dick Dell,D073,78
 19740722,96,Kim Warwick,W006,46
 19740722,97,Antonio Munoz,M156,82
-19740722,98,Jairo Velasco Sr,NA,39
+19740722,98,Jairo Velasco Sr,,39
 19740722,98,Jim Delaney,D072,39
 19740722,100,Hans-Joachim Ploetz,P081,38
 19740722,101,John Yuill,Y008,37
@@ -8610,7 +8599,7 @@ date,rank,name,id,points
 19740722,106,Jaime Pinto-Bravo,P067,45
 19740722,108,Jean-Baptiste Chanfreau,C083,60
 19740722,109,Jun Kamiwazumi,K002,57
-19740722,110,Fred McNair,NA,56
+19740722,110,Fred McNair IV,,56
 19740722,111,Jim McManus,M144,73
 19740722,112,Ray Ruffels,R076,31
 19740722,113,Billy Martin,M138,30
@@ -8687,10 +8676,10 @@ date,rank,name,id,points
 19740722,183,Jorge Andrew,A061,10
 19740722,183,Jean-Francois Caujolle,C082,10
 19740722,183,Humphrey Hose,H064,10
-19740722,183,Jan-Eric Lundquist,NA,10
+19740722,183,Jan-Erik Lundqvist,,10
 19740722,188,Jan Simbera,S198,9
 19740722,188,Mike Machette,M132,9
-19740722,188,Kiyoski Tanabe,NA,9
+19740722,188,Kiyoski Tanabe,,9
 19740722,188,Eric Deblicker,D063,9
 19740722,188,George Hardie,H056,9
 19740722,193,Jacques Thamin,T099,8
@@ -8717,9 +8706,9 @@ date,rank,name,id,points
 19740722,207,Douglas Palm,P150,6
 19740722,207,Derek Schroder,S243,6
 19740722,207,Mike Cahill,C075,6
-19740722,207,Teimuraz Kakoulia,NA,6
+19740722,207,Teimuraz Kakoulia,,6
 19740722,207,Dimitri Sturdza,S241,6
-19740722,207,Victor Pecci Sr.,NA,6
+19740722,207,Victor Pecci,,6
 19740722,220,Terry Addison,A056,5
 19740722,220,Mohammad Hossein Akbari,A122,5
 19740722,220,Gondo Widjojo,W084,5
@@ -8848,16 +8837,16 @@ date,rank,name,id,points
 19740722,315,Daniel Contet,C170,1
 19740722,315,Patrice Hagelauer,H101,1
 19740722,315,Goran Berglund,BM36,1
-19740722,315,Michael Burgener,NA,1
+19740722,315,Michael Burgener,,1
 19740722,315,Michael Hickey,H152,1
 19740722,315,Peter Ledbetter,L745,1
-19740722,315,James Mcardle,NA,1
+19740722,315,James Mcardle,,1
 19740722,315,Harry Sheridan,SA38,1
-19740722,315,Jim Casey,NA,1
+19740722,315,Jim Casey,,1
 19740722,315,Kevin Menton,MD14,1
-19740722,315,John O'Brien,NA,1
+19740722,315,John O'Brien,,1
 19740722,315,Kenneth Reid,R727,1
-19740722,315,David Hill,NA,1
+19740722,315,David Hill,,1
 19740722,315,Waldemar Timm,T109,1
 19740722,315,Peter Pokorny,P143,1
 19740722,315,Nick Saviano,S111,1
@@ -8866,9 +8855,6 @@ date,rank,name,id,points
 19740722,315,Eduardo Gorostiaga,G186,1
 19740722,315,Fred Hemmes Sr.,H601,1
 19740722,315,Alex Kurucz,K146,1
-19740722,0,Andres Gimeno,G075,0
-19740722,0,Rudolf Hoskowetz,H183,0
-19740722,0,Shamil Tarpischev,T035,0
 19740729,1,Jimmy Connors,C044,586
 19740729,2,John Newcombe,N044,881
 19740729,3,Tom Okker,O032,762
@@ -8934,7 +8920,7 @@ date,rank,name,id,points
 19740729,63,Pierre Barthes,B122,82
 19740729,64,Georges Goven,G031,129
 19740729,65,Ivan Molina,M152,95
-19740729,65,Thomas Koch,NA,57
+19740729,65,Thomaz Koch,,57
 19740729,67,Erik Van Dillen,V049,108
 19740729,68,Dick Crealy,C093,150
 19740729,69,Patrice Dominguez,D080,112
@@ -8966,7 +8952,7 @@ date,rank,name,id,points
 19740729,95,Dick Dell,D073,82
 19740729,96,Vladimir Zednik,Z023,78
 19740729,97,Antonio Munoz,M156,86
-19740729,98,Jairo Velasco Sr,NA,40
+19740729,98,Jairo Velasco Sr,,40
 19740729,99,Kim Warwick,W006,43
 19740729,100,Hans-Joachim Ploetz,P081,39
 19740729,101,John Yuill,Y008,37
@@ -8974,7 +8960,7 @@ date,rank,name,id,points
 19740729,102,Sandy Mayer,M039,36
 19740729,104,Marcelo Lara,L057,47
 19740729,105,Jeff Simpson,S123,64
-19740729,106,Fred McNair,NA,60
+19740729,106,Fred McNair IV,,60
 19740729,107,Jim Delaney,D072,34
 19740729,108,Robert Kreiss,K052,45
 19740729,109,Jean-Baptiste Chanfreau,C083,60
@@ -9055,10 +9041,10 @@ date,rank,name,id,points
 19740729,184,Jorge Andrew,A061,10
 19740729,184,Jean-Francois Caujolle,C082,10
 19740729,184,William Higgins,H129,10
-19740729,184,Jan-Eric Lundquist,NA,10
+19740729,184,Jan-Erik Lundqvist,,10
 19740729,188,Jan Simbera,S198,9
 19740729,188,Mike Machette,M132,9
-19740729,188,Kiyoski Tanabe,NA,9
+19740729,188,Kiyoski Tanabe,,9
 19740729,188,Eric Deblicker,D063,9
 19740729,188,Humphrey Hose,H064,9
 19740729,188,George Hardie,H056,9
@@ -9086,9 +9072,9 @@ date,rank,name,id,points
 19740729,210,Pat Dupre,D048,6
 19740729,210,Douglas Palm,P150,6
 19740729,210,Derek Schroder,S243,6
-19740729,210,Teimuraz Kakoulia,NA,6
+19740729,210,Teimuraz Kakoulia,,6
 19740729,210,Dimitri Sturdza,S241,6
-19740729,210,Victor Pecci Sr.,NA,6
+19740729,210,Victor Pecci,,6
 19740729,221,Terry Addison,A056,5
 19740729,221,Mohammad Hossein Akbari,A122,5
 19740729,221,Gondo Widjojo,W084,5
@@ -9219,16 +9205,16 @@ date,rank,name,id,points
 19740729,317,Daniel Contet,C170,1
 19740729,317,Patrice Hagelauer,H101,1
 19740729,317,Goran Berglund,BM36,1
-19740729,317,Michael Burgener,NA,1
+19740729,317,Michael Burgener,,1
 19740729,317,Michael Hickey,H152,1
 19740729,317,Peter Ledbetter,L745,1
-19740729,317,James Mcardle,NA,1
+19740729,317,James Mcardle,,1
 19740729,317,Harry Sheridan,SA38,1
-19740729,317,Jim Casey,NA,1
+19740729,317,Jim Casey,,1
 19740729,317,Kevin Menton,MD14,1
-19740729,317,John O'Brien,NA,1
+19740729,317,John O'Brien,,1
 19740729,317,Kenneth Reid,R727,1
-19740729,317,David Hill,NA,1
+19740729,317,David Hill,,1
 19740729,317,Waldemar Timm,T109,1
 19740729,317,Peter Pokorny,P143,1
 19740729,317,Nick Saviano,S111,1
@@ -9237,7 +9223,6 @@ date,rank,name,id,points
 19740729,317,Eduardo Gorostiaga,G186,1
 19740729,317,Fred Hemmes Sr.,H601,1
 19740729,317,Alex Kurucz,K146,1
-19740729,0,Rudy Hernando,H098,0
 19740805,1,Jimmy Connors,C044,566
 19740805,2,John Newcombe,N044,821
 19740805,3,Tom Okker,O032,752
@@ -9301,7 +9286,7 @@ date,rank,name,id,points
 19740805,61,Geoff Masters,M139,117
 19740805,62,Pierre Barthes,B122,82
 19740805,63,Georges Goven,G031,129
-19740805,64,Thomas Koch,NA,57
+19740805,64,Thomaz Koch,,57
 19740805,65,Patrice Dominguez,D080,112
 19740805,65,Juan Gisbert Sr,G076,84
 19740805,67,Ivan Molina,M152,93
@@ -9326,7 +9311,7 @@ date,rank,name,id,points
 19740805,86,Grover Raz Reid,R068,63
 19740805,87,Milan Holecek,H059,118
 19740805,88,Jeff Austin,A065,46
-19740805,89,Jairo Velasco Sr,NA,45
+19740805,89,Jairo Velasco Sr,,45
 19740805,90,Syd Ball,B106,71
 19740805,91,Paul Kronk,K073,59
 19740805,92,Mike Estep,E040,99
@@ -9346,7 +9331,7 @@ date,rank,name,id,points
 19740805,106,Jun Kamiwazumi,K002,59
 19740805,107,Haroon Rahim,R063,73
 19740805,108,Jean-Baptiste Chanfreau,C083,60
-19740805,109,Fred McNair,NA,56
+19740805,109,Fred McNair IV,,56
 19740805,109,Jim Delaney,D072,32
 19740805,111,Ray Ruffels,R076,31
 19740805,111,Tenny Svensson,S149,31
@@ -9422,7 +9407,7 @@ date,rank,name,id,points
 19740805,178,Armistead Neely,N043,11
 19740805,178,Jean-Louis Haillet,H041,11
 19740805,178,Robert Machan,M194,11
-19740805,178,Jan-Eric Lundquist,NA,11
+19740805,178,Jan-Erik Lundqvist,,11
 19740805,178,Robert McKinley,M293,11
 19740805,187,Jorge Andrew,A061,10
 19740805,187,Jean-Francois Caujolle,C082,10
@@ -9432,7 +9417,7 @@ date,rank,name,id,points
 19740805,190,Premjit Lall,L117,9
 19740805,190,Mike Machette,M132,9
 19740805,190,Eric Deblicker,D063,9
-19740805,190,Kiyoski Tanabe,NA,9
+19740805,190,Kiyoski Tanabe,,9
 19740805,190,Doug Crawford,C053,9
 19740805,197,Jacques Thamin,T099,8
 19740805,197,Martin Mulligan,M155,8
@@ -9455,9 +9440,9 @@ date,rank,name,id,points
 19740805,211,Pat Dupre,D048,6
 19740805,211,Douglas Palm,P150,6
 19740805,211,Derek Schroder,S243,6
-19740805,211,Teimuraz Kakoulia,NA,6
+19740805,211,Teimuraz Kakoulia,,6
 19740805,211,Dimitri Sturdza,S241,6
-19740805,211,Victor Pecci Sr.,NA,6
+19740805,211,Victor Pecci,,6
 19740805,211,James Chico Hagey,H054,6
 19740805,222,Terry Addison,A056,5
 19740805,222,Mohammad Hossein Akbari,A122,5
@@ -9591,16 +9576,16 @@ date,rank,name,id,points
 19740805,321,Daniel Contet,C170,1
 19740805,321,Patrice Hagelauer,H101,1
 19740805,321,Goran Berglund,BM36,1
-19740805,321,Michael Burgener,NA,1
+19740805,321,Michael Burgener,,1
 19740805,321,Michael Hickey,H152,1
 19740805,321,Peter Ledbetter,L745,1
-19740805,321,James Mcardle,NA,1
+19740805,321,James Mcardle,,1
 19740805,321,Harry Sheridan,SA38,1
-19740805,321,Jim Casey,NA,1
+19740805,321,Jim Casey,,1
 19740805,321,Kevin Menton,MD14,1
-19740805,321,John O'Brien,NA,1
+19740805,321,John O'Brien,,1
 19740805,321,Kenneth Reid,R727,1
-19740805,321,David Hill,NA,1
+19740805,321,David Hill,,1
 19740805,321,Waldemar Timm,T109,1
 19740805,321,Peter Pokorny,P143,1
 19740805,321,Nick Saviano,S111,1
@@ -9615,7 +9600,6 @@ date,rank,name,id,points
 19740805,321,Saeed Meer,M275,1
 19740805,321,Peter Doerner,D079,1
 19740805,321,Armando Cornejo,C108,1
-19740805,0,Pancho Musalem,M222,0
 19740812,1,Jimmy Connors,C044,636
 19740812,2,John Newcombe,N044,821
 19740812,3,Tom Okker,O032,752
@@ -9682,7 +9666,7 @@ date,rank,name,id,points
 19740812,64,Pierre Barthes,B122,82
 19740812,65,Georges Goven,G031,129
 19740812,66,Erik Van Dillen,V049,119
-19740812,67,Thomas Koch,NA,57
+19740812,67,Thomaz Koch,,57
 19740812,68,Patrice Dominguez,D080,107
 19740812,69,Ion Tiriac,T040,91
 19740812,70,Patricio Cornejo,C088,100
@@ -9694,7 +9678,7 @@ date,rank,name,id,points
 19740812,76,Colin Dibley,D076,120
 19740812,77,Dick Crealy,C093,136
 19740812,77,Clark Graebner,G079,68
-19740812,79,Jairo Velasco Sr,NA,50
+19740812,79,Jairo Velasco Sr,,50
 19740812,80,Patrick Proisy,P085,91
 19740812,81,Leif Johansson,J064,49
 19740812,82,Paul Kronk,K073,69
@@ -9719,7 +9703,7 @@ date,rank,name,id,points
 19740812,100,Sandy Mayer,M039,36
 19740812,102,Jaime Pinto-Bravo,P067,56
 19740812,103,Marcelo Lara,L057,53
-19740812,104,Fred McNair,NA,61
+19740812,104,Fred McNair IV,,61
 19740812,105,Jeff Simpson,S123,66
 19740812,105,Jim Delaney,D072,33
 19740812,107,Haroon Rahim,R063,71
@@ -9775,7 +9759,7 @@ date,rank,name,id,points
 19740812,155,Steve Faulk,F069,17
 19740812,158,Richard Pancho Gonzales,G077,16
 19740812,158,Joaquin Loyo-Mayo,L066,16
-19740812,158,Jan-Eric Lundquist,NA,16
+19740812,158,Jan-Erik Lundqvist,,16
 19740812,161,Roy Barth,B121,17
 19740812,162,Rolf Thung,T051,15
 19740812,162,Charles Owens,O033,15
@@ -9812,7 +9796,7 @@ date,rank,name,id,points
 19740812,193,D. Richard Russell,R077,9
 19740812,193,Mike Machette,M132,9
 19740812,193,Eric Deblicker,D063,9
-19740812,193,Kiyoski Tanabe,NA,9
+19740812,193,Kiyoski Tanabe,,9
 19740812,193,John Andrews,A062,9
 19740812,199,Norman Holmes,H062,8
 19740812,199,Jacques Thamin,T099,8
@@ -9835,10 +9819,10 @@ date,rank,name,id,points
 19740812,212,Christian Kuhnke,K138,6
 19740812,212,Douglas Palm,P150,6
 19740812,212,Derek Schroder,S243,6
-19740812,212,Teimuraz Kakoulia,NA,6
+19740812,212,Teimuraz Kakoulia,,6
 19740812,212,Dimitri Sturdza,S241,6
 19740812,212,Trey Waltke,W045,6
-19740812,212,Victor Pecci Sr.,NA,6
+19740812,212,Victor Pecci,,6
 19740812,224,Mike Powers,P083,6
 19740812,225,Terry Addison,A056,5
 19740812,225,Mohammad Hossein Akbari,A122,5
@@ -9974,16 +9958,16 @@ date,rank,name,id,points
 19740812,326,Daniel Contet,C170,1
 19740812,326,Patrice Hagelauer,H101,1
 19740812,326,Goran Berglund,BM36,1
-19740812,326,Michael Burgener,NA,1
+19740812,326,Michael Burgener,,1
 19740812,326,Michael Hickey,H152,1
 19740812,326,Peter Ledbetter,L745,1
-19740812,326,James Mcardle,NA,1
+19740812,326,James Mcardle,,1
 19740812,326,Harry Sheridan,SA38,1
-19740812,326,Jim Casey,NA,1
+19740812,326,Jim Casey,,1
 19740812,326,Kevin Menton,MD14,1
-19740812,326,John O'Brien,NA,1
+19740812,326,John O'Brien,,1
 19740812,326,Kenneth Reid,R727,1
-19740812,326,David Hill,NA,1
+19740812,326,David Hill,,1
 19740812,326,Waldemar Timm,T109,1
 19740812,326,Peter Pokorny,P143,1
 19740812,326,Woody Blocher,B132,1
@@ -10059,10 +10043,10 @@ date,rank,name,id,points
 19740819,60,Frew McMillan,M111,131
 19740819,61,Julian Ganzabal,G068,62
 19740819,62,Geoff Masters,M139,113
-19740819,63,Jairo Velasco Sr,NA,60
+19740819,63,Jairo Velasco Sr,,60
 19740819,64,Robert Maud,M140,69
 19740819,65,Pierre Barthes,B122,82
-19740819,66,Thomas Koch,NA,57
+19740819,66,Thomaz Koch,,57
 19740819,67,Erik Van Dillen,V049,120
 19740819,68,Patrice Dominguez,D080,100
 19740819,69,Colin Dibley,D076,124
@@ -10105,7 +10089,7 @@ date,rank,name,id,points
 19740819,106,Jeff Simpson,S123,66
 19740819,106,Sandy Mayer,M039,33
 19740819,108,Haroon Rahim,R063,71
-19740819,109,Fred McNair,NA,59
+19740819,109,Fred McNair IV,,59
 19740819,109,Graham Stilwell,S147,59
 19740819,111,Tenny Svensson,S149,32
 19740819,112,Jean-Baptiste Chanfreau,C083,55
@@ -10155,7 +10139,7 @@ date,rank,name,id,points
 19740819,156,Bernard Mitton,M072,17
 19740819,156,Brian Teacher,T011,17
 19740819,158,Richard Pancho Gonzales,G077,16
-19740819,158,Jan-Eric Lundquist,NA,16
+19740819,158,Jan-Erik Lundqvist,,16
 19740819,158,Jean-Francois Caujolle,C082,16
 19740819,158,Terry Ryan,R078,16
 19740819,162,Roy Barth,B121,17
@@ -10194,7 +10178,7 @@ date,rank,name,id,points
 19740819,194,D. Richard Russell,R077,9
 19740819,194,Mike Machette,M132,9
 19740819,194,Eric Deblicker,D063,9
-19740819,194,Kiyoski Tanabe,NA,9
+19740819,194,Kiyoski Tanabe,,9
 19740819,194,Robert McKinley,M293,9
 19740819,200,Jacques Thamin,T099,8
 19740819,200,Martin Mulligan,M155,8
@@ -10215,11 +10199,11 @@ date,rank,name,id,points
 19740819,211,Tony Bardsley,B120,6
 19740819,211,Douglas Palm,P150,6
 19740819,211,Derek Schroder,S243,6
-19740819,211,Teimuraz Kakoulia,NA,6
+19740819,211,Teimuraz Kakoulia,,6
 19740819,211,Christian Kuhnke,K138,6
 19740819,211,Dimitri Sturdza,S241,6
 19740819,211,Trey Waltke,W045,6
-19740819,211,Victor Pecci Sr.,NA,6
+19740819,211,Victor Pecci,,6
 19740819,211,Ashok Amritraj,A059,6
 19740819,211,Mike Powers,P083,6
 19740819,226,Terry Addison,A056,5
@@ -10358,16 +10342,16 @@ date,rank,name,id,points
 19740819,331,Daniel Contet,C170,1
 19740819,331,Patrice Hagelauer,H101,1
 19740819,331,Goran Berglund,BM36,1
-19740819,331,Michael Burgener,NA,1
+19740819,331,Michael Burgener,,1
 19740819,331,Michael Hickey,H152,1
 19740819,331,Peter Ledbetter,L745,1
-19740819,331,James Mcardle,NA,1
+19740819,331,James Mcardle,,1
 19740819,331,Harry Sheridan,SA38,1
-19740819,331,Jim Casey,NA,1
+19740819,331,Jim Casey,,1
 19740819,331,Kevin Menton,MD14,1
-19740819,331,John O'Brien,NA,1
+19740819,331,John O'Brien,,1
 19740819,331,Kenneth Reid,R727,1
-19740819,331,David Hill,NA,1
+19740819,331,David Hill,,1
 19740819,331,Waldemar Timm,T109,1
 19740819,331,Peter Pokorny,P143,1
 19740819,331,Woody Blocher,B132,1
@@ -10439,7 +10423,7 @@ date,rank,name,id,points
 19740826,54,Bob Hewitt,H058,67
 19740826,55,Karl Meiler,M055,99
 19740826,56,Frew McMillan,M111,130
-19740826,56,Jairo Velasco Sr,NA,65
+19740826,56,Jairo Velasco Sr,,65
 19740826,58,Charlie Pasarell,P072,146
 19740826,59,Roger Taylor,T050,86
 19740826,60,Brian Fairlie,F066,64
@@ -10448,7 +10432,7 @@ date,rank,name,id,points
 19740826,63,Robert Maud,M140,69
 19740826,64,Kim Warwick,W006,63
 19740826,65,Pierre Barthes,B122,82
-19740826,66,Thomas Koch,NA,57
+19740826,66,Thomaz Koch,,57
 19740826,67,Sherwood Stewart,S082,132
 19740826,68,Erik Van Dillen,V049,120
 19740826,69,Patricio Cornejo,C088,104
@@ -10487,7 +10471,7 @@ date,rank,name,id,points
 19740826,102,Mike Estep,E040,85
 19740826,103,John Whitlinger,W051,39
 19740826,104,Dick Dell,D073,74
-19740826,105,Fred McNair,NA,65
+19740826,105,Fred McNair IV,,65
 19740826,106,Jaime Pinto-Bravo,P067,62
 19740826,107,Antonio Munoz,M156,73
 19740826,108,Sandy Mayer,M039,35
@@ -10546,7 +10530,7 @@ date,rank,name,id,points
 19740826,161,Bernard Mitton,M072,17
 19740826,161,Jean-Francois Caujolle,C082,17
 19740826,163,Rolf Thung,T051,16
-19740826,163,Jan-Eric Lundquist,NA,16
+19740826,163,Jan-Erik Lundqvist,,16
 19740826,163,Terry Ryan,R078,16
 19740826,166,Rick Fisher,F070,19
 19740826,167,Vincenzo Franchitti,F103,15
@@ -10581,7 +10565,7 @@ date,rank,name,id,points
 19740826,196,Jan Simbera,S198,9
 19740826,196,D. Richard Russell,R077,9
 19740826,196,Eric Deblicker,D063,9
-19740826,196,Kiyoski Tanabe,NA,9
+19740826,196,Kiyoski Tanabe,,9
 19740826,196,John Fort,F073,9
 19740826,201,Janos Benyik,B202,8
 19740826,201,Jacques Thamin,T099,8
@@ -10608,11 +10592,11 @@ date,rank,name,id,points
 19740826,220,Szabolcz Baranyi,B233,6
 19740826,220,Douglas Palm,P150,6
 19740826,220,Derek Schroder,S243,6
-19740826,220,Teimuraz Kakoulia,NA,6
+19740826,220,Teimuraz Kakoulia,,6
 19740826,220,Rolf Norberg,N048,6
 19740826,220,Christian Kuhnke,K138,6
 19740826,220,Dimitri Sturdza,S241,6
-19740826,220,Victor Pecci Sr.,NA,6
+19740826,220,Victor Pecci,,6
 19740826,220,Peter Doerner,D079,6
 19740826,232,Terry Addison,A056,5
 19740826,232,Mohammad Hossein Akbari,A122,5
@@ -10754,16 +10738,16 @@ date,rank,name,id,points
 19740826,340,Daniel Contet,C170,1
 19740826,340,Patrice Hagelauer,H101,1
 19740826,340,Goran Berglund,BM36,1
-19740826,340,Michael Burgener,NA,1
+19740826,340,Michael Burgener,,1
 19740826,340,Michael Hickey,H152,1
 19740826,340,Peter Ledbetter,L745,1
-19740826,340,James Mcardle,NA,1
+19740826,340,James Mcardle,,1
 19740826,340,Harry Sheridan,SA38,1
-19740826,340,Jim Casey,NA,1
+19740826,340,Jim Casey,,1
 19740826,340,Kevin Menton,MD14,1
-19740826,340,John O'Brien,NA,1
+19740826,340,John O'Brien,,1
 19740826,340,Kenneth Reid,R727,1
-19740826,340,David Hill,NA,1
+19740826,340,David Hill,,1
 19740826,340,Waldemar Timm,T109,1
 19740826,340,Peter Pokorny,P143,1
 19740826,340,Woody Blocher,B132,1
@@ -10784,7 +10768,7 @@ date,rank,name,id,points
 19740826,340,Chauncey Steele III,S238,1
 19740826,340,Paul Sullivan,S258,1
 19740826,340,Bill Drake,D158,1
-19740826,340,Keith Jennings,NA,1
+19740826,340,Keith Jennings,,1
 19740826,340,Ben Bishop,B137,1
 19740826,340,Scott Carnahan,C081,1
 19740826,340,Buddy Gallagher,GF46,1
@@ -10857,7 +10841,7 @@ date,rank,name,id,points
 19740902,54,Bob Hewitt,H058,67
 19740902,55,Karl Meiler,M055,99
 19740902,56,Frew McMillan,M111,130
-19740902,56,Jairo Velasco Sr,NA,65
+19740902,56,Jairo Velasco Sr,,65
 19740902,58,Charlie Pasarell,P072,146
 19740902,59,Roger Taylor,T050,86
 19740902,60,Brian Fairlie,F066,64
@@ -10866,7 +10850,7 @@ date,rank,name,id,points
 19740902,63,Robert Maud,M140,69
 19740902,64,Kim Warwick,W006,63
 19740902,65,Pierre Barthes,B122,82
-19740902,66,Thomas Koch,NA,57
+19740902,66,Thomaz Koch,,57
 19740902,67,Sherwood Stewart,S082,132
 19740902,68,Erik Van Dillen,V049,120
 19740902,69,Patricio Cornejo,C088,104
@@ -10905,7 +10889,7 @@ date,rank,name,id,points
 19740902,102,Mike Estep,E040,85
 19740902,103,John Whitlinger,W051,39
 19740902,104,Dick Dell,D073,74
-19740902,105,Fred McNair,NA,65
+19740902,105,Fred McNair IV,,65
 19740902,106,Jaime Pinto-Bravo,P067,62
 19740902,107,Antonio Munoz,M156,73
 19740902,108,Sandy Mayer,M039,35
@@ -10964,7 +10948,7 @@ date,rank,name,id,points
 19740902,161,Bernard Mitton,M072,17
 19740902,161,Jean-Francois Caujolle,C082,17
 19740902,163,Rolf Thung,T051,16
-19740902,163,Jan-Eric Lundquist,NA,16
+19740902,163,Jan-Erik Lundqvist,,16
 19740902,163,Terry Ryan,R078,16
 19740902,166,Rick Fisher,F070,19
 19740902,167,Vincenzo Franchitti,F103,15
@@ -10999,7 +10983,7 @@ date,rank,name,id,points
 19740902,196,Jan Simbera,S198,9
 19740902,196,D. Richard Russell,R077,9
 19740902,196,Eric Deblicker,D063,9
-19740902,196,Kiyoski Tanabe,NA,9
+19740902,196,Kiyoski Tanabe,,9
 19740902,196,John Fort,F073,9
 19740902,201,Janos Benyik,B202,8
 19740902,201,Jacques Thamin,T099,8
@@ -11026,11 +11010,11 @@ date,rank,name,id,points
 19740902,220,Szabolcz Baranyi,B233,6
 19740902,220,Douglas Palm,P150,6
 19740902,220,Derek Schroder,S243,6
-19740902,220,Teimuraz Kakoulia,NA,6
+19740902,220,Teimuraz Kakoulia,,6
 19740902,220,Rolf Norberg,N048,6
 19740902,220,Christian Kuhnke,K138,6
 19740902,220,Dimitri Sturdza,S241,6
-19740902,220,Victor Pecci Sr.,NA,6
+19740902,220,Victor Pecci,,6
 19740902,220,Peter Doerner,D079,6
 19740902,232,Terry Addison,A056,5
 19740902,232,Mohammad Hossein Akbari,A122,5
@@ -11172,16 +11156,16 @@ date,rank,name,id,points
 19740902,340,Daniel Contet,C170,1
 19740902,340,Patrice Hagelauer,H101,1
 19740902,340,Goran Berglund,BM36,1
-19740902,340,Michael Burgener,NA,1
+19740902,340,Michael Burgener,,1
 19740902,340,Michael Hickey,H152,1
 19740902,340,Peter Ledbetter,L745,1
-19740902,340,James Mcardle,NA,1
+19740902,340,James Mcardle,,1
 19740902,340,Harry Sheridan,SA38,1
-19740902,340,Jim Casey,NA,1
+19740902,340,Jim Casey,,1
 19740902,340,Kevin Menton,MD14,1
-19740902,340,John O'Brien,NA,1
+19740902,340,John O'Brien,,1
 19740902,340,Kenneth Reid,R727,1
-19740902,340,David Hill,NA,1
+19740902,340,David Hill,,1
 19740902,340,Waldemar Timm,T109,1
 19740902,340,Peter Pokorny,P143,1
 19740902,340,Woody Blocher,B132,1
@@ -11202,7 +11186,7 @@ date,rank,name,id,points
 19740902,340,Chauncey Steele III,S238,1
 19740902,340,Paul Sullivan,S258,1
 19740902,340,Bill Drake,D158,1
-19740902,340,Keith Jennings,NA,1
+19740902,340,Keith Jennings,,1
 19740902,340,Ben Bishop,B137,1
 19740902,340,Scott Carnahan,C081,1
 19740902,340,Buddy Gallagher,GF46,1
@@ -11274,11 +11258,11 @@ date,rank,name,id,points
 19740909,53,Bob Hewitt,H058,67
 19740909,54,Frew McMillan,M111,132
 19740909,54,Karl Meiler,M055,99
-19740909,54,Jairo Velasco Sr,NA,66
+19740909,54,Jairo Velasco Sr,,66
 19740909,57,Charlie Pasarell,P072,146
 19740909,58,Roger Taylor,T050,86
 19740909,59,Brian Fairlie,F066,64
-19740909,60,Thomas Koch,NA,63
+19740909,60,Thomaz Koch,,63
 19740909,61,Julian Ganzabal,G068,62
 19740909,62,Pierre Barthes,B122,79
 19740909,63,Robert Maud,M140,69
@@ -11324,7 +11308,7 @@ date,rank,name,id,points
 19740909,103,Jun Kamiwazumi,K002,74
 19740909,104,Dick Dell,D073,76
 19740909,105,Sandy Mayer,M039,37
-19740909,106,Fred McNair,NA,67
+19740909,106,Fred McNair IV,,67
 19740909,107,Antonio Munoz,M156,75
 19740909,108,Robert Kreiss,K052,53
 19740909,109,Roger Dowdeswell,D081,35
@@ -11385,7 +11369,7 @@ date,rank,name,id,points
 19740909,163,Doug Crawford,C053,17
 19740909,165,Rick Fisher,F070,19
 19740909,166,Rolf Thung,T051,16
-19740909,166,Jan-Eric Lundquist,NA,16
+19740909,166,Jan-Erik Lundqvist,,16
 19740909,166,Terry Ryan,R078,16
 19740909,169,Vincenzo Franchitti,F103,15
 19740909,169,Charles Owens,O033,15
@@ -11420,9 +11404,9 @@ date,rank,name,id,points
 19740909,199,Jan Simbera,S198,9
 19740909,199,D. Richard Russell,R077,9
 19740909,199,Eric Deblicker,D063,9
-19740909,199,Kiyoski Tanabe,NA,9
+19740909,199,Kiyoski Tanabe,,9
 19740909,199,John Fort,F073,9
-19740909,199,Teimuraz Kakoulia,NA,9
+19740909,199,Teimuraz Kakoulia,,9
 19740909,199,Pat Dupre,D048,9
 19740909,199,Trey Waltke,W045,9
 19740909,207,Janos Benyik,B202,8
@@ -11445,7 +11429,7 @@ date,rank,name,id,points
 19740909,220,Derek Schroder,S243,6
 19740909,220,Ramiro Benavides,B034,6
 19740909,220,Dimitri Sturdza,S241,6
-19740909,220,Victor Pecci Sr.,NA,6
+19740909,220,Victor Pecci,,6
 19740909,220,Christian Kuhnke,K138,6
 19740909,220,Peter Doerner,D079,6
 19740909,230,Richard Pancho Gonzales,G077,5
@@ -11591,16 +11575,16 @@ date,rank,name,id,points
 19740909,343,Daniel Contet,C170,1
 19740909,343,Patrice Hagelauer,H101,1
 19740909,343,Goran Berglund,BM36,1
-19740909,343,Michael Burgener,NA,1
+19740909,343,Michael Burgener,,1
 19740909,343,Michael Hickey,H152,1
 19740909,343,Peter Ledbetter,L745,1
-19740909,343,James Mcardle,NA,1
+19740909,343,James Mcardle,,1
 19740909,343,Harry Sheridan,SA38,1
-19740909,343,Jim Casey,NA,1
+19740909,343,Jim Casey,,1
 19740909,343,Kevin Menton,MD14,1
-19740909,343,John O'Brien,NA,1
+19740909,343,John O'Brien,,1
 19740909,343,Kenneth Reid,R727,1
-19740909,343,David Hill,NA,1
+19740909,343,David Hill,,1
 19740909,343,Waldemar Timm,T109,1
 19740909,343,Peter Pokorny,P143,1
 19740909,343,Woody Blocher,B132,1
@@ -11620,7 +11604,7 @@ date,rank,name,id,points
 19740909,343,Chauncey Steele III,S238,1
 19740909,343,Paul Sullivan,S258,1
 19740909,343,Bill Drake,D158,1
-19740909,343,Keith Jennings,NA,1
+19740909,343,Keith Jennings,,1
 19740909,343,Ben Bishop,B137,1
 19740909,343,Scott Carnahan,C081,1
 19740909,343,Buddy Gallagher,GF46,1
@@ -11639,7 +11623,6 @@ date,rank,name,id,points
 19740909,343,Ron Myers,MP08,1
 19740909,343,Steve Docherty,D078,1
 19740909,343,Steve Messmer,M201,1
-19740909,0,Herb Fitzgibbon,F109,0
 19740916,1,Jimmy Connors,C044,777
 19740916,2,John Newcombe,N044,745
 19740916,3,Tom Okker,O032,760
@@ -11684,7 +11667,7 @@ date,rank,name,id,points
 19740916,42,Balazs Taroczy,T007,97
 19740916,43,Hans-Jurgen Pohmann,P082,196
 19740916,44,Corrado Barazzutti,B007,85
-19740916,45,Thomas Koch,NA,83
+19740916,45,Thomaz Koch,,83
 19740916,46,Robert Lutz,L045,135
 19740916,47,Jeff Borowiak,B059,210
 19740916,48,Jurgen Fassbender,F068,124
@@ -11697,7 +11680,7 @@ date,rank,name,id,points
 19740916,55,Frew McMillan,M111,129
 19740916,56,Bob Hewitt,H058,67
 19740916,57,Karl Meiler,M055,99
-19740916,57,Jairo Velasco Sr,NA,66
+19740916,57,Jairo Velasco Sr,,66
 19740916,59,Charlie Pasarell,P072,146
 19740916,60,Brian Fairlie,F066,64
 19740916,61,Julian Ganzabal,G068,62
@@ -11746,7 +11729,7 @@ date,rank,name,id,points
 19740916,104,Dick Dell,D073,81
 19740916,105,Jun Kamiwazumi,K002,74
 19740916,106,Sandy Mayer,M039,37
-19740916,107,Fred McNair,NA,64
+19740916,107,Fred McNair IV,,64
 19740916,108,Antonio Munoz,M156,75
 19740916,108,Charles Owens,O033,36
 19740916,110,Robert Kreiss,K052,50
@@ -11806,7 +11789,7 @@ date,rank,name,id,points
 19740916,163,Bernard Mitton,M072,17
 19740916,163,Doug Crawford,C053,17
 19740916,166,Rolf Thung,T051,16
-19740916,166,Jan-Eric Lundquist,NA,16
+19740916,166,Jan-Erik Lundqvist,,16
 19740916,168,Vincenzo Franchitti,F103,15
 19740916,168,Dick R. Bohrnstedt,B238,15
 19740916,168,Birger Andersson,A086,15
@@ -11840,10 +11823,10 @@ date,rank,name,id,points
 19740916,198,Jan Simbera,S198,9
 19740916,198,D. Richard Russell,R077,9
 19740916,198,Eric Deblicker,D063,9
-19740916,198,Kiyoski Tanabe,NA,9
+19740916,198,Kiyoski Tanabe,,9
 19740916,198,John Fort,F073,9
 19740916,198,Mike Machette,M132,9
-19740916,198,Teimuraz Kakoulia,NA,9
+19740916,198,Teimuraz Kakoulia,,9
 19740916,198,Pat Dupre,D048,9
 19740916,198,Trey Waltke,W045,9
 19740916,198,Ashok Amritraj,A059,9
@@ -11867,7 +11850,7 @@ date,rank,name,id,points
 19740916,222,Douglas Palm,P150,6
 19740916,222,Derek Schroder,S243,6
 19740916,222,Dimitri Sturdza,S241,6
-19740916,222,Victor Pecci Sr.,NA,6
+19740916,222,Victor Pecci,,6
 19740916,222,Christian Kuhnke,K138,6
 19740916,222,Peter Doerner,D079,6
 19740916,222,Steve Siegel,S297,6
@@ -12012,16 +11995,16 @@ date,rank,name,id,points
 19740916,342,Daniel Contet,C170,1
 19740916,342,Patrice Hagelauer,H101,1
 19740916,342,Goran Berglund,BM36,1
-19740916,342,Michael Burgener,NA,1
+19740916,342,Michael Burgener,,1
 19740916,342,Michael Hickey,H152,1
 19740916,342,Peter Ledbetter,L745,1
-19740916,342,James Mcardle,NA,1
+19740916,342,James Mcardle,,1
 19740916,342,Harry Sheridan,SA38,1
-19740916,342,Jim Casey,NA,1
+19740916,342,Jim Casey,,1
 19740916,342,Kevin Menton,MD14,1
-19740916,342,John O'Brien,NA,1
+19740916,342,John O'Brien,,1
 19740916,342,Kenneth Reid,R727,1
-19740916,342,David Hill,NA,1
+19740916,342,David Hill,,1
 19740916,342,Waldemar Timm,T109,1
 19740916,342,Peter Pokorny,P143,1
 19740916,342,Woody Blocher,B132,1
@@ -12041,7 +12024,7 @@ date,rank,name,id,points
 19740916,342,Chauncey Steele III,S238,1
 19740916,342,Paul Sullivan,S258,1
 19740916,342,Bill Drake,D158,1
-19740916,342,Keith Jennings,NA,1
+19740916,342,Keith Jennings,,1
 19740916,342,Ben Bishop,B137,1
 19740916,342,Scott Carnahan,C081,1
 19740916,342,Buddy Gallagher,GF46,1
@@ -12105,7 +12088,7 @@ date,rank,name,id,points
 19740923,43,Hans-Jurgen Pohmann,P082,196
 19740923,44,Corrado Barazzutti,B007,85
 19740923,45,Jeff Borowiak,B059,222
-19740923,46,Thomas Koch,NA,83
+19740923,46,Thomaz Koch,,83
 19740923,47,Robert Lutz,L045,140
 19740923,48,Roy Emerson,E030,78
 19740923,48,Jose Higueras,H019,78
@@ -12117,7 +12100,7 @@ date,rank,name,id,points
 19740923,55,Bob Hewitt,H058,67
 19740923,56,Raymond Moore,M118,128
 19740923,57,Karl Meiler,M055,99
-19740923,57,Jairo Velasco Sr,NA,66
+19740923,57,Jairo Velasco Sr,,66
 19740923,59,Brian Fairlie,F066,64
 19740923,60,Julian Ganzabal,G068,62
 19740923,61,John Yuill,Y008,60
@@ -12166,7 +12149,7 @@ date,rank,name,id,points
 19740923,104,Robert Kreiss,K052,55
 19740923,105,Jun Kamiwazumi,K002,74
 19740923,106,Mike Estep,E040,80
-19740923,107,Fred McNair,NA,64
+19740923,107,Fred McNair IV,,64
 19740923,108,Antonio Munoz,M156,75
 19740923,108,Charles Owens,O033,36
 19740923,110,Jaime Pinto-Bravo,P067,63
@@ -12227,7 +12210,7 @@ date,rank,name,id,points
 19740923,165,Rick Fisher,F070,20
 19740923,166,Bernard Mitton,M072,17
 19740923,167,Rolf Thung,T051,16
-19740923,167,Jan-Eric Lundquist,NA,16
+19740923,167,Jan-Erik Lundqvist,,16
 19740923,169,Vincenzo Franchitti,F103,15
 19740923,169,Premjit Lall,L117,15
 19740923,169,Felix Ponte,P179,15
@@ -12260,8 +12243,8 @@ date,rank,name,id,points
 19740923,198,Jan Simbera,S198,9
 19740923,198,D. Richard Russell,R077,9
 19740923,198,Eric Deblicker,D063,9
-19740923,198,Kiyoski Tanabe,NA,9
-19740923,198,Teimuraz Kakoulia,NA,9
+19740923,198,Kiyoski Tanabe,,9
+19740923,198,Teimuraz Kakoulia,,9
 19740923,198,Pat Dupre,D048,9
 19740923,198,Trey Waltke,W045,9
 19740923,198,Ashok Amritraj,A059,9
@@ -12287,7 +12270,7 @@ date,rank,name,id,points
 19740923,221,Derek Schroder,S243,6
 19740923,221,Butch Seewagen,S139,6
 19740923,221,Dimitri Sturdza,S241,6
-19740923,221,Victor Pecci Sr.,NA,6
+19740923,221,Victor Pecci,,6
 19740923,221,Christian Kuhnke,K138,6
 19740923,221,Peter Doerner,D079,6
 19740923,221,Steve Siegel,S297,6
@@ -12434,16 +12417,16 @@ date,rank,name,id,points
 19740923,344,Daniel Contet,C170,1
 19740923,344,Patrice Hagelauer,H101,1
 19740923,344,Goran Berglund,BM36,1
-19740923,344,Michael Burgener,NA,1
+19740923,344,Michael Burgener,,1
 19740923,344,Michael Hickey,H152,1
 19740923,344,Peter Ledbetter,L745,1
-19740923,344,James Mcardle,NA,1
+19740923,344,James Mcardle,,1
 19740923,344,Harry Sheridan,SA38,1
-19740923,344,Jim Casey,NA,1
+19740923,344,Jim Casey,,1
 19740923,344,Kevin Menton,MD14,1
-19740923,344,John O'Brien,NA,1
+19740923,344,John O'Brien,,1
 19740923,344,Kenneth Reid,R727,1
-19740923,344,David Hill,NA,1
+19740923,344,David Hill,,1
 19740923,344,Waldemar Timm,T109,1
 19740923,344,Peter Pokorny,P143,1
 19740923,344,Woody Blocher,B132,1
@@ -12463,7 +12446,7 @@ date,rank,name,id,points
 19740923,344,Chauncey Steele III,S238,1
 19740923,344,Paul Sullivan,S258,1
 19740923,344,Bill Drake,D158,1
-19740923,344,Keith Jennings,NA,1
+19740923,344,Keith Jennings,,1
 19740923,344,Ben Bishop,B137,1
 19740923,344,Scott Carnahan,C081,1
 19740923,344,Buddy Gallagher,GF46,1
@@ -12482,7 +12465,6 @@ date,rank,name,id,points
 19740923,344,Ron Myers,MP08,1
 19740923,344,Steve Docherty,D078,1
 19740923,344,Steve Messmer,M201,1
-19740923,0,Richard Pancho Gonzales,G077,0
 19740930,1,Jimmy Connors,C044,801
 19740930,2,John Newcombe,N044,695
 19740930,3,Rod Laver,L058,585
@@ -12527,7 +12509,7 @@ date,rank,name,id,points
 19740930,42,Balazs Taroczy,T007,97
 19740930,43,Hans-Jurgen Pohmann,P082,196
 19740930,44,Corrado Barazzutti,B007,85
-19740930,45,Thomas Koch,NA,83
+19740930,45,Thomaz Koch,,83
 19740930,46,Jeff Borowiak,B059,218
 19740930,47,Robert Lutz,L045,145
 19740930,48,Jose Higueras,H019,78
@@ -12538,7 +12520,7 @@ date,rank,name,id,points
 19740930,53,Frew McMillan,M111,123
 19740930,54,Bob Hewitt,H058,67
 19740930,55,Karl Meiler,M055,99
-19740930,55,Jairo Velasco Sr,NA,66
+19740930,55,Jairo Velasco Sr,,66
 19740930,57,Geoff Masters,M139,130
 19740930,57,John Yuill,Y008,65
 19740930,59,Brian Fairlie,F066,64
@@ -12591,7 +12573,7 @@ date,rank,name,id,points
 19740930,105,Vitas Gerulaitis,G008,39
 19740930,107,Jun Kamiwazumi,K002,74
 19740930,108,Robert Kreiss,K052,56
-19740930,109,Fred McNair,NA,64
+19740930,109,Fred McNair IV,,64
 19740930,110,Antonio Munoz,M156,75
 19740930,111,Charles Owens,O033,35
 19740930,112,Jaime Pinto-Bravo,P067,63
@@ -12649,7 +12631,7 @@ date,rank,name,id,points
 19740930,163,Peter Szoke,S230,18
 19740930,165,Bernard Mitton,M072,17
 19740930,166,Rolf Thung,T051,16
-19740930,166,Jan-Eric Lundquist,NA,16
+19740930,166,Jan-Erik Lundqvist,,16
 19740930,168,Vincenzo Franchitti,F103,15
 19740930,168,Premjit Lall,L117,15
 19740930,170,Petr Kanderal,K113,14
@@ -12681,8 +12663,8 @@ date,rank,name,id,points
 19740930,194,Henry Bunis,B135,10
 19740930,197,Jan Simbera,S198,9
 19740930,197,Eric Deblicker,D063,9
-19740930,197,Kiyoski Tanabe,NA,9
-19740930,197,Teimuraz Kakoulia,NA,9
+19740930,197,Kiyoski Tanabe,,9
+19740930,197,Teimuraz Kakoulia,,9
 19740930,197,Pat Dupre,D048,9
 19740930,197,Trey Waltke,W045,9
 19740930,197,Ashok Amritraj,A059,9
@@ -12709,7 +12691,7 @@ date,rank,name,id,points
 19740930,220,Derek Schroder,S243,6
 19740930,220,Butch Seewagen,S139,6
 19740930,220,Dimitri Sturdza,S241,6
-19740930,220,Victor Pecci Sr.,NA,6
+19740930,220,Victor Pecci,,6
 19740930,220,Christian Kuhnke,K138,6
 19740930,220,Peter Doerner,D079,6
 19740930,220,Steve Siegel,S297,6
@@ -12858,16 +12840,16 @@ date,rank,name,id,points
 19740930,345,Daniel Contet,C170,1
 19740930,345,Patrice Hagelauer,H101,1
 19740930,345,Goran Berglund,BM36,1
-19740930,345,Michael Burgener,NA,1
+19740930,345,Michael Burgener,,1
 19740930,345,Michael Hickey,H152,1
 19740930,345,Peter Ledbetter,L745,1
-19740930,345,James Mcardle,NA,1
+19740930,345,James Mcardle,,1
 19740930,345,Harry Sheridan,SA38,1
-19740930,345,Jim Casey,NA,1
+19740930,345,Jim Casey,,1
 19740930,345,Kevin Menton,MD14,1
-19740930,345,John O'Brien,NA,1
+19740930,345,John O'Brien,,1
 19740930,345,Kenneth Reid,R727,1
-19740930,345,David Hill,NA,1
+19740930,345,David Hill,,1
 19740930,345,Waldemar Timm,T109,1
 19740930,345,Peter Pokorny,P143,1
 19740930,345,Woody Blocher,B132,1
@@ -12887,7 +12869,7 @@ date,rank,name,id,points
 19740930,345,Chauncey Steele III,S238,1
 19740930,345,Paul Sullivan,S258,1
 19740930,345,Bill Drake,D158,1
-19740930,345,Keith Jennings,NA,1
+19740930,345,Keith Jennings,,1
 19740930,345,Ben Bishop,B137,1
 19740930,345,Scott Carnahan,C081,1
 19740930,345,Buddy Gallagher,GF46,1
@@ -12950,7 +12932,7 @@ date,rank,name,id,points
 19741007,43,Hans-Jurgen Pohmann,P082,196
 19741007,44,Corrado Barazzutti,B007,85
 19741007,45,Jeff Borowiak,B059,222
-19741007,46,Thomas Koch,NA,83
+19741007,46,Thomaz Koch,,83
 19741007,47,Robert Lutz,L045,145
 19741007,48,Jose Higueras,H019,78
 19741007,49,Charlie Pasarell,P072,168
@@ -12960,7 +12942,7 @@ date,rank,name,id,points
 19741007,53,Frew McMillan,M111,118
 19741007,54,Bob Hewitt,H058,67
 19741007,55,Karl Meiler,M055,99
-19741007,55,Jairo Velasco Sr,NA,66
+19741007,55,Jairo Velasco Sr,,66
 19741007,57,John Yuill,Y008,65
 19741007,58,Geoff Masters,M139,128
 19741007,58,Brian Fairlie,F066,64
@@ -13013,7 +12995,7 @@ date,rank,name,id,points
 19741007,106,Jun Kamiwazumi,K002,71
 19741007,107,Vitas Gerulaitis,G008,38
 19741007,108,Robert Kreiss,K052,56
-19741007,109,Fred McNair,NA,64
+19741007,109,Fred McNair IV,,64
 19741007,110,Antonio Munoz,M156,75
 19741007,111,William Brown,B134,61
 19741007,112,Jaime Pinto-Bravo,P067,63
@@ -13070,7 +13052,7 @@ date,rank,name,id,points
 19741007,160,Frank Froehling,F079,17
 19741007,164,Toshiro Sakai,S103,16
 19741007,164,Rolf Thung,T051,16
-19741007,164,Jan-Eric Lundquist,NA,16
+19741007,164,Jan-Erik Lundqvist,,16
 19741007,167,Vincenzo Franchitti,F103,15
 19741007,167,Premjit Lall,L117,15
 19741007,169,Petr Kanderal,K113,14
@@ -13104,7 +13086,7 @@ date,rank,name,id,points
 19741007,194,Henry Bunis,B135,10
 19741007,198,Jan Simbera,S198,9
 19741007,198,Eric Deblicker,D063,9
-19741007,198,Teimuraz Kakoulia,NA,9
+19741007,198,Teimuraz Kakoulia,,9
 19741007,198,Pat Dupre,D048,9
 19741007,198,Trey Waltke,W045,9
 19741007,198,Ashok Amritraj,A059,9
@@ -13125,13 +13107,13 @@ date,rank,name,id,points
 19741007,207,Mike Powers,P083,7
 19741007,219,Zan Guerry,G116,6
 19741007,219,Juan Herrera,H180,6
-19741007,219,Kiyoski Tanabe,NA,6
+19741007,219,Kiyoski Tanabe,,6
 19741007,219,Szabolcz Baranyi,B233,6
 19741007,219,Douglas Palm,P150,6
 19741007,219,Derek Schroder,S243,6
 19741007,219,Butch Seewagen,S139,6
 19741007,219,Dimitri Sturdza,S241,6
-19741007,219,Victor Pecci Sr.,NA,6
+19741007,219,Victor Pecci,,6
 19741007,219,Christian Kuhnke,K138,6
 19741007,219,Peter Doerner,D079,6
 19741007,219,Jim Osborne,O046,6
@@ -13280,16 +13262,16 @@ date,rank,name,id,points
 19741007,346,Daniel Contet,C170,1
 19741007,346,Patrice Hagelauer,H101,1
 19741007,346,Goran Berglund,BM36,1
-19741007,346,Michael Burgener,NA,1
+19741007,346,Michael Burgener,,1
 19741007,346,Michael Hickey,H152,1
 19741007,346,Peter Ledbetter,L745,1
-19741007,346,James Mcardle,NA,1
+19741007,346,James Mcardle,,1
 19741007,346,Harry Sheridan,SA38,1
-19741007,346,Jim Casey,NA,1
+19741007,346,Jim Casey,,1
 19741007,346,Kevin Menton,MD14,1
-19741007,346,John O'Brien,NA,1
+19741007,346,John O'Brien,,1
 19741007,346,Kenneth Reid,R727,1
-19741007,346,David Hill,NA,1
+19741007,346,David Hill,,1
 19741007,346,Waldemar Timm,T109,1
 19741007,346,Peter Pokorny,P143,1
 19741007,346,Woody Blocher,B132,1
@@ -13309,7 +13291,7 @@ date,rank,name,id,points
 19741007,346,Chauncey Steele III,S238,1
 19741007,346,Paul Sullivan,S258,1
 19741007,346,Bill Drake,D158,1
-19741007,346,Keith Jennings,NA,1
+19741007,346,Keith Jennings,,1
 19741007,346,Ben Bishop,B137,1
 19741007,346,Scott Carnahan,C081,1
 19741007,346,Buddy Gallagher,GF46,1
@@ -13327,8 +13309,6 @@ date,rank,name,id,points
 19741007,346,Michael Grant,G081,1
 19741007,346,Ron Myers,MP08,1
 19741007,346,Steve Messmer,M201,1
-19741007,0,Takeshi Koura,K137,0
-19741007,0,Robert McKinley,M293,0
 19741014,1,Jimmy Connors,C044,761
 19741014,2,John Newcombe,N044,745
 19741014,3,Rod Laver,L058,575
@@ -13371,7 +13351,7 @@ date,rank,name,id,points
 19741014,40,Balazs Taroczy,T007,97
 19741014,41,Paolo Bertolucci,B129,89
 19741014,42,Buster C. Mottram,M154,108
-19741014,43,Thomas Koch,NA,83
+19741014,43,Thomaz Koch,,83
 19741014,44,Jeff Borowiak,B059,207
 19741014,45,Robert Lutz,L045,145
 19741014,46,Kim Warwick,W006,84
@@ -13387,7 +13367,7 @@ date,rank,name,id,points
 19741014,56,Karl Meiler,M055,99
 19741014,57,Allan Stone,S148,114
 19741014,58,Brian Fairlie,F066,64
-19741014,59,Jairo Velasco Sr,NA,69
+19741014,59,Jairo Velasco Sr,,69
 19741014,60,Geoff Masters,M139,121
 19741014,61,Pierre Barthes,B122,74
 19741014,62,Sherwood Stewart,S082,143
@@ -13434,7 +13414,7 @@ date,rank,name,id,points
 19741014,103,Mike Estep,E040,84
 19741014,104,John Lloyd,L036,57
 19741014,105,Ivan Molina,M152,67
-19741014,106,Fred McNair,NA,70
+19741014,106,Fred McNair IV,,70
 19741014,107,Jim Delaney,D072,39
 19741014,108,Robert Kreiss,K052,56
 19741014,109,Antonio Munoz,M156,73
@@ -13494,7 +13474,7 @@ date,rank,name,id,points
 19741014,162,Steve Faulk,F069,17
 19741014,162,Frank Froehling,F079,17
 19741014,165,Rolf Thung,T051,16
-19741014,165,Jan-Eric Lundquist,NA,16
+19741014,165,Jan-Erik Lundqvist,,16
 19741014,167,Wojtek Fibak,F020,15
 19741014,167,Vincenzo Franchitti,F103,15
 19741014,167,Premjit Lall,L117,15
@@ -13528,14 +13508,14 @@ date,rank,name,id,points
 19741014,196,Jan Simbera,S198,9
 19741014,196,Eric Deblicker,D063,9
 19741014,196,William Lloyd,L064,9
-19741014,196,Teimuraz Kakoulia,NA,9
+19741014,196,Teimuraz Kakoulia,,9
 19741014,196,Patricio Rodriguez,R074,9
 19741014,196,Pat Dupre,D048,9
 19741014,196,Trey Waltke,W045,9
 19741014,196,Ashok Amritraj,A059,9
 19741014,205,Janos Benyik,B202,8
 19741014,205,Jacques Thamin,T099,8
-19741014,205,Kiyoski Tanabe,NA,8
+19741014,205,Kiyoski Tanabe,,8
 19741014,205,Martin Mulligan,M155,8
 19741014,209,Louk Sanders,S136,7
 19741014,209,Jean-Loup Rouyer,R141,7
@@ -13555,7 +13535,7 @@ date,rank,name,id,points
 19741014,221,Derek Schroder,S243,6
 19741014,221,Butch Seewagen,S139,6
 19741014,221,Dimitri Sturdza,S241,6
-19741014,221,Victor Pecci Sr.,NA,6
+19741014,221,Victor Pecci,,6
 19741014,221,Christian Kuhnke,K138,6
 19741014,221,Peter Doerner,D079,6
 19741014,221,Jim Osborne,O046,6
@@ -13710,16 +13690,16 @@ date,rank,name,id,points
 19741014,355,Daniel Contet,C170,1
 19741014,355,Patrice Hagelauer,H101,1
 19741014,355,Goran Berglund,BM36,1
-19741014,355,Michael Burgener,NA,1
+19741014,355,Michael Burgener,,1
 19741014,355,Michael Hickey,H152,1
 19741014,355,Peter Ledbetter,L745,1
-19741014,355,James Mcardle,NA,1
+19741014,355,James Mcardle,,1
 19741014,355,Harry Sheridan,SA38,1
-19741014,355,Jim Casey,NA,1
+19741014,355,Jim Casey,,1
 19741014,355,Kevin Menton,MD14,1
-19741014,355,John O'Brien,NA,1
+19741014,355,John O'Brien,,1
 19741014,355,Kenneth Reid,R727,1
-19741014,355,David Hill,NA,1
+19741014,355,David Hill,,1
 19741014,355,Waldemar Timm,T109,1
 19741014,355,Peter Pokorny,P143,1
 19741014,355,Woody Blocher,B132,1
@@ -13739,7 +13719,7 @@ date,rank,name,id,points
 19741014,355,Chauncey Steele III,S238,1
 19741014,355,Paul Sullivan,S258,1
 19741014,355,Bill Drake,D158,1
-19741014,355,Keith Jennings,NA,1
+19741014,355,Keith Jennings,,1
 19741014,355,Scott Carnahan,C081,1
 19741014,355,Buddy Gallagher,GF46,1
 19741014,355,Manuel Santana,S245,1
@@ -13757,7 +13737,7 @@ date,rank,name,id,points
 19741014,355,Ron Myers,MP08,1
 19741014,355,Steve Messmer,M201,1
 19741014,355,Shigeyuki Nishio,N020,1
-19741014,355,Kyoichi Sakamoto,NA,1
+19741014,355,Kyoichi Sakamoto,,1
 19741014,355,Akinori Naguro,N069,1
 19741014,355,Akira Motomura,M305,1
 19741014,355,Takao Yamamoto,Y030,1
@@ -13804,7 +13784,7 @@ date,rank,name,id,points
 19741021,37,Juan Gisbert Sr,G076,187
 19741021,38,Ismail El Shafei,E038,191
 19741021,39,Balazs Taroczy,T007,97
-19741021,40,Thomas Koch,NA,86
+19741021,40,Thomaz Koch,,86
 19741021,41,Vijay Amritraj,A022,132
 19741021,42,Jeff Borowiak,B059,204
 19741021,43,Robert Lutz,L045,145
@@ -13822,7 +13802,7 @@ date,rank,name,id,points
 19741021,55,Bob Hewitt,H058,67
 19741021,56,Karl Meiler,M055,94
 19741021,57,Brian Fairlie,F066,65
-19741021,58,Jairo Velasco Sr,NA,70
+19741021,58,Jairo Velasco Sr,,70
 19741021,59,Robert Maud,M140,69
 19741021,60,Raymond Moore,M118,103
 19741021,61,Sherwood Stewart,S082,141
@@ -13859,7 +13839,7 @@ date,rank,name,id,points
 19741021,91,Vladimir Zednik,Z023,66
 19741021,91,Bob Giltinan,G074,44
 19741021,94,Paul Kronk,K073,73
-19741021,95,Fred McNair,NA,76
+19741021,95,Fred McNair IV,,76
 19741021,96,Roy Emerson,E030,43
 19741021,97,Jun Kamiwazumi,K002,77
 19741021,97,Roger Dowdeswell,D081,56
@@ -13930,7 +13910,7 @@ date,rank,name,id,points
 19741021,160,Nicola Spear,S146,17
 19741021,164,Frank Gebert,G071,16
 19741021,164,Rolf Thung,T051,16
-19741021,164,Jan-Eric Lundquist,NA,16
+19741021,164,Jan-Erik Lundqvist,,16
 19741021,167,Vincenzo Franchitti,F103,15
 19741021,168,Petr Kanderal,K113,14
 19741021,168,Jose Edison Mandarino,M135,14
@@ -13961,7 +13941,7 @@ date,rank,name,id,points
 19741021,194,Yuji Tezuka,T090,9
 19741021,194,Jan Simbera,S198,9
 19741021,194,Eric Deblicker,D063,9
-19741021,194,Teimuraz Kakoulia,NA,9
+19741021,194,Teimuraz Kakoulia,,9
 19741021,194,Pat Dupre,D048,9
 19741021,194,Trey Waltke,W045,9
 19741021,194,Felix Ponte,P179,9
@@ -13975,7 +13955,7 @@ date,rank,name,id,points
 19741021,202,Bill Bowrey,B224,8
 19741021,209,Jacques Thamin,T099,7
 19741021,209,Louk Sanders,S136,7
-19741021,209,Kiyoski Tanabe,NA,7
+19741021,209,Kiyoski Tanabe,,7
 19741021,209,Jean-Loup Rouyer,R141,7
 19741021,209,Lars Elvstrom,E039,7
 19741021,209,Neale Fraser,F113,7
@@ -13994,7 +13974,7 @@ date,rank,name,id,points
 19741021,222,Butch Seewagen,S139,6
 19741021,222,Dimitri Sturdza,S241,6
 19741021,222,Peter Doerner,D079,6
-19741021,222,Victor Pecci Sr.,NA,6
+19741021,222,Victor Pecci,,6
 19741021,222,Christian Kuhnke,K138,6
 19741021,222,Jim Osborne,O046,6
 19741021,222,Steve Siegel,S297,6
@@ -14145,16 +14125,16 @@ date,rank,name,id,points
 19741021,355,Daniel Contet,C170,1
 19741021,355,Patrice Hagelauer,H101,1
 19741021,355,Goran Berglund,BM36,1
-19741021,355,Michael Burgener,NA,1
+19741021,355,Michael Burgener,,1
 19741021,355,Michael Hickey,H152,1
 19741021,355,Peter Ledbetter,L745,1
-19741021,355,James Mcardle,NA,1
+19741021,355,James Mcardle,,1
 19741021,355,Harry Sheridan,SA38,1
-19741021,355,Jim Casey,NA,1
+19741021,355,Jim Casey,,1
 19741021,355,Kevin Menton,MD14,1
-19741021,355,John O'Brien,NA,1
+19741021,355,John O'Brien,,1
 19741021,355,Kenneth Reid,R727,1
-19741021,355,David Hill,NA,1
+19741021,355,David Hill,,1
 19741021,355,Waldemar Timm,T109,1
 19741021,355,Peter Pokorny,P143,1
 19741021,355,Woody Blocher,B132,1
@@ -14174,7 +14154,7 @@ date,rank,name,id,points
 19741021,355,Chauncey Steele III,S238,1
 19741021,355,Paul Sullivan,S258,1
 19741021,355,Bill Drake,D158,1
-19741021,355,Keith Jennings,NA,1
+19741021,355,Keith Jennings,,1
 19741021,355,Scott Carnahan,C081,1
 19741021,355,Buddy Gallagher,GF46,1
 19741021,355,Manuel Santana,S245,1
@@ -14192,7 +14172,7 @@ date,rank,name,id,points
 19741021,355,Ron Myers,MP08,1
 19741021,355,Steve Messmer,M201,1
 19741021,355,Shigeyuki Nishio,N020,1
-19741021,355,Kyoichi Sakamoto,NA,1
+19741021,355,Kyoichi Sakamoto,,1
 19741021,355,Akinori Naguro,N069,1
 19741021,355,Akira Motomura,M305,1
 19741021,355,Takao Yamamoto,Y030,1
@@ -14200,9 +14180,6 @@ date,rank,name,id,points
 19741021,355,Sadao Kosugi,K110,1
 19741021,355,Ryoichi Mori,M312,1
 19741021,355,Yoshimito Miyashita,MB39,1
-19741021,0,Jaidip Mukerjea,M272,0
-19741021,0,Gaurav Misra,M773,0
-19741021,0,Ramanathan Krishnan,K103,0
 19741028,1,Jimmy Connors,C044,761
 19741028,2,John Newcombe,N044,745
 19741028,3,Rod Laver,L058,515
@@ -14229,7 +14206,7 @@ date,rank,name,id,points
 19741028,24,Tony Roche,R073,159
 19741028,25,John Alexander,A014,246
 19741028,26,Ross Case,C020,278
-19741028,27,Thomas Koch,NA,132
+19741028,27,Thomaz Koch,,132
 19741028,28,Andrew Pattison,P074,197
 19741028,29,Jaime Fillol Sr.,F024,328
 19741028,30,Onny Parun,P070,369
@@ -14262,7 +14239,7 @@ date,rank,name,id,points
 19741028,57,Brian Fairlie,F066,68
 19741028,58,Sherwood Stewart,S082,151
 19741028,59,Geoff Masters,M139,115
-19741028,59,Jairo Velasco Sr,NA,75
+19741028,59,Jairo Velasco Sr,,75
 19741028,59,Buster C. Mottram,M154,70
 19741028,59,Vitas Gerulaitis,G008,60
 19741028,63,Robert Maud,M140,69
@@ -14297,7 +14274,7 @@ date,rank,name,id,points
 19741028,92,Roy Emerson,E030,43
 19741028,93,Dick Dell,D073,89
 19741028,94,Ove Nils Bengtson,B126,74
-19741028,94,Fred McNair,NA,74
+19741028,94,Fred McNair IV,,74
 19741028,96,Jun Kamiwazumi,K002,77
 19741028,97,Colin Dibley,D076,101
 19741028,98,Hans-Joachim Ploetz,P081,41
@@ -14367,7 +14344,7 @@ date,rank,name,id,points
 19741028,158,Wanaro N'Godrella,N045,17
 19741028,163,Frank Gebert,G071,16
 19741028,163,Rolf Thung,T051,16
-19741028,163,Jan-Eric Lundquist,NA,16
+19741028,163,Jan-Erik Lundqvist,,16
 19741028,163,Nicola Spear,S146,16
 19741028,167,Vincenzo Franchitti,F103,15
 19741028,168,Petr Kanderal,K113,14
@@ -14399,7 +14376,7 @@ date,rank,name,id,points
 19741028,193,Mal Anderson,A060,9
 19741028,193,Eric Deblicker,D063,9
 19741028,193,Tony Parun,P071,9
-19741028,193,Teimuraz Kakoulia,NA,9
+19741028,193,Teimuraz Kakoulia,,9
 19741028,193,Pat Dupre,D048,9
 19741028,193,Trey Waltke,W045,9
 19741028,193,Felix Ponte,P179,9
@@ -14413,7 +14390,7 @@ date,rank,name,id,points
 19741028,202,Bill Bowrey,B224,8
 19741028,209,Birger Andersson,A086,7
 19741028,209,Louk Sanders,S136,7
-19741028,209,Kiyoski Tanabe,NA,7
+19741028,209,Kiyoski Tanabe,,7
 19741028,209,Jean-Loup Rouyer,R141,7
 19741028,209,Lars Elvstrom,E039,7
 19741028,209,Ionel Santeiu,S254,7
@@ -14436,7 +14413,7 @@ date,rank,name,id,points
 19741028,222,Butch Seewagen,S139,6
 19741028,222,Jim Osborne,O046,6
 19741028,222,Dimitri Sturdza,S241,6
-19741028,222,Victor Pecci Sr.,NA,6
+19741028,222,Victor Pecci,,6
 19741028,222,Christian Kuhnke,K138,6
 19741028,222,Steve Siegel,S297,6
 19741028,222,Kenneth McMillan,M145,6
@@ -14585,16 +14562,16 @@ date,rank,name,id,points
 19741028,359,Daniel Contet,C170,1
 19741028,359,Patrice Hagelauer,H101,1
 19741028,359,Goran Berglund,BM36,1
-19741028,359,Michael Burgener,NA,1
+19741028,359,Michael Burgener,,1
 19741028,359,Michael Hickey,H152,1
 19741028,359,Peter Ledbetter,L745,1
-19741028,359,James Mcardle,NA,1
+19741028,359,James Mcardle,,1
 19741028,359,Harry Sheridan,SA38,1
-19741028,359,Jim Casey,NA,1
+19741028,359,Jim Casey,,1
 19741028,359,Kevin Menton,MD14,1
-19741028,359,John O'Brien,NA,1
+19741028,359,John O'Brien,,1
 19741028,359,Kenneth Reid,R727,1
-19741028,359,David Hill,NA,1
+19741028,359,David Hill,,1
 19741028,359,Waldemar Timm,T109,1
 19741028,359,Peter Pokorny,P143,1
 19741028,359,Woody Blocher,B132,1
@@ -14614,7 +14591,7 @@ date,rank,name,id,points
 19741028,359,Chauncey Steele III,S238,1
 19741028,359,Paul Sullivan,S258,1
 19741028,359,Bill Drake,D158,1
-19741028,359,Keith Jennings,NA,1
+19741028,359,Keith Jennings,,1
 19741028,359,Scott Carnahan,C081,1
 19741028,359,Buddy Gallagher,GF46,1
 19741028,359,Manuel Santana,S245,1
@@ -14632,7 +14609,7 @@ date,rank,name,id,points
 19741028,359,Ron Myers,MP08,1
 19741028,359,Steve Messmer,M201,1
 19741028,359,Shigeyuki Nishio,N020,1
-19741028,359,Kyoichi Sakamoto,NA,1
+19741028,359,Kyoichi Sakamoto,,1
 19741028,359,Akinori Naguro,N069,1
 19741028,359,Akira Motomura,M305,1
 19741028,359,Takao Yamamoto,Y030,1
@@ -14641,24 +14618,24 @@ date,rank,name,id,points
 19741028,359,Ryoichi Mori,M312,1
 19741028,359,Yoshimito Miyashita,MB39,1
 19741028,359,Shirzad Akbari,AD19,1
-19741028,359,Kanyab Derafshijavan,NA,1
+19741028,359,Kanyab Derafshijavan,,1
 19741028,359,Ezzat Nemati,N355,1
 19741028,359,Carey Brading,B210,1
 19741028,359,T Mooney,MP27,1
 19741028,359,Richard Hawkes,H174,1
-19741028,359,G Harris,NA,1
+19741028,359,G Harris,,1
 19741028,359,Garry Slater,S509,1
-19741028,359,Chris Lewis (NZL),NA,1
+19741028,359,Chris Lewis (NZL),,1
 19741028,359,Peter Langsford,L124,1
 19741028,359,D Neilson,N772,1
 19741028,359,Peter Hampton,H139,1
-19741028,359,A. Whittaker,NA,1
+19741028,359,A. Whittaker,,1
 19741028,359,Michael Mooney,MP28,1
 19741028,359,S Menzies,MP29,1
 19741028,359,W Thom,TD22,1
 19741028,359,Nick Boyne,B960,1
 19741028,359,Chris Kachel,K044,1
-19741028,359,Eugene McCabe,NA,1
+19741028,359,Eugene McCabe,,1
 19741028,359,John Stephens,S304,1
 19741028,359,Max Pettman,P186,1
 19741028,359,Trevor Little,L138,1
@@ -14686,7 +14663,7 @@ date,rank,name,id,points
 19741104,21,Eddie Dibbs,D026,391
 19741104,22,Raul Ramirez,R065,431
 19741104,23,Cliff Richey,R071,191
-19741104,24,Thomas Koch,NA,143
+19741104,24,Thomaz Koch,,143
 19741104,25,Onny Parun,P070,406
 19741104,26,Tony Roche,R073,159
 19741104,27,John Alexander,A014,246
@@ -14725,7 +14702,7 @@ date,rank,name,id,points
 19741104,60,Buster C. Mottram,M154,70
 19741104,61,Robert Maud,M140,69
 19741104,62,Erik Van Dillen,V049,134
-19741104,63,Jairo Velasco Sr,NA,76
+19741104,63,Jairo Velasco Sr,,76
 19741104,64,Raymond Moore,M118,96
 19741104,65,Ray Ruffels,R076,73
 19741104,66,Grover Raz Reid,R068,91
@@ -14748,7 +14725,7 @@ date,rank,name,id,points
 19741104,83,Georges Goven,G031,87
 19741104,84,Fred Stolle,S129,45
 19741104,85,Gerald Battrick,B124,71
-19741104,86,Fred McNair,NA,78
+19741104,86,Fred McNair IV,,78
 19741104,87,Patrick Proisy,P085,70
 19741104,88,Ove Nils Bengtson,B126,76
 19741104,89,Paul Kronk,K073,79
@@ -14818,7 +14795,7 @@ date,rank,name,id,points
 19741104,153,Attila Korpas,K090,19
 19741104,153,Armistead Neely,N043,19
 19741104,153,Doug Crawford,C053,19
-19741104,156,Jan-Eric Lundquist,NA,18
+19741104,156,Jan-Erik Lundqvist,,18
 19741104,156,Rayno Seegers,S138,18
 19741104,156,Jean-Francois Caujolle,C082,18
 19741104,159,John Feaver,F008,19
@@ -14858,7 +14835,7 @@ date,rank,name,id,points
 19741104,188,Henry Bunis,B135,10
 19741104,188,Steven Turner,T053,10
 19741104,195,Yuji Tezuka,T090,9
-19741104,195,Teimuraz Kakoulia,NA,9
+19741104,195,Teimuraz Kakoulia,,9
 19741104,195,Tony Parun,P071,9
 19741104,195,Pat Dupre,D048,9
 19741104,195,Trey Waltke,W045,9
@@ -14872,7 +14849,7 @@ date,rank,name,id,points
 19741104,207,Jean-Loup Rouyer,R141,7
 19741104,207,Birger Andersson,A086,7
 19741104,207,Louk Sanders,S136,7
-19741104,207,Kiyoski Tanabe,NA,7
+19741104,207,Kiyoski Tanabe,,7
 19741104,207,Lars Elvstrom,E039,7
 19741104,207,Ionel Santeiu,S254,7
 19741104,207,Jan Hordijk,H166,7
@@ -14895,7 +14872,7 @@ date,rank,name,id,points
 19741104,222,Jim Osborne,O046,6
 19741104,222,Dimitri Sturdza,S241,6
 19741104,222,Butch Seewagen,S139,6
-19741104,222,Victor Pecci Sr.,NA,6
+19741104,222,Victor Pecci,,6
 19741104,222,Steve Siegel,S297,6
 19741104,222,John Holladay,H140,6
 19741104,222,Kenneth McMillan,M145,6
@@ -14962,7 +14939,7 @@ date,rank,name,id,points
 19741104,265,Peter Pokorny,P143,3
 19741104,265,Peter Fleming,F030,3
 19741104,265,Steve Docherty,D078,3
-19741104,265,Eugene McCabe,NA,3
+19741104,265,Eugene McCabe,,3
 19741104,301,Jacques Thamin,T099,2
 19741104,301,Mike Belkin,B125,2
 19741104,301,Jonathan Smith,S059,2
@@ -15045,16 +15022,16 @@ date,rank,name,id,points
 19741104,359,Patrick Hombergen,H127,1
 19741104,359,Michel Leclercq,L123,1
 19741104,359,Goran Berglund,BM36,1
-19741104,359,Michael Burgener,NA,1
+19741104,359,Michael Burgener,,1
 19741104,359,Michael Hickey,H152,1
 19741104,359,Peter Ledbetter,L745,1
-19741104,359,James Mcardle,NA,1
+19741104,359,James Mcardle,,1
 19741104,359,Harry Sheridan,SA38,1
-19741104,359,Jim Casey,NA,1
+19741104,359,Jim Casey,,1
 19741104,359,Kevin Menton,MD14,1
-19741104,359,John O'Brien,NA,1
+19741104,359,John O'Brien,,1
 19741104,359,Kenneth Reid,R727,1
-19741104,359,David Hill,NA,1
+19741104,359,David Hill,,1
 19741104,359,Waldemar Timm,T109,1
 19741104,359,Woody Blocher,B132,1
 19741104,359,Eduardo Gorostiaga,G186,1
@@ -15073,7 +15050,7 @@ date,rank,name,id,points
 19741104,359,Chauncey Steele III,S238,1
 19741104,359,Paul Sullivan,S258,1
 19741104,359,Bill Drake,D158,1
-19741104,359,Keith Jennings,NA,1
+19741104,359,Keith Jennings,,1
 19741104,359,Scott Carnahan,C081,1
 19741104,359,Buddy Gallagher,GF46,1
 19741104,359,Manuel Santana,S245,1
@@ -15091,7 +15068,7 @@ date,rank,name,id,points
 19741104,359,Ron Myers,MP08,1
 19741104,359,Steve Messmer,M201,1
 19741104,359,Shigeyuki Nishio,N020,1
-19741104,359,Kyoichi Sakamoto,NA,1
+19741104,359,Kyoichi Sakamoto,,1
 19741104,359,Akinori Naguro,N069,1
 19741104,359,Akira Motomura,M305,1
 19741104,359,Takao Yamamoto,Y030,1
@@ -15100,18 +15077,18 @@ date,rank,name,id,points
 19741104,359,Ryoichi Mori,M312,1
 19741104,359,Yoshimito Miyashita,MB39,1
 19741104,359,Shirzad Akbari,AD19,1
-19741104,359,Kanyab Derafshijavan,NA,1
+19741104,359,Kanyab Derafshijavan,,1
 19741104,359,Ezzat Nemati,N355,1
 19741104,359,Carey Brading,B210,1
 19741104,359,T Mooney,MP27,1
 19741104,359,Richard Hawkes,H174,1
-19741104,359,G Harris,NA,1
+19741104,359,G Harris,,1
 19741104,359,Garry Slater,S509,1
-19741104,359,Chris Lewis (NZL),NA,1
+19741104,359,Chris Lewis (NZL),,1
 19741104,359,Peter Langsford,L124,1
 19741104,359,D Neilson,N772,1
 19741104,359,Peter Hampton,H139,1
-19741104,359,A. Whittaker,NA,1
+19741104,359,A. Whittaker,,1
 19741104,359,Michael Mooney,MP28,1
 19741104,359,S Menzies,MP29,1
 19741104,359,W Thom,TD22,1
@@ -15125,9 +15102,6 @@ date,rank,name,id,points
 19741104,359,Samudra Sangitan,SE43,1
 19741104,359,Mazizat Sofyan,SR59,1
 19741104,359,Justedjo Tarik,T128,1
-19741104,0,Sutarjo Sugiarto,S302,0
-19741104,0,Diko Murdono,MD29,0
-19741104,0,Hadiman Hadiman,H215,0
 19741111,1,Jimmy Connors,C044,721
 19741111,2,John Newcombe,N044,715
 19741111,3,Rod Laver,L058,455
@@ -15151,7 +15125,7 @@ date,rank,name,id,points
 19741111,21,Eddie Dibbs,D026,396
 19741111,22,Tom Gorman,G078,326
 19741111,23,Cliff Richey,R071,191
-19741111,24,Thomas Koch,NA,155
+19741111,24,Thomaz Koch,,155
 19741111,25,Onny Parun,P070,416
 19741111,26,John Alexander,A014,245
 19741111,27,Tony Roche,R073,159
@@ -15193,7 +15167,7 @@ date,rank,name,id,points
 19741111,63,Erik Van Dillen,V049,135
 19741111,64,Dick Crealy,C093,162
 19741111,65,Ray Ruffels,R076,73
-19741111,66,Jairo Velasco Sr,NA,77
+19741111,66,Jairo Velasco Sr,,77
 19741111,67,Julian Ganzabal,G068,53
 19741111,68,Ion Tiriac,T040,75
 19741111,69,Grover Raz Reid,R068,92
@@ -15218,7 +15192,7 @@ date,rank,name,id,points
 19741111,88,Patrick Proisy,P085,70
 19741111,89,Colin Dibley,D076,99
 19741111,89,Gerald Battrick,B124,66
-19741111,91,Fred McNair,NA,79
+19741111,91,Fred McNair IV,,79
 19741111,92,Vladimir Zednik,Z023,61
 19741111,93,Roy Emerson,E030,43
 19741111,94,Dick Dell,D073,90
@@ -15268,7 +15242,7 @@ date,rank,name,id,points
 19741111,138,Torben Ulrich,U011,25
 19741111,139,Dennis Ralston,R064,23
 19741111,139,Mike Cahill,C075,23
-19741111,139,Jan-Eric Lundquist,NA,23
+19741111,139,Jan-Erik Lundqvist,,23
 19741111,142,Harald Elschenbroich,E037,30
 19741111,143,Kjell Johansson,J032,24
 19741111,144,Stephen Warboys,W090,22
@@ -15323,7 +15297,7 @@ date,rank,name,id,points
 19741111,189,Peter Szoke,S230,10
 19741111,189,Mike Machette,M132,10
 19741111,195,Yuji Tezuka,T090,9
-19741111,195,Teimuraz Kakoulia,NA,9
+19741111,195,Teimuraz Kakoulia,,9
 19741111,195,Tony Parun,P071,9
 19741111,195,Robert Machan,M194,9
 19741111,195,Trey Waltke,W045,9
@@ -15339,7 +15313,7 @@ date,rank,name,id,points
 19741111,209,Jean-Loup Rouyer,R141,7
 19741111,209,Louk Sanders,S136,7
 19741111,209,Rolf Norberg,N048,7
-19741111,209,Kiyoski Tanabe,NA,7
+19741111,209,Kiyoski Tanabe,,7
 19741111,209,Martin Mulligan,M155,7
 19741111,209,Lars Elvstrom,E039,7
 19741111,209,Ionel Santeiu,S254,7
@@ -15362,7 +15336,7 @@ date,rank,name,id,points
 19741111,224,Kenichi Hirai,H023,6
 19741111,224,Szabolcz Baranyi,B233,6
 19741111,224,Butch Seewagen,S139,6
-19741111,224,Victor Pecci Sr.,NA,6
+19741111,224,Victor Pecci,,6
 19741111,224,Steve Siegel,S297,6
 19741111,224,John Holladay,H140,6
 19741111,224,Sashi Menon,M058,6
@@ -15427,7 +15401,7 @@ date,rank,name,id,points
 19741111,264,Piero Toci,T086,3
 19741111,264,Peter Fleming,F030,3
 19741111,264,Steve Docherty,D078,3
-19741111,264,Eugene McCabe,NA,3
+19741111,264,Eugene McCabe,,3
 19741111,301,Mike Belkin,B125,2
 19741111,301,Jonathan Smith,S059,2
 19741111,301,Robert Casey,C100,2
@@ -15512,16 +15486,16 @@ date,rank,name,id,points
 19741111,362,Patrick Hombergen,H127,1
 19741111,362,Michel Leclercq,L123,1
 19741111,362,Goran Berglund,BM36,1
-19741111,362,Michael Burgener,NA,1
+19741111,362,Michael Burgener,,1
 19741111,362,Michael Hickey,H152,1
 19741111,362,Peter Ledbetter,L745,1
-19741111,362,James Mcardle,NA,1
+19741111,362,James Mcardle,,1
 19741111,362,Harry Sheridan,SA38,1
-19741111,362,Jim Casey,NA,1
+19741111,362,Jim Casey,,1
 19741111,362,Kevin Menton,MD14,1
-19741111,362,John O'Brien,NA,1
+19741111,362,John O'Brien,,1
 19741111,362,Kenneth Reid,R727,1
-19741111,362,David Hill,NA,1
+19741111,362,David Hill,,1
 19741111,362,Waldemar Timm,T109,1
 19741111,362,Woody Blocher,B132,1
 19741111,362,Eduardo Gorostiaga,G186,1
@@ -15540,7 +15514,7 @@ date,rank,name,id,points
 19741111,362,Chauncey Steele III,S238,1
 19741111,362,Paul Sullivan,S258,1
 19741111,362,Bill Drake,D158,1
-19741111,362,Keith Jennings,NA,1
+19741111,362,Keith Jennings,,1
 19741111,362,Scott Carnahan,C081,1
 19741111,362,Buddy Gallagher,GF46,1
 19741111,362,Manuel Santana,S245,1
@@ -15558,7 +15532,7 @@ date,rank,name,id,points
 19741111,362,Ron Myers,MP08,1
 19741111,362,Steve Messmer,M201,1
 19741111,362,Shigeyuki Nishio,N020,1
-19741111,362,Kyoichi Sakamoto,NA,1
+19741111,362,Kyoichi Sakamoto,,1
 19741111,362,Akinori Naguro,N069,1
 19741111,362,Akira Motomura,M305,1
 19741111,362,Takao Yamamoto,Y030,1
@@ -15567,18 +15541,18 @@ date,rank,name,id,points
 19741111,362,Ryoichi Mori,M312,1
 19741111,362,Yoshimito Miyashita,MB39,1
 19741111,362,Shirzad Akbari,AD19,1
-19741111,362,Kanyab Derafshijavan,NA,1
+19741111,362,Kanyab Derafshijavan,,1
 19741111,362,Ezzat Nemati,N355,1
 19741111,362,Carey Brading,B210,1
 19741111,362,T Mooney,MP27,1
 19741111,362,Richard Hawkes,H174,1
-19741111,362,G Harris,NA,1
+19741111,362,G Harris,,1
 19741111,362,Garry Slater,S509,1
-19741111,362,Chris Lewis (NZL),NA,1
+19741111,362,Chris Lewis (NZL),,1
 19741111,362,Peter Langsford,L124,1
 19741111,362,D Neilson,N772,1
 19741111,362,Peter Hampton,H139,1
-19741111,362,A. Whittaker,NA,1
+19741111,362,A. Whittaker,,1
 19741111,362,Michael Mooney,MP28,1
 19741111,362,S Menzies,MP29,1
 19741111,362,W Thom,TD22,1
@@ -15598,7 +15572,6 @@ date,rank,name,id,points
 19741111,362,Jan Kallquist,K069,1
 19741111,362,Jan Zabrodsky,Z030,1
 19741111,362,Tau Luu,L589,1
-19741111,0,Olle Palmer,P005,0
 19741118,1,Jimmy Connors,C044,783
 19741118,2,John Newcombe,N044,735
 19741118,3,Rod Laver,L058,455
@@ -15624,7 +15597,7 @@ date,rank,name,id,points
 19741118,23,Francois Jauffret,J031,179
 19741118,24,Tony Roche,R073,189
 19741118,25,Cliff Richey,R071,191
-19741118,26,Thomas Koch,NA,155
+19741118,26,Thomaz Koch,,155
 19741118,27,Brian Gottfried,G029,352
 19741118,28,John Alexander,A014,245
 19741118,29,Andrew Pattison,P074,212
@@ -15669,7 +15642,7 @@ date,rank,name,id,points
 19741118,68,Karl Meiler,M055,76
 19741118,69,Julian Ganzabal,G068,53
 19741118,70,Ion Tiriac,T040,70
-19741118,71,Jairo Velasco Sr,NA,78
+19741118,71,Jairo Velasco Sr,,78
 19741118,72,Paul Gerken,G073,125
 19741118,73,Wojtek Fibak,F020,51
 19741118,74,Patricio Cornejo,C088,130
@@ -15692,7 +15665,7 @@ date,rank,name,id,points
 19741118,89,John Andrews,A062,44
 19741118,92,Dick Dell,D073,95
 19741118,93,Patrick Proisy,P085,65
-19741118,94,Fred McNair,NA,79
+19741118,94,Fred McNair IV,,79
 19741118,95,Vladimir Zednik,Z023,61
 19741118,96,Roy Emerson,E030,43
 19741118,97,John Lloyd,L036,64
@@ -15727,7 +15700,7 @@ date,rank,name,id,points
 19741118,126,Mark Farrell,F067,29
 19741118,127,Graham Stilwell,S147,33
 19741118,128,Humphrey Hose,H064,26
-19741118,128,Jan-Eric Lundquist,NA,26
+19741118,128,Jan-Erik Lundqvist,,26
 19741118,128,Bob Giltinan,G074,26
 19741118,128,Ray Keldie,K047,26
 19741118,128,Frantisek Pala,P100,26
@@ -15802,7 +15775,7 @@ date,rank,name,id,points
 19741118,195,Patricio Rodriguez,R074,10
 19741118,195,Ashok Amritraj,A059,10
 19741118,203,Yuji Tezuka,T090,9
-19741118,203,Teimuraz Kakoulia,NA,9
+19741118,203,Teimuraz Kakoulia,,9
 19741118,203,Robert Machan,M194,9
 19741118,203,Pat Dupre,D048,9
 19741118,207,Rolf Norberg,N048,8
@@ -15813,7 +15786,7 @@ date,rank,name,id,points
 19741118,207,John Bartlett,B123,8
 19741118,213,Jean-Loup Rouyer,R141,7
 19741118,213,Louk Sanders,S136,7
-19741118,213,Kiyoski Tanabe,NA,7
+19741118,213,Kiyoski Tanabe,,7
 19741118,213,Mike Powers,P083,7
 19741118,213,Martin Mulligan,M155,7
 19741118,213,Ionel Santeiu,S254,7
@@ -15838,7 +15811,7 @@ date,rank,name,id,points
 19741118,227,Szabolcz Baranyi,B233,6
 19741118,227,Jacques Thamin,T099,6
 19741118,227,Butch Seewagen,S139,6
-19741118,227,Victor Pecci Sr.,NA,6
+19741118,227,Victor Pecci,,6
 19741118,227,Steve Siegel,S297,6
 19741118,227,John Holladay,H140,6
 19741118,243,Terry Addison,A056,5
@@ -15901,7 +15874,7 @@ date,rank,name,id,points
 19741118,270,Peter Pokorny,P143,3
 19741118,270,Peter Fleming,F030,3
 19741118,270,Steve Docherty,D078,3
-19741118,270,Eugene McCabe,NA,3
+19741118,270,Eugene McCabe,,3
 19741118,270,Jan Zabrodsky,Z030,3
 19741118,270,Terry Ryan,R078,3
 19741118,270,Nicholas Kalogeropoulos,K045,3
@@ -15962,7 +15935,7 @@ date,rank,name,id,points
 19741118,309,Matti Timonen,T022,2
 19741118,309,Pekka Saila,S306,2
 19741118,309,Tony Dawson,D141,2
-19741118,309,Ed McKaid,NA,2
+19741118,309,Ed McKaid,,2
 19741118,309,Ulrich Marten,M137,2
 19741118,309,Robert Millington,MD41,2
 19741118,309,Sergio Cruz,C936,2
@@ -15994,16 +15967,16 @@ date,rank,name,id,points
 19741118,374,Patrick Hombergen,H127,1
 19741118,374,Michel Leclercq,L123,1
 19741118,374,Goran Berglund,BM36,1
-19741118,374,Michael Burgener,NA,1
+19741118,374,Michael Burgener,,1
 19741118,374,Michael Hickey,H152,1
 19741118,374,Peter Ledbetter,L745,1
-19741118,374,James Mcardle,NA,1
+19741118,374,James Mcardle,,1
 19741118,374,Harry Sheridan,SA38,1
-19741118,374,Jim Casey,NA,1
+19741118,374,Jim Casey,,1
 19741118,374,Kevin Menton,MD14,1
-19741118,374,John O'Brien,NA,1
+19741118,374,John O'Brien,,1
 19741118,374,Kenneth Reid,R727,1
-19741118,374,David Hill,NA,1
+19741118,374,David Hill,,1
 19741118,374,Waldemar Timm,T109,1
 19741118,374,Woody Blocher,B132,1
 19741118,374,Eduardo Gorostiaga,G186,1
@@ -16022,7 +15995,7 @@ date,rank,name,id,points
 19741118,374,Chauncey Steele III,S238,1
 19741118,374,Paul Sullivan,S258,1
 19741118,374,Bill Drake,D158,1
-19741118,374,Keith Jennings,NA,1
+19741118,374,Keith Jennings,,1
 19741118,374,Scott Carnahan,C081,1
 19741118,374,Buddy Gallagher,GF46,1
 19741118,374,Bruce Nichols,N060,1
@@ -16039,7 +16012,7 @@ date,rank,name,id,points
 19741118,374,Ron Myers,MP08,1
 19741118,374,Steve Messmer,M201,1
 19741118,374,Shigeyuki Nishio,N020,1
-19741118,374,Kyoichi Sakamoto,NA,1
+19741118,374,Kyoichi Sakamoto,,1
 19741118,374,Akinori Naguro,N069,1
 19741118,374,Akira Motomura,M305,1
 19741118,374,Takao Yamamoto,Y030,1
@@ -16048,18 +16021,18 @@ date,rank,name,id,points
 19741118,374,Ryoichi Mori,M312,1
 19741118,374,Yoshimito Miyashita,MB39,1
 19741118,374,Shirzad Akbari,AD19,1
-19741118,374,Kanyab Derafshijavan,NA,1
+19741118,374,Kanyab Derafshijavan,,1
 19741118,374,Ezzat Nemati,N355,1
 19741118,374,Carey Brading,B210,1
 19741118,374,T Mooney,MP27,1
 19741118,374,Richard Hawkes,H174,1
-19741118,374,G Harris,NA,1
+19741118,374,G Harris,,1
 19741118,374,Garry Slater,S509,1
-19741118,374,Chris Lewis (NZL),NA,1
+19741118,374,Chris Lewis (NZL),,1
 19741118,374,Peter Langsford,L124,1
 19741118,374,D Neilson,N772,1
 19741118,374,Peter Hampton,H139,1
-19741118,374,A. Whittaker,NA,1
+19741118,374,A. Whittaker,,1
 19741118,374,Michael Mooney,MP28,1
 19741118,374,S Menzies,MP29,1
 19741118,374,W Thom,TD22,1
@@ -16087,7 +16060,7 @@ date,rank,name,id,points
 19741118,374,Jesus Hernandez,HC07,1
 19741118,374,Bidynt Goswami,G143,1
 19741118,374,Jaidip Mukerjea,M272,1
-19741118,374,N/A Akhtar,NA,1
+19741118,374,N/A Akhtar,,1
 19741118,374,Narendra Singh,SR58,1
 19741118,374,Lars Samuelson,S307,1
 19741118,374,Erik Stenninger,SE60,1
@@ -16113,7 +16086,7 @@ date,rank,name,id,points
 19741125,20,Eddie Dibbs,D026,386
 19741125,21,Onny Parun,P070,453
 19741125,22,Tom Gorman,G078,321
-19741125,23,Thomas Koch,NA,152
+19741125,23,Thomaz Koch,,152
 19741125,24,Tony Roche,R073,189
 19741125,25,Francois Jauffret,J031,180
 19741125,26,Cliff Richey,R071,191
@@ -16169,7 +16142,7 @@ date,rank,name,id,points
 19741125,76,Wojtek Fibak,F020,51
 19741125,77,Ivan Molina,M152,89
 19741125,78,Antonio Zugarelli,Z013,88
-19741125,79,Jairo Velasco Sr,NA,79
+19741125,79,Jairo Velasco Sr,,79
 19741125,80,Hans Kary,K041,86
 19741125,81,Anand Amritraj,A021,71
 19741125,82,Jun Kuki,K054,63
@@ -16184,7 +16157,7 @@ date,rank,name,id,points
 19741125,90,John Andrews,A062,44
 19741125,92,Paul Kronk,K073,84
 19741125,93,Patrick Proisy,P085,65
-19741125,94,Fred McNair,NA,79
+19741125,94,Fred McNair IV,,79
 19741125,95,Vladimir Zednik,Z023,61
 19741125,96,Roy Emerson,E030,43
 19741125,97,Dick Dell,D073,96
@@ -16219,7 +16192,7 @@ date,rank,name,id,points
 19741125,126,Ian Fletcher,F071,27
 19741125,127,Mark Farrell,F067,29
 19741125,128,Humphrey Hose,H064,26
-19741125,128,Jan-Eric Lundquist,NA,26
+19741125,128,Jan-Erik Lundqvist,,26
 19741125,128,Bob Giltinan,G074,26
 19741125,128,Frantisek Pala,P100,26
 19741125,132,Fred Stolle,S129,25
@@ -16241,7 +16214,7 @@ date,rank,name,id,points
 19741125,148,John Feaver,F008,23
 19741125,149,Jean-Baptiste Chanfreau,C083,28
 19741125,149,Colin Dowdeswell,D037,21
-19741125,149,Victor Pecci Sr.,NA,21
+19741125,149,Victor Pecci,,21
 19741125,152,Kjell Johansson,J032,22
 19741125,153,Victor Amaya,A044,20
 19741125,153,Armistead Neely,N043,20
@@ -16298,7 +16271,7 @@ date,rank,name,id,points
 19741125,200,Ashok Amritraj,A059,10
 19741125,206,Yuji Tezuka,T090,9
 19741125,206,Carlos Kirmayr,K009,9
-19741125,206,Teimuraz Kakoulia,NA,9
+19741125,206,Teimuraz Kakoulia,,9
 19741125,206,Robert Machan,M194,9
 19741125,206,Byron Bertram,B130,9
 19741125,206,Pat Dupre,D048,9
@@ -16313,7 +16286,7 @@ date,rank,name,id,points
 19741125,218,Mike Powers,P083,7
 19741125,218,Derek Schroder,S243,7
 19741125,218,Louk Sanders,S136,7
-19741125,218,Kiyoski Tanabe,NA,7
+19741125,218,Kiyoski Tanabe,,7
 19741125,218,Martin Mulligan,M155,7
 19741125,218,Peter Doerner,D079,7
 19741125,218,Ionel Santeiu,S254,7
@@ -16395,7 +16368,7 @@ date,rank,name,id,points
 19741125,272,Peter Pokorny,P143,3
 19741125,272,Peter Fleming,F030,3
 19741125,272,Steve Docherty,D078,3
-19741125,272,Eugene McCabe,NA,3
+19741125,272,Eugene McCabe,,3
 19741125,272,Jan Zabrodsky,Z030,3
 19741125,272,Rauty Krog,K102,3
 19741125,272,Terry Ryan,R078,3
@@ -16455,7 +16428,7 @@ date,rank,name,id,points
 19741125,312,Matti Timonen,T022,2
 19741125,312,Pekka Saila,S306,2
 19741125,312,Tony Dawson,D141,2
-19741125,312,Ed McKaid,NA,2
+19741125,312,Ed McKaid,,2
 19741125,312,Ulrich Marten,M137,2
 19741125,312,Robert Millington,MD41,2
 19741125,312,Sergio Cruz,C936,2
@@ -16487,16 +16460,16 @@ date,rank,name,id,points
 19741125,375,Patrick Hombergen,H127,1
 19741125,375,Michel Leclercq,L123,1
 19741125,375,Goran Berglund,BM36,1
-19741125,375,Michael Burgener,NA,1
+19741125,375,Michael Burgener,,1
 19741125,375,Michael Hickey,H152,1
 19741125,375,Peter Ledbetter,L745,1
-19741125,375,James Mcardle,NA,1
+19741125,375,James Mcardle,,1
 19741125,375,Harry Sheridan,SA38,1
-19741125,375,Jim Casey,NA,1
+19741125,375,Jim Casey,,1
 19741125,375,Kevin Menton,MD14,1
-19741125,375,John O'Brien,NA,1
+19741125,375,John O'Brien,,1
 19741125,375,Kenneth Reid,R727,1
-19741125,375,David Hill,NA,1
+19741125,375,David Hill,,1
 19741125,375,Waldemar Timm,T109,1
 19741125,375,Woody Blocher,B132,1
 19741125,375,Eduardo Gorostiaga,G186,1
@@ -16515,7 +16488,7 @@ date,rank,name,id,points
 19741125,375,Chauncey Steele III,S238,1
 19741125,375,Paul Sullivan,S258,1
 19741125,375,Bill Drake,D158,1
-19741125,375,Keith Jennings,NA,1
+19741125,375,Keith Jennings,,1
 19741125,375,Scott Carnahan,C081,1
 19741125,375,Buddy Gallagher,GF46,1
 19741125,375,Bruce Nichols,N060,1
@@ -16532,7 +16505,7 @@ date,rank,name,id,points
 19741125,375,Ron Myers,MP08,1
 19741125,375,Steve Messmer,M201,1
 19741125,375,Shigeyuki Nishio,N020,1
-19741125,375,Kyoichi Sakamoto,NA,1
+19741125,375,Kyoichi Sakamoto,,1
 19741125,375,Akinori Naguro,N069,1
 19741125,375,Akira Motomura,M305,1
 19741125,375,Takao Yamamoto,Y030,1
@@ -16541,18 +16514,18 @@ date,rank,name,id,points
 19741125,375,Ryoichi Mori,M312,1
 19741125,375,Yoshimito Miyashita,MB39,1
 19741125,375,Shirzad Akbari,AD19,1
-19741125,375,Kanyab Derafshijavan,NA,1
+19741125,375,Kanyab Derafshijavan,,1
 19741125,375,Ezzat Nemati,N355,1
 19741125,375,Carey Brading,B210,1
 19741125,375,T Mooney,MP27,1
 19741125,375,Richard Hawkes,H174,1
-19741125,375,G Harris,NA,1
+19741125,375,G Harris,,1
 19741125,375,Garry Slater,S509,1
-19741125,375,Chris Lewis (NZL),NA,1
+19741125,375,Chris Lewis (NZL),,1
 19741125,375,Peter Langsford,L124,1
 19741125,375,D Neilson,N772,1
 19741125,375,Peter Hampton,H139,1
-19741125,375,A. Whittaker,NA,1
+19741125,375,A. Whittaker,,1
 19741125,375,Michael Mooney,MP28,1
 19741125,375,S Menzies,MP29,1
 19741125,375,W Thom,TD22,1
@@ -16580,7 +16553,7 @@ date,rank,name,id,points
 19741125,375,Jesus Hernandez,HC07,1
 19741125,375,Bidynt Goswami,G143,1
 19741125,375,Jaidip Mukerjea,M272,1
-19741125,375,N/A Akhtar,NA,1
+19741125,375,N/A Akhtar,,1
 19741125,375,Narendra Singh,SR58,1
 19741125,375,Lars Samuelson,S307,1
 19741125,375,Erik Stenninger,SE60,1
@@ -16610,7 +16583,7 @@ date,rank,name,id,points
 19741202,20,Eddie Dibbs,D026,386
 19741202,21,Onny Parun,P070,453
 19741202,22,Tom Gorman,G078,321
-19741202,23,Thomas Koch,NA,152
+19741202,23,Thomaz Koch,,152
 19741202,24,Tony Roche,R073,189
 19741202,25,Francois Jauffret,J031,180
 19741202,26,Cliff Richey,R071,191
@@ -16666,7 +16639,7 @@ date,rank,name,id,points
 19741202,76,Wojtek Fibak,F020,51
 19741202,77,Ivan Molina,M152,89
 19741202,78,Antonio Zugarelli,Z013,88
-19741202,79,Jairo Velasco Sr,NA,79
+19741202,79,Jairo Velasco Sr,,79
 19741202,80,Hans Kary,K041,86
 19741202,81,Anand Amritraj,A021,71
 19741202,82,Jun Kuki,K054,63
@@ -16681,7 +16654,7 @@ date,rank,name,id,points
 19741202,90,John Andrews,A062,44
 19741202,92,Paul Kronk,K073,84
 19741202,93,Patrick Proisy,P085,65
-19741202,94,Fred McNair,NA,79
+19741202,94,Fred McNair IV,,79
 19741202,95,Vladimir Zednik,Z023,61
 19741202,96,Roy Emerson,E030,43
 19741202,97,Dick Dell,D073,96
@@ -16716,7 +16689,7 @@ date,rank,name,id,points
 19741202,126,Ian Fletcher,F071,27
 19741202,127,Mark Farrell,F067,29
 19741202,128,Humphrey Hose,H064,26
-19741202,128,Jan-Eric Lundquist,NA,26
+19741202,128,Jan-Erik Lundqvist,,26
 19741202,128,Bob Giltinan,G074,26
 19741202,128,Frantisek Pala,P100,26
 19741202,132,Fred Stolle,S129,25
@@ -16738,7 +16711,7 @@ date,rank,name,id,points
 19741202,148,John Feaver,F008,23
 19741202,149,Jean-Baptiste Chanfreau,C083,28
 19741202,149,Colin Dowdeswell,D037,21
-19741202,149,Victor Pecci Sr.,NA,21
+19741202,149,Victor Pecci,,21
 19741202,152,Kjell Johansson,J032,22
 19741202,153,Victor Amaya,A044,20
 19741202,153,Armistead Neely,N043,20
@@ -16795,7 +16768,7 @@ date,rank,name,id,points
 19741202,200,Ashok Amritraj,A059,10
 19741202,206,Yuji Tezuka,T090,9
 19741202,206,Carlos Kirmayr,K009,9
-19741202,206,Teimuraz Kakoulia,NA,9
+19741202,206,Teimuraz Kakoulia,,9
 19741202,206,Robert Machan,M194,9
 19741202,206,Byron Bertram,B130,9
 19741202,206,Pat Dupre,D048,9
@@ -16810,7 +16783,7 @@ date,rank,name,id,points
 19741202,218,Mike Powers,P083,7
 19741202,218,Derek Schroder,S243,7
 19741202,218,Louk Sanders,S136,7
-19741202,218,Kiyoski Tanabe,NA,7
+19741202,218,Kiyoski Tanabe,,7
 19741202,218,Martin Mulligan,M155,7
 19741202,218,Peter Doerner,D079,7
 19741202,218,Ionel Santeiu,S254,7
@@ -16892,7 +16865,7 @@ date,rank,name,id,points
 19741202,272,Peter Pokorny,P143,3
 19741202,272,Peter Fleming,F030,3
 19741202,272,Steve Docherty,D078,3
-19741202,272,Eugene McCabe,NA,3
+19741202,272,Eugene McCabe,,3
 19741202,272,Jan Zabrodsky,Z030,3
 19741202,272,Rauty Krog,K102,3
 19741202,272,Terry Ryan,R078,3
@@ -16952,7 +16925,7 @@ date,rank,name,id,points
 19741202,312,Matti Timonen,T022,2
 19741202,312,Pekka Saila,S306,2
 19741202,312,Tony Dawson,D141,2
-19741202,312,Ed McKaid,NA,2
+19741202,312,Ed McKaid,,2
 19741202,312,Ulrich Marten,M137,2
 19741202,312,Robert Millington,MD41,2
 19741202,312,Sergio Cruz,C936,2
@@ -16984,16 +16957,16 @@ date,rank,name,id,points
 19741202,375,Patrick Hombergen,H127,1
 19741202,375,Michel Leclercq,L123,1
 19741202,375,Goran Berglund,BM36,1
-19741202,375,Michael Burgener,NA,1
+19741202,375,Michael Burgener,,1
 19741202,375,Michael Hickey,H152,1
 19741202,375,Peter Ledbetter,L745,1
-19741202,375,James Mcardle,NA,1
+19741202,375,James Mcardle,,1
 19741202,375,Harry Sheridan,SA38,1
-19741202,375,Jim Casey,NA,1
+19741202,375,Jim Casey,,1
 19741202,375,Kevin Menton,MD14,1
-19741202,375,John O'Brien,NA,1
+19741202,375,John O'Brien,,1
 19741202,375,Kenneth Reid,R727,1
-19741202,375,David Hill,NA,1
+19741202,375,David Hill,,1
 19741202,375,Waldemar Timm,T109,1
 19741202,375,Woody Blocher,B132,1
 19741202,375,Eduardo Gorostiaga,G186,1
@@ -17012,7 +16985,7 @@ date,rank,name,id,points
 19741202,375,Chauncey Steele III,S238,1
 19741202,375,Paul Sullivan,S258,1
 19741202,375,Bill Drake,D158,1
-19741202,375,Keith Jennings,NA,1
+19741202,375,Keith Jennings,,1
 19741202,375,Scott Carnahan,C081,1
 19741202,375,Buddy Gallagher,GF46,1
 19741202,375,Bruce Nichols,N060,1
@@ -17029,7 +17002,7 @@ date,rank,name,id,points
 19741202,375,Ron Myers,MP08,1
 19741202,375,Steve Messmer,M201,1
 19741202,375,Shigeyuki Nishio,N020,1
-19741202,375,Kyoichi Sakamoto,NA,1
+19741202,375,Kyoichi Sakamoto,,1
 19741202,375,Akinori Naguro,N069,1
 19741202,375,Akira Motomura,M305,1
 19741202,375,Takao Yamamoto,Y030,1
@@ -17038,18 +17011,18 @@ date,rank,name,id,points
 19741202,375,Ryoichi Mori,M312,1
 19741202,375,Yoshimito Miyashita,MB39,1
 19741202,375,Shirzad Akbari,AD19,1
-19741202,375,Kanyab Derafshijavan,NA,1
+19741202,375,Kanyab Derafshijavan,,1
 19741202,375,Ezzat Nemati,N355,1
 19741202,375,Carey Brading,B210,1
 19741202,375,T Mooney,MP27,1
 19741202,375,Richard Hawkes,H174,1
-19741202,375,G Harris,NA,1
+19741202,375,G Harris,,1
 19741202,375,Garry Slater,S509,1
-19741202,375,Chris Lewis (NZL),NA,1
+19741202,375,Chris Lewis (NZL),,1
 19741202,375,Peter Langsford,L124,1
 19741202,375,D Neilson,N772,1
 19741202,375,Peter Hampton,H139,1
-19741202,375,A. Whittaker,NA,1
+19741202,375,A. Whittaker,,1
 19741202,375,Michael Mooney,MP28,1
 19741202,375,S Menzies,MP29,1
 19741202,375,W Thom,TD22,1
@@ -17077,7 +17050,7 @@ date,rank,name,id,points
 19741202,375,Jesus Hernandez,HC07,1
 19741202,375,Bidynt Goswami,G143,1
 19741202,375,Jaidip Mukerjea,M272,1
-19741202,375,N/A Akhtar,NA,1
+19741202,375,N/A Akhtar,,1
 19741202,375,Narendra Singh,SR58,1
 19741202,375,Lars Samuelson,S307,1
 19741202,375,Erik Stenninger,SE60,1
@@ -17107,7 +17080,7 @@ date,rank,name,id,points
 19741209,20,Eddie Dibbs,D026,386
 19741209,21,Onny Parun,P070,453
 19741209,22,Tom Gorman,G078,321
-19741209,23,Thomas Koch,NA,152
+19741209,23,Thomaz Koch,,152
 19741209,24,Tony Roche,R073,189
 19741209,25,Francois Jauffret,J031,180
 19741209,26,Cliff Richey,R071,191
@@ -17163,7 +17136,7 @@ date,rank,name,id,points
 19741209,76,Wojtek Fibak,F020,51
 19741209,77,Ivan Molina,M152,89
 19741209,78,Antonio Zugarelli,Z013,88
-19741209,79,Jairo Velasco Sr,NA,79
+19741209,79,Jairo Velasco Sr,,79
 19741209,80,Hans Kary,K041,86
 19741209,81,Anand Amritraj,A021,71
 19741209,82,Jun Kuki,K054,63
@@ -17178,7 +17151,7 @@ date,rank,name,id,points
 19741209,90,John Andrews,A062,44
 19741209,92,Paul Kronk,K073,84
 19741209,93,Patrick Proisy,P085,65
-19741209,94,Fred McNair,NA,79
+19741209,94,Fred McNair IV,,79
 19741209,95,Vladimir Zednik,Z023,61
 19741209,96,Roy Emerson,E030,43
 19741209,97,Dick Dell,D073,96
@@ -17213,7 +17186,7 @@ date,rank,name,id,points
 19741209,126,Ian Fletcher,F071,27
 19741209,127,Mark Farrell,F067,29
 19741209,128,Humphrey Hose,H064,26
-19741209,128,Jan-Eric Lundquist,NA,26
+19741209,128,Jan-Erik Lundqvist,,26
 19741209,128,Bob Giltinan,G074,26
 19741209,128,Frantisek Pala,P100,26
 19741209,132,Fred Stolle,S129,25
@@ -17235,7 +17208,7 @@ date,rank,name,id,points
 19741209,148,John Feaver,F008,23
 19741209,149,Jean-Baptiste Chanfreau,C083,28
 19741209,149,Colin Dowdeswell,D037,21
-19741209,149,Victor Pecci Sr.,NA,21
+19741209,149,Victor Pecci,,21
 19741209,152,Kjell Johansson,J032,22
 19741209,153,Victor Amaya,A044,20
 19741209,153,Armistead Neely,N043,20
@@ -17292,7 +17265,7 @@ date,rank,name,id,points
 19741209,200,Ashok Amritraj,A059,10
 19741209,206,Yuji Tezuka,T090,9
 19741209,206,Carlos Kirmayr,K009,9
-19741209,206,Teimuraz Kakoulia,NA,9
+19741209,206,Teimuraz Kakoulia,,9
 19741209,206,Robert Machan,M194,9
 19741209,206,Byron Bertram,B130,9
 19741209,206,Pat Dupre,D048,9
@@ -17307,7 +17280,7 @@ date,rank,name,id,points
 19741209,218,Mike Powers,P083,7
 19741209,218,Derek Schroder,S243,7
 19741209,218,Louk Sanders,S136,7
-19741209,218,Kiyoski Tanabe,NA,7
+19741209,218,Kiyoski Tanabe,,7
 19741209,218,Martin Mulligan,M155,7
 19741209,218,Peter Doerner,D079,7
 19741209,218,Ionel Santeiu,S254,7
@@ -17389,7 +17362,7 @@ date,rank,name,id,points
 19741209,272,Peter Pokorny,P143,3
 19741209,272,Peter Fleming,F030,3
 19741209,272,Steve Docherty,D078,3
-19741209,272,Eugene McCabe,NA,3
+19741209,272,Eugene McCabe,,3
 19741209,272,Jan Zabrodsky,Z030,3
 19741209,272,Rauty Krog,K102,3
 19741209,272,Terry Ryan,R078,3
@@ -17449,7 +17422,7 @@ date,rank,name,id,points
 19741209,312,Matti Timonen,T022,2
 19741209,312,Pekka Saila,S306,2
 19741209,312,Tony Dawson,D141,2
-19741209,312,Ed McKaid,NA,2
+19741209,312,Ed McKaid,,2
 19741209,312,Ulrich Marten,M137,2
 19741209,312,Robert Millington,MD41,2
 19741209,312,Sergio Cruz,C936,2
@@ -17481,16 +17454,16 @@ date,rank,name,id,points
 19741209,375,Patrick Hombergen,H127,1
 19741209,375,Michel Leclercq,L123,1
 19741209,375,Goran Berglund,BM36,1
-19741209,375,Michael Burgener,NA,1
+19741209,375,Michael Burgener,,1
 19741209,375,Michael Hickey,H152,1
 19741209,375,Peter Ledbetter,L745,1
-19741209,375,James Mcardle,NA,1
+19741209,375,James Mcardle,,1
 19741209,375,Harry Sheridan,SA38,1
-19741209,375,Jim Casey,NA,1
+19741209,375,Jim Casey,,1
 19741209,375,Kevin Menton,MD14,1
-19741209,375,John O'Brien,NA,1
+19741209,375,John O'Brien,,1
 19741209,375,Kenneth Reid,R727,1
-19741209,375,David Hill,NA,1
+19741209,375,David Hill,,1
 19741209,375,Waldemar Timm,T109,1
 19741209,375,Woody Blocher,B132,1
 19741209,375,Eduardo Gorostiaga,G186,1
@@ -17509,7 +17482,7 @@ date,rank,name,id,points
 19741209,375,Chauncey Steele III,S238,1
 19741209,375,Paul Sullivan,S258,1
 19741209,375,Bill Drake,D158,1
-19741209,375,Keith Jennings,NA,1
+19741209,375,Keith Jennings,,1
 19741209,375,Scott Carnahan,C081,1
 19741209,375,Buddy Gallagher,GF46,1
 19741209,375,Bruce Nichols,N060,1
@@ -17526,7 +17499,7 @@ date,rank,name,id,points
 19741209,375,Ron Myers,MP08,1
 19741209,375,Steve Messmer,M201,1
 19741209,375,Shigeyuki Nishio,N020,1
-19741209,375,Kyoichi Sakamoto,NA,1
+19741209,375,Kyoichi Sakamoto,,1
 19741209,375,Akinori Naguro,N069,1
 19741209,375,Akira Motomura,M305,1
 19741209,375,Takao Yamamoto,Y030,1
@@ -17535,18 +17508,18 @@ date,rank,name,id,points
 19741209,375,Ryoichi Mori,M312,1
 19741209,375,Yoshimito Miyashita,MB39,1
 19741209,375,Shirzad Akbari,AD19,1
-19741209,375,Kanyab Derafshijavan,NA,1
+19741209,375,Kanyab Derafshijavan,,1
 19741209,375,Ezzat Nemati,N355,1
 19741209,375,Carey Brading,B210,1
 19741209,375,T Mooney,MP27,1
 19741209,375,Richard Hawkes,H174,1
-19741209,375,G Harris,NA,1
+19741209,375,G Harris,,1
 19741209,375,Garry Slater,S509,1
-19741209,375,Chris Lewis (NZL),NA,1
+19741209,375,Chris Lewis (NZL),,1
 19741209,375,Peter Langsford,L124,1
 19741209,375,D Neilson,N772,1
 19741209,375,Peter Hampton,H139,1
-19741209,375,A. Whittaker,NA,1
+19741209,375,A. Whittaker,,1
 19741209,375,Michael Mooney,MP28,1
 19741209,375,S Menzies,MP29,1
 19741209,375,W Thom,TD22,1
@@ -17574,7 +17547,7 @@ date,rank,name,id,points
 19741209,375,Jesus Hernandez,HC07,1
 19741209,375,Bidynt Goswami,G143,1
 19741209,375,Jaidip Mukerjea,M272,1
-19741209,375,N/A Akhtar,NA,1
+19741209,375,N/A Akhtar,,1
 19741209,375,Narendra Singh,SR58,1
 19741209,375,Lars Samuelson,S307,1
 19741209,375,Erik Stenninger,SE60,1
@@ -17604,7 +17577,7 @@ date,rank,name,id,points
 19741216,20,Eddie Dibbs,D026,386
 19741216,21,Onny Parun,P070,453
 19741216,22,Tom Gorman,G078,321
-19741216,23,Thomas Koch,NA,152
+19741216,23,Thomaz Koch,,152
 19741216,24,Tony Roche,R073,189
 19741216,25,Francois Jauffret,J031,180
 19741216,26,Cliff Richey,R071,191
@@ -17660,7 +17633,7 @@ date,rank,name,id,points
 19741216,76,Wojtek Fibak,F020,51
 19741216,77,Ivan Molina,M152,89
 19741216,78,Antonio Zugarelli,Z013,88
-19741216,79,Jairo Velasco Sr,NA,79
+19741216,79,Jairo Velasco Sr,,79
 19741216,80,Hans Kary,K041,86
 19741216,81,Anand Amritraj,A021,71
 19741216,82,Jun Kuki,K054,63
@@ -17675,7 +17648,7 @@ date,rank,name,id,points
 19741216,90,John Andrews,A062,44
 19741216,92,Paul Kronk,K073,84
 19741216,93,Patrick Proisy,P085,65
-19741216,94,Fred McNair,NA,79
+19741216,94,Fred McNair IV,,79
 19741216,95,Vladimir Zednik,Z023,61
 19741216,96,Roy Emerson,E030,43
 19741216,97,Dick Dell,D073,96
@@ -17710,7 +17683,7 @@ date,rank,name,id,points
 19741216,126,Ian Fletcher,F071,27
 19741216,127,Mark Farrell,F067,29
 19741216,128,Humphrey Hose,H064,26
-19741216,128,Jan-Eric Lundquist,NA,26
+19741216,128,Jan-Erik Lundqvist,,26
 19741216,128,Bob Giltinan,G074,26
 19741216,128,Frantisek Pala,P100,26
 19741216,132,Fred Stolle,S129,25
@@ -17732,7 +17705,7 @@ date,rank,name,id,points
 19741216,148,John Feaver,F008,23
 19741216,149,Jean-Baptiste Chanfreau,C083,28
 19741216,149,Colin Dowdeswell,D037,21
-19741216,149,Victor Pecci Sr.,NA,21
+19741216,149,Victor Pecci,,21
 19741216,152,Kjell Johansson,J032,22
 19741216,153,Victor Amaya,A044,20
 19741216,153,Armistead Neely,N043,20
@@ -17789,7 +17762,7 @@ date,rank,name,id,points
 19741216,200,Ashok Amritraj,A059,10
 19741216,206,Yuji Tezuka,T090,9
 19741216,206,Carlos Kirmayr,K009,9
-19741216,206,Teimuraz Kakoulia,NA,9
+19741216,206,Teimuraz Kakoulia,,9
 19741216,206,Robert Machan,M194,9
 19741216,206,Byron Bertram,B130,9
 19741216,206,Pat Dupre,D048,9
@@ -17804,7 +17777,7 @@ date,rank,name,id,points
 19741216,218,Mike Powers,P083,7
 19741216,218,Derek Schroder,S243,7
 19741216,218,Louk Sanders,S136,7
-19741216,218,Kiyoski Tanabe,NA,7
+19741216,218,Kiyoski Tanabe,,7
 19741216,218,Martin Mulligan,M155,7
 19741216,218,Peter Doerner,D079,7
 19741216,218,Ionel Santeiu,S254,7
@@ -17886,7 +17859,7 @@ date,rank,name,id,points
 19741216,272,Peter Pokorny,P143,3
 19741216,272,Peter Fleming,F030,3
 19741216,272,Steve Docherty,D078,3
-19741216,272,Eugene McCabe,NA,3
+19741216,272,Eugene McCabe,,3
 19741216,272,Jan Zabrodsky,Z030,3
 19741216,272,Rauty Krog,K102,3
 19741216,272,Terry Ryan,R078,3
@@ -17946,7 +17919,7 @@ date,rank,name,id,points
 19741216,312,Matti Timonen,T022,2
 19741216,312,Pekka Saila,S306,2
 19741216,312,Tony Dawson,D141,2
-19741216,312,Ed McKaid,NA,2
+19741216,312,Ed McKaid,,2
 19741216,312,Ulrich Marten,M137,2
 19741216,312,Robert Millington,MD41,2
 19741216,312,Sergio Cruz,C936,2
@@ -17978,16 +17951,16 @@ date,rank,name,id,points
 19741216,375,Patrick Hombergen,H127,1
 19741216,375,Michel Leclercq,L123,1
 19741216,375,Goran Berglund,BM36,1
-19741216,375,Michael Burgener,NA,1
+19741216,375,Michael Burgener,,1
 19741216,375,Michael Hickey,H152,1
 19741216,375,Peter Ledbetter,L745,1
-19741216,375,James Mcardle,NA,1
+19741216,375,James Mcardle,,1
 19741216,375,Harry Sheridan,SA38,1
-19741216,375,Jim Casey,NA,1
+19741216,375,Jim Casey,,1
 19741216,375,Kevin Menton,MD14,1
-19741216,375,John O'Brien,NA,1
+19741216,375,John O'Brien,,1
 19741216,375,Kenneth Reid,R727,1
-19741216,375,David Hill,NA,1
+19741216,375,David Hill,,1
 19741216,375,Waldemar Timm,T109,1
 19741216,375,Woody Blocher,B132,1
 19741216,375,Eduardo Gorostiaga,G186,1
@@ -18006,7 +17979,7 @@ date,rank,name,id,points
 19741216,375,Chauncey Steele III,S238,1
 19741216,375,Paul Sullivan,S258,1
 19741216,375,Bill Drake,D158,1
-19741216,375,Keith Jennings,NA,1
+19741216,375,Keith Jennings,,1
 19741216,375,Scott Carnahan,C081,1
 19741216,375,Buddy Gallagher,GF46,1
 19741216,375,Bruce Nichols,N060,1
@@ -18023,7 +17996,7 @@ date,rank,name,id,points
 19741216,375,Ron Myers,MP08,1
 19741216,375,Steve Messmer,M201,1
 19741216,375,Shigeyuki Nishio,N020,1
-19741216,375,Kyoichi Sakamoto,NA,1
+19741216,375,Kyoichi Sakamoto,,1
 19741216,375,Akinori Naguro,N069,1
 19741216,375,Akira Motomura,M305,1
 19741216,375,Takao Yamamoto,Y030,1
@@ -18032,18 +18005,18 @@ date,rank,name,id,points
 19741216,375,Ryoichi Mori,M312,1
 19741216,375,Yoshimito Miyashita,MB39,1
 19741216,375,Shirzad Akbari,AD19,1
-19741216,375,Kanyab Derafshijavan,NA,1
+19741216,375,Kanyab Derafshijavan,,1
 19741216,375,Ezzat Nemati,N355,1
 19741216,375,Carey Brading,B210,1
 19741216,375,T Mooney,MP27,1
 19741216,375,Richard Hawkes,H174,1
-19741216,375,G Harris,NA,1
+19741216,375,G Harris,,1
 19741216,375,Garry Slater,S509,1
-19741216,375,Chris Lewis (NZL),NA,1
+19741216,375,Chris Lewis (NZL),,1
 19741216,375,Peter Langsford,L124,1
 19741216,375,D Neilson,N772,1
 19741216,375,Peter Hampton,H139,1
-19741216,375,A. Whittaker,NA,1
+19741216,375,A. Whittaker,,1
 19741216,375,Michael Mooney,MP28,1
 19741216,375,S Menzies,MP29,1
 19741216,375,W Thom,TD22,1
@@ -18071,7 +18044,7 @@ date,rank,name,id,points
 19741216,375,Jesus Hernandez,HC07,1
 19741216,375,Bidynt Goswami,G143,1
 19741216,375,Jaidip Mukerjea,M272,1
-19741216,375,N/A Akhtar,NA,1
+19741216,375,N/A Akhtar,,1
 19741216,375,Narendra Singh,SR58,1
 19741216,375,Lars Samuelson,S307,1
 19741216,375,Erik Stenninger,SE60,1
@@ -18101,7 +18074,7 @@ date,rank,name,id,points
 19741223,20,Eddie Dibbs,D026,386
 19741223,21,Onny Parun,P070,453
 19741223,22,Tom Gorman,G078,321
-19741223,23,Thomas Koch,NA,152
+19741223,23,Thomaz Koch,,152
 19741223,24,Tony Roche,R073,189
 19741223,25,Francois Jauffret,J031,180
 19741223,26,Cliff Richey,R071,191
@@ -18157,7 +18130,7 @@ date,rank,name,id,points
 19741223,76,Wojtek Fibak,F020,51
 19741223,77,Ivan Molina,M152,89
 19741223,78,Antonio Zugarelli,Z013,88
-19741223,79,Jairo Velasco Sr,NA,79
+19741223,79,Jairo Velasco Sr,,79
 19741223,80,Hans Kary,K041,86
 19741223,81,Anand Amritraj,A021,71
 19741223,82,Jun Kuki,K054,63
@@ -18172,7 +18145,7 @@ date,rank,name,id,points
 19741223,90,John Andrews,A062,44
 19741223,92,Paul Kronk,K073,84
 19741223,93,Patrick Proisy,P085,65
-19741223,94,Fred McNair,NA,79
+19741223,94,Fred McNair IV,,79
 19741223,95,Vladimir Zednik,Z023,61
 19741223,96,Roy Emerson,E030,43
 19741223,97,Dick Dell,D073,96
@@ -18207,7 +18180,7 @@ date,rank,name,id,points
 19741223,126,Ian Fletcher,F071,27
 19741223,127,Mark Farrell,F067,29
 19741223,128,Humphrey Hose,H064,26
-19741223,128,Jan-Eric Lundquist,NA,26
+19741223,128,Jan-Erik Lundqvist,,26
 19741223,128,Bob Giltinan,G074,26
 19741223,128,Frantisek Pala,P100,26
 19741223,132,Fred Stolle,S129,25
@@ -18229,7 +18202,7 @@ date,rank,name,id,points
 19741223,148,John Feaver,F008,23
 19741223,149,Jean-Baptiste Chanfreau,C083,28
 19741223,149,Colin Dowdeswell,D037,21
-19741223,149,Victor Pecci Sr.,NA,21
+19741223,149,Victor Pecci,,21
 19741223,152,Kjell Johansson,J032,22
 19741223,153,Victor Amaya,A044,20
 19741223,153,Armistead Neely,N043,20
@@ -18286,7 +18259,7 @@ date,rank,name,id,points
 19741223,200,Ashok Amritraj,A059,10
 19741223,206,Yuji Tezuka,T090,9
 19741223,206,Carlos Kirmayr,K009,9
-19741223,206,Teimuraz Kakoulia,NA,9
+19741223,206,Teimuraz Kakoulia,,9
 19741223,206,Robert Machan,M194,9
 19741223,206,Byron Bertram,B130,9
 19741223,206,Pat Dupre,D048,9
@@ -18301,7 +18274,7 @@ date,rank,name,id,points
 19741223,218,Mike Powers,P083,7
 19741223,218,Derek Schroder,S243,7
 19741223,218,Louk Sanders,S136,7
-19741223,218,Kiyoski Tanabe,NA,7
+19741223,218,Kiyoski Tanabe,,7
 19741223,218,Martin Mulligan,M155,7
 19741223,218,Peter Doerner,D079,7
 19741223,218,Ionel Santeiu,S254,7
@@ -18383,7 +18356,7 @@ date,rank,name,id,points
 19741223,272,Peter Pokorny,P143,3
 19741223,272,Peter Fleming,F030,3
 19741223,272,Steve Docherty,D078,3
-19741223,272,Eugene McCabe,NA,3
+19741223,272,Eugene McCabe,,3
 19741223,272,Jan Zabrodsky,Z030,3
 19741223,272,Rauty Krog,K102,3
 19741223,272,Terry Ryan,R078,3
@@ -18443,7 +18416,7 @@ date,rank,name,id,points
 19741223,312,Matti Timonen,T022,2
 19741223,312,Pekka Saila,S306,2
 19741223,312,Tony Dawson,D141,2
-19741223,312,Ed McKaid,NA,2
+19741223,312,Ed McKaid,,2
 19741223,312,Ulrich Marten,M137,2
 19741223,312,Robert Millington,MD41,2
 19741223,312,Sergio Cruz,C936,2
@@ -18475,16 +18448,16 @@ date,rank,name,id,points
 19741223,375,Patrick Hombergen,H127,1
 19741223,375,Michel Leclercq,L123,1
 19741223,375,Goran Berglund,BM36,1
-19741223,375,Michael Burgener,NA,1
+19741223,375,Michael Burgener,,1
 19741223,375,Michael Hickey,H152,1
 19741223,375,Peter Ledbetter,L745,1
-19741223,375,James Mcardle,NA,1
+19741223,375,James Mcardle,,1
 19741223,375,Harry Sheridan,SA38,1
-19741223,375,Jim Casey,NA,1
+19741223,375,Jim Casey,,1
 19741223,375,Kevin Menton,MD14,1
-19741223,375,John O'Brien,NA,1
+19741223,375,John O'Brien,,1
 19741223,375,Kenneth Reid,R727,1
-19741223,375,David Hill,NA,1
+19741223,375,David Hill,,1
 19741223,375,Waldemar Timm,T109,1
 19741223,375,Woody Blocher,B132,1
 19741223,375,Eduardo Gorostiaga,G186,1
@@ -18503,7 +18476,7 @@ date,rank,name,id,points
 19741223,375,Chauncey Steele III,S238,1
 19741223,375,Paul Sullivan,S258,1
 19741223,375,Bill Drake,D158,1
-19741223,375,Keith Jennings,NA,1
+19741223,375,Keith Jennings,,1
 19741223,375,Scott Carnahan,C081,1
 19741223,375,Buddy Gallagher,GF46,1
 19741223,375,Bruce Nichols,N060,1
@@ -18520,7 +18493,7 @@ date,rank,name,id,points
 19741223,375,Ron Myers,MP08,1
 19741223,375,Steve Messmer,M201,1
 19741223,375,Shigeyuki Nishio,N020,1
-19741223,375,Kyoichi Sakamoto,NA,1
+19741223,375,Kyoichi Sakamoto,,1
 19741223,375,Akinori Naguro,N069,1
 19741223,375,Akira Motomura,M305,1
 19741223,375,Takao Yamamoto,Y030,1
@@ -18529,18 +18502,18 @@ date,rank,name,id,points
 19741223,375,Ryoichi Mori,M312,1
 19741223,375,Yoshimito Miyashita,MB39,1
 19741223,375,Shirzad Akbari,AD19,1
-19741223,375,Kanyab Derafshijavan,NA,1
+19741223,375,Kanyab Derafshijavan,,1
 19741223,375,Ezzat Nemati,N355,1
 19741223,375,Carey Brading,B210,1
 19741223,375,T Mooney,MP27,1
 19741223,375,Richard Hawkes,H174,1
-19741223,375,G Harris,NA,1
+19741223,375,G Harris,,1
 19741223,375,Garry Slater,S509,1
-19741223,375,Chris Lewis (NZL),NA,1
+19741223,375,Chris Lewis (NZL),,1
 19741223,375,Peter Langsford,L124,1
 19741223,375,D Neilson,N772,1
 19741223,375,Peter Hampton,H139,1
-19741223,375,A. Whittaker,NA,1
+19741223,375,A. Whittaker,,1
 19741223,375,Michael Mooney,MP28,1
 19741223,375,S Menzies,MP29,1
 19741223,375,W Thom,TD22,1
@@ -18568,7 +18541,7 @@ date,rank,name,id,points
 19741223,375,Jesus Hernandez,HC07,1
 19741223,375,Bidynt Goswami,G143,1
 19741223,375,Jaidip Mukerjea,M272,1
-19741223,375,N/A Akhtar,NA,1
+19741223,375,N/A Akhtar,,1
 19741223,375,Narendra Singh,SR58,1
 19741223,375,Lars Samuelson,S307,1
 19741223,375,Erik Stenninger,SE60,1
@@ -18599,7 +18572,7 @@ date,rank,name,id,points
 19741230,21,Tony Roche,R073,186
 19741230,22,Onny Parun,P070,448
 19741230,23,Tom Gorman,G078,321
-19741230,24,Thomas Koch,NA,152
+19741230,24,Thomaz Koch,,152
 19741230,25,Francois Jauffret,J031,180
 19741230,26,Cliff Richey,R071,191
 19741230,27,Andrew Pattison,P074,222
@@ -18654,7 +18627,7 @@ date,rank,name,id,points
 19741230,76,Wojtek Fibak,F020,51
 19741230,77,Ivan Molina,M152,89
 19741230,78,Antonio Zugarelli,Z013,88
-19741230,79,Jairo Velasco Sr,NA,79
+19741230,79,Jairo Velasco Sr,,79
 19741230,80,Hans Kary,K041,86
 19741230,81,Anand Amritraj,A021,71
 19741230,82,Jun Kuki,K054,63
@@ -18668,7 +18641,7 @@ date,rank,name,id,points
 19741230,90,John Andrews,A062,44
 19741230,91,Paul Kronk,K073,84
 19741230,92,Patrick Proisy,P085,65
-19741230,93,Fred McNair,NA,79
+19741230,93,Fred McNair IV,,79
 19741230,94,Roy Emerson,E030,43
 19741230,95,Dick Dell,D073,96
 19741230,96,Jun Kamiwazumi,K002,77
@@ -18702,7 +18675,7 @@ date,rank,name,id,points
 19741230,124,Jaime Pinto-Bravo,P067,42
 19741230,125,Graham Stilwell,S147,32
 19741230,126,Humphrey Hose,H064,26
-19741230,126,Jan-Eric Lundquist,NA,26
+19741230,126,Jan-Erik Lundqvist,,26
 19741230,126,Ray Keldie,K047,26
 19741230,126,Mark Farrell,F067,26
 19741230,126,Frantisek Pala,P100,26
@@ -18723,7 +18696,7 @@ date,rank,name,id,points
 19741230,145,Harald Elschenbroich,E037,31
 19741230,146,Jean-Baptiste Chanfreau,C083,28
 19741230,146,Colin Dowdeswell,D037,21
-19741230,146,Victor Pecci Sr.,NA,21
+19741230,146,Victor Pecci,,21
 19741230,149,Kjell Johansson,J032,22
 19741230,150,Victor Amaya,A044,20
 19741230,150,Armistead Neely,N043,20
@@ -18782,7 +18755,7 @@ date,rank,name,id,points
 19741230,196,Ashok Amritraj,A059,10
 19741230,205,Yuji Tezuka,T090,9
 19741230,205,Carlos Kirmayr,K009,9
-19741230,205,Teimuraz Kakoulia,NA,9
+19741230,205,Teimuraz Kakoulia,,9
 19741230,205,Robert Machan,M194,9
 19741230,205,Byron Bertram,B130,9
 19741230,205,Pat Dupre,D048,9
@@ -18842,7 +18815,7 @@ date,rank,name,id,points
 19741230,260,David Lloyd,L083,4
 19741230,260,Tom Christensen,C226,4
 19741230,260,Spencer Segura,S305,4
-19741230,267,Kiyoski Tanabe,NA,3
+19741230,267,Kiyoski Tanabe,,3
 19741230,267,William Durham,D140,3
 19741230,267,D. Richard Russell,R077,3
 19741230,267,Bertalan Csoknyai,C227,3
@@ -18875,7 +18848,7 @@ date,rank,name,id,points
 19741230,267,Peter Pokorny,P143,3
 19741230,267,Peter Fleming,F030,3
 19741230,267,Steve Docherty,D078,3
-19741230,267,Eugene McCabe,NA,3
+19741230,267,Eugene McCabe,,3
 19741230,267,Jan Zabrodsky,Z030,3
 19741230,267,Rauty Krog,K102,3
 19741230,267,Terry Ryan,R078,3
@@ -18936,7 +18909,7 @@ date,rank,name,id,points
 19741230,307,Matti Timonen,T022,2
 19741230,307,Pekka Saila,S306,2
 19741230,307,Tony Dawson,D141,2
-19741230,307,Ed McKaid,NA,2
+19741230,307,Ed McKaid,,2
 19741230,307,Ulrich Marten,M137,2
 19741230,307,Robert Millington,MD41,2
 19741230,307,Sergio Cruz,C936,2
@@ -18963,16 +18936,16 @@ date,rank,name,id,points
 19741230,370,Patrick Hombergen,H127,1
 19741230,370,Michel Leclercq,L123,1
 19741230,370,Goran Berglund,BM36,1
-19741230,370,Michael Burgener,NA,1
+19741230,370,Michael Burgener,,1
 19741230,370,Michael Hickey,H152,1
 19741230,370,Peter Ledbetter,L745,1
-19741230,370,James Mcardle,NA,1
+19741230,370,James Mcardle,,1
 19741230,370,Harry Sheridan,SA38,1
-19741230,370,Jim Casey,NA,1
+19741230,370,Jim Casey,,1
 19741230,370,Kevin Menton,MD14,1
-19741230,370,John O'Brien,NA,1
+19741230,370,John O'Brien,,1
 19741230,370,Kenneth Reid,R727,1
-19741230,370,David Hill,NA,1
+19741230,370,David Hill,,1
 19741230,370,Waldemar Timm,T109,1
 19741230,370,Woody Blocher,B132,1
 19741230,370,Eduardo Gorostiaga,G186,1
@@ -18991,7 +18964,7 @@ date,rank,name,id,points
 19741230,370,Chauncey Steele III,S238,1
 19741230,370,Paul Sullivan,S258,1
 19741230,370,Bill Drake,D158,1
-19741230,370,Keith Jennings,NA,1
+19741230,370,Keith Jennings,,1
 19741230,370,Scott Carnahan,C081,1
 19741230,370,Buddy Gallagher,GF46,1
 19741230,370,Bruce Nichols,N060,1
@@ -19008,7 +18981,7 @@ date,rank,name,id,points
 19741230,370,Ron Myers,MP08,1
 19741230,370,Steve Messmer,M201,1
 19741230,370,Shigeyuki Nishio,N020,1
-19741230,370,Kyoichi Sakamoto,NA,1
+19741230,370,Kyoichi Sakamoto,,1
 19741230,370,Akinori Naguro,N069,1
 19741230,370,Akira Motomura,M305,1
 19741230,370,Takao Yamamoto,Y030,1
@@ -19017,18 +18990,18 @@ date,rank,name,id,points
 19741230,370,Ryoichi Mori,M312,1
 19741230,370,Yoshimito Miyashita,MB39,1
 19741230,370,Shirzad Akbari,AD19,1
-19741230,370,Kanyab Derafshijavan,NA,1
+19741230,370,Kanyab Derafshijavan,,1
 19741230,370,Ezzat Nemati,N355,1
 19741230,370,Carey Brading,B210,1
 19741230,370,T Mooney,MP27,1
 19741230,370,Richard Hawkes,H174,1
-19741230,370,G Harris,NA,1
+19741230,370,G Harris,,1
 19741230,370,Garry Slater,S509,1
-19741230,370,Chris Lewis (NZL),NA,1
+19741230,370,Chris Lewis (NZL),,1
 19741230,370,Peter Langsford,L124,1
 19741230,370,D Neilson,N772,1
 19741230,370,Peter Hampton,H139,1
-19741230,370,A. Whittaker,NA,1
+19741230,370,A. Whittaker,,1
 19741230,370,Michael Mooney,MP28,1
 19741230,370,S Menzies,MP29,1
 19741230,370,W Thom,TD22,1
@@ -19056,7 +19029,7 @@ date,rank,name,id,points
 19741230,370,Jesus Hernandez,HC07,1
 19741230,370,Bidynt Goswami,G143,1
 19741230,370,Jaidip Mukerjea,M272,1
-19741230,370,N/A Akhtar,NA,1
+19741230,370,N/A Akhtar,,1
 19741230,370,Narendra Singh,SR58,1
 19741230,370,Lars Samuelson,S307,1
 19741230,370,Erik Stenninger,SE60,1
@@ -19064,12 +19037,3 @@ date,rank,name,id,points
 19741230,370,Luis Baraldi,B009,1
 19741230,370,Guillermo Aubone,A064,1
 19741230,370,Roberto Aubone,A635,1
-19741230,0,Robert Casey,C100,0
-19741230,0,Thies Roepcke,R180,0
-19741230,0,Michael Phillips,P180,0
-19741230,0,Max Senior,S249,0
-19741230,0,Frank Sedgman,S248,0
-19741230,0,Anthony Hammond,H133,0
-19741230,0,Trevor Allan,A017,0
-19741230,0,Stephen Meyers,M321,0
-19741230,0,Larry Parker,P168,0

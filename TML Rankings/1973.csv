@@ -155,17 +155,17 @@ date,rank,name,id,points
 19730820,152,John Feaver,F008,2
 19730820,155,Roy Barth,B121,4
 19730820,156,Frank Gebert,G071,2
-19730820,156,Teimuraz Kakoulia,NA,2
+19730820,156,Teimuraz Kakoulia,,2
 19730820,156,Humphrey Hose,H064,2
 19730820,156,Jean-Louis Haillet,H041,2
 19730820,156,William Brown,B134,2
-19730820,156,Fred McNair,NA,2
+19730820,156,Fred McNair IV,,2
 19730820,156,Byron Bertram,B130,2
 19730820,156,Modesto Tito Vazquez,V051,2
 19730820,156,Ezio Di Matteo,D135,2
 19730820,156,David Lloyd,L083,2
-19730820,166,Thomas Koch,NA,1
-19730820,166,Alejandro Riba,NA,1
+19730820,166,Thomaz Koch,,1
+19730820,166,Alejandro Riba,,1
 19730820,166,Luis Bruguera,B195,1
 19730820,166,Richard Dick Knight,K081,1
 19730820,166,John De Mendoza,D136,1
@@ -233,9 +233,6 @@ date,rank,name,id,points
 19730820,232,Nicola Spear,S146,0
 19730820,233,Kim Warwick,W006,0
 19730820,234,Steve Faulk,F069,0
-19730820,0,Ken Binns,B902,0
-19730820,0,Tony Roche,R073,0
-19730820,0,Jairo Velasco Sr,NA,0
 19730827,1,Ilie Nastase,N008,276
 19730827,2,Stan Smith,S060,250
 19730827,3,John Newcombe,N044,142
@@ -395,12 +392,12 @@ date,rank,name,id,points
 19730827,154,Jean-Louis Haillet,H041,2
 19730827,154,William Brown,B134,2
 19730827,154,Humphrey Hose,H064,2
-19730827,154,Fred McNair,NA,2
+19730827,154,Fred McNair IV,,2
 19730827,154,Byron Bertram,B130,2
 19730827,154,Modesto Tito Vazquez,V051,2
 19730827,154,Ezio Di Matteo,D135,2
 19730827,154,David Lloyd,L083,2
-19730827,165,Alejandro Riba,NA,1
+19730827,165,Alejandro Riba,,1
 19730827,165,Luis Bruguera,B195,1
 19730827,165,Richard Dick Knight,K081,1
 19730827,165,John De Mendoza,D136,1
@@ -410,7 +407,7 @@ date,rank,name,id,points
 19730827,165,Shamil Tarpischev,T035,1
 19730827,165,Ulrich Pinner,P034,1
 19730827,165,Mal Anderson,A060,1
-19730827,165,Teimuraz Kakoulia,NA,1
+19730827,165,Teimuraz Kakoulia,,1
 19730827,165,Mike Kreiss,K132,1
 19730827,165,Elio Lito Alvarez,A057,1
 19730827,165,Jacques Thamin,T099,1
@@ -467,9 +464,6 @@ date,rank,name,id,points
 19730827,229,Nicola Spear,S146,0
 19730827,230,Kim Warwick,W006,0
 19730827,231,Steve Faulk,F069,0
-19730827,0,Thomas Koch,NA,0
-19730827,0,Jim Osborne,O046,0
-19730827,0,Robert McKinley,M293,0
 19730903,1,Ilie Nastase,N008,276
 19730903,2,Stan Smith,S060,250
 19730903,3,John Newcombe,N044,142
@@ -629,12 +623,12 @@ date,rank,name,id,points
 19730903,154,Jean-Louis Haillet,H041,2
 19730903,154,William Brown,B134,2
 19730903,154,Humphrey Hose,H064,2
-19730903,154,Fred McNair,NA,2
+19730903,154,Fred McNair IV,,2
 19730903,154,Byron Bertram,B130,2
 19730903,154,Modesto Tito Vazquez,V051,2
 19730903,154,Ezio Di Matteo,D135,2
 19730903,154,David Lloyd,L083,2
-19730903,165,Alejandro Riba,NA,1
+19730903,165,Alejandro Riba,,1
 19730903,165,Luis Bruguera,B195,1
 19730903,165,Richard Dick Knight,K081,1
 19730903,165,John De Mendoza,D136,1
@@ -644,7 +638,7 @@ date,rank,name,id,points
 19730903,165,Shamil Tarpischev,T035,1
 19730903,165,Ulrich Pinner,P034,1
 19730903,165,Mal Anderson,A060,1
-19730903,165,Teimuraz Kakoulia,NA,1
+19730903,165,Teimuraz Kakoulia,,1
 19730903,165,Mike Kreiss,K132,1
 19730903,165,Elio Lito Alvarez,A057,1
 19730903,165,Jacques Thamin,T099,1
@@ -856,18 +850,18 @@ date,rank,name,id,points
 19730910,152,Mike Belkin,B125,2
 19730910,152,Sashi Menon,M058,2
 19730910,152,Jean-Louis Haillet,H041,2
-19730910,152,Fred McNair,NA,2
+19730910,152,Fred McNair IV,,2
 19730910,152,Byron Bertram,B130,2
 19730910,152,Modesto Tito Vazquez,V051,2
 19730910,152,Ezio Di Matteo,D135,2
 19730910,152,David Lloyd,L083,2
-19730910,161,Alejandro Riba,NA,1
+19730910,161,Alejandro Riba,,1
 19730910,161,Luis Bruguera,B195,1
 19730910,161,Richard Dick Knight,K081,1
 19730910,161,John De Mendoza,D136,1
 19730910,161,Petr Kanderal,K113,1
 19730910,161,John Whitlinger,W051,1
-19730910,161,Teimuraz Kakoulia,NA,1
+19730910,161,Teimuraz Kakoulia,,1
 19730910,161,Mike Kreiss,K132,1
 19730910,161,Shamil Tarpischev,T035,1
 19730910,161,Ulrich Pinner,P034,1
@@ -934,8 +928,6 @@ date,rank,name,id,points
 19730910,231,Nicola Spear,S146,0
 19730910,232,Steve Faulk,F069,0
 19730910,232,Kim Warwick,W006,0
-19730910,0,Mike Machette,M132,0
-19730910,0,Mal Anderson,A060,0
 19730917,1,John Newcombe,N044,183
 19730917,2,Ilie Nastase,N008,214
 19730917,3,Stan Smith,S060,246
@@ -1079,7 +1071,7 @@ date,rank,name,id,points
 19730917,141,Herb Fitzgibbon,F109,2
 19730917,141,Rolf Norberg,N048,2
 19730917,141,Patrick Hombergen,H127,2
-19730917,141,Fred McNair,NA,2
+19730917,141,Fred McNair IV,,2
 19730917,141,Jasjit Singh,S142,2
 19730917,141,Toshiro Sakai,S103,2
 19730917,147,Premjit Lall,L117,2
@@ -1095,12 +1087,12 @@ date,rank,name,id,points
 19730917,149,Terry Ryan,R078,2
 19730917,149,David Lloyd,L083,2
 19730917,149,Kjell Johansson,J032,2
-19730917,160,Alejandro Riba,NA,1
+19730917,160,Alejandro Riba,,1
 19730917,160,Luis Bruguera,B195,1
 19730917,160,John De Mendoza,D136,1
 19730917,160,Petr Kanderal,K113,1
 19730917,160,John Whitlinger,W051,1
-19730917,160,Teimuraz Kakoulia,NA,1
+19730917,160,Teimuraz Kakoulia,,1
 19730917,160,Mike Machette,M132,1
 19730917,160,Shamil Tarpischev,T035,1
 19730917,160,Ulrich Pinner,P034,1
@@ -1168,9 +1160,6 @@ date,rank,name,id,points
 19730917,180,Vincenzo Franchitti,F103,0
 19730917,231,Nicola Spear,S146,0
 19730917,232,Steve Faulk,F069,0
-19730917,0,Mike Kreiss,K132,0
-19730917,0,Richard Dick Knight,K081,0
-19730917,0,Grover Raz Reid,R068,0
 19730924,1,John Newcombe,N044,189
 19730924,2,Ilie Nastase,N008,220
 19730924,3,Stan Smith,S060,217
@@ -1315,7 +1304,7 @@ date,rank,name,id,points
 19730924,142,Herb Fitzgibbon,F109,2
 19730924,142,Rolf Norberg,N048,2
 19730924,142,Patrick Hombergen,H127,2
-19730924,142,Fred McNair,NA,2
+19730924,142,Fred McNair IV,,2
 19730924,142,Jasjit Singh,S142,2
 19730924,142,Toshiro Sakai,S103,2
 19730924,148,Premjit Lall,L117,2
@@ -1332,12 +1321,12 @@ date,rank,name,id,points
 19730924,150,David Lloyd,L083,2
 19730924,150,Terry Ryan,R078,2
 19730924,161,Kjell Johansson,J032,2
-19730924,162,Alejandro Riba,NA,1
+19730924,162,Alejandro Riba,,1
 19730924,162,Luis Bruguera,B195,1
 19730924,162,John De Mendoza,D136,1
 19730924,162,Petr Kanderal,K113,1
 19730924,162,John Whitlinger,W051,1
-19730924,162,Teimuraz Kakoulia,NA,1
+19730924,162,Teimuraz Kakoulia,,1
 19730924,162,Ray Ruffels,R076,1
 19730924,162,Shamil Tarpischev,T035,1
 19730924,162,Ulrich Pinner,P034,1
@@ -1550,7 +1539,7 @@ date,rank,name,id,points
 19731001,142,Tenny Svensson,S149,2
 19731001,142,Rolf Norberg,N048,2
 19731001,142,Patrick Hombergen,H127,2
-19731001,142,Fred McNair,NA,2
+19731001,142,Fred McNair IV,,2
 19731001,142,Jasjit Singh,S142,2
 19731001,142,Toshiro Sakai,S103,2
 19731001,149,Premjit Lall,L117,2
@@ -1566,13 +1555,13 @@ date,rank,name,id,points
 19731001,151,David Lloyd,L083,2
 19731001,151,Terry Ryan,R078,2
 19731001,161,Kjell Johansson,J032,2
-19731001,162,Alejandro Riba,NA,1
+19731001,162,Alejandro Riba,,1
 19731001,162,Luis Bruguera,B195,1
 19731001,162,John De Mendoza,D136,1
 19731001,162,Petr Kanderal,K113,1
 19731001,162,John Whitlinger,W051,1
 19731001,162,Ray Ruffels,R076,1
-19731001,162,Teimuraz Kakoulia,NA,1
+19731001,162,Teimuraz Kakoulia,,1
 19731001,162,Mike Machette,M132,1
 19731001,162,Shamil Tarpischev,T035,1
 19731001,162,Ulrich Pinner,P034,1
@@ -1628,17 +1617,6 @@ date,rank,name,id,points
 19731001,183,Vincenzo Franchitti,F103,0
 19731001,222,Nicola Spear,S146,0
 19731001,223,Steve Faulk,F069,0
-19731001,0,Whitney Reed,R590,0
-19731001,0,Trey Waltke,W045,0
-19731001,0,David Mitchell,MD26,0
-19731001,0,Jerry Van Linge,V086,0
-19731001,0,Henry Kamakana,K147,0
-19731001,0,Doug Crawford,C053,0
-19731001,0,Sashi Menon,M058,0
-19731001,0,Rick Fisher,F070,0
-19731001,0,William Brown,B134,0
-19731001,0,Bob Hewitt,H058,0
-19731001,0,Franklin Robbins,R096,0
 19731008,1,John Newcombe,N044,175
 19731008,2,Ilie Nastase,N008,226
 19731008,3,Stan Smith,S060,220
@@ -1787,7 +1765,7 @@ date,rank,name,id,points
 19731008,146,Herb Fitzgibbon,F109,2
 19731008,146,Rolf Norberg,N048,2
 19731008,146,Patrick Hombergen,H127,2
-19731008,146,Fred McNair,NA,2
+19731008,146,Fred McNair IV,,2
 19731008,150,Premjit Lall,L117,2
 19731008,151,Roy Barth,B121,4
 19731008,152,Frank Gebert,G071,2
@@ -1801,13 +1779,13 @@ date,rank,name,id,points
 19731008,152,Robert McKinley,M293,2
 19731008,161,Terry Ryan,R078,2
 19731008,162,Steve Faulk,F069,2
-19731008,163,Alejandro Riba,NA,1
+19731008,163,Alejandro Riba,,1
 19731008,163,Luis Bruguera,B195,1
 19731008,163,John De Mendoza,D136,1
 19731008,163,Petr Kanderal,K113,1
 19731008,163,John Whitlinger,W051,1
 19731008,163,Ray Ruffels,R076,1
-19731008,163,Teimuraz Kakoulia,NA,1
+19731008,163,Teimuraz Kakoulia,,1
 19731008,163,Mike Machette,M132,1
 19731008,163,Shamil Tarpischev,T035,1
 19731008,163,Ulrich Pinner,P034,1
@@ -1848,7 +1826,7 @@ date,rank,name,id,points
 19731008,185,Hans-Joachim Ploetz,P081,0
 19731008,185,Jan Hordijk,H166,0
 19731008,185,Zan Guerry,G116,0
-19731008,185,Kiyoski Tanabe,NA,0
+19731008,185,Kiyoski Tanabe,,0
 19731008,185,Alejandro Olmedo,O042,0
 19731008,185,Belus Prajoux,P046,0
 19731008,185,Terry Moor,M081,0
@@ -2016,7 +1994,7 @@ date,rank,name,id,points
 19731015,149,Herb Fitzgibbon,F109,2
 19731015,149,Rolf Norberg,N048,2
 19731015,149,Patrick Hombergen,H127,2
-19731015,149,Fred McNair,NA,2
+19731015,149,Fred McNair IV,,2
 19731015,153,Premjit Lall,L117,2
 19731015,154,Roy Barth,B121,4
 19731015,155,Colin Dowdeswell,D037,2
@@ -2032,12 +2010,12 @@ date,rank,name,id,points
 19731015,155,Robert McKinley,M293,2
 19731015,166,Terry Ryan,R078,2
 19731015,167,Steve Faulk,F069,2
-19731015,168,Alejandro Riba,NA,1
+19731015,168,Alejandro Riba,,1
 19731015,168,John De Mendoza,D136,1
 19731015,168,Petr Kanderal,K113,1
 19731015,168,John Whitlinger,W051,1
 19731015,168,Ray Ruffels,R076,1
-19731015,168,Teimuraz Kakoulia,NA,1
+19731015,168,Teimuraz Kakoulia,,1
 19731015,168,Mike Machette,M132,1
 19731015,168,Luis Bruguera,B195,1
 19731015,168,Shamil Tarpischev,T035,1
@@ -2086,7 +2064,7 @@ date,rank,name,id,points
 19731015,192,Janos Benyik,B202,0
 19731015,192,Richard Lewis,L025,0
 19731015,192,Kenichi Hirai,H023,0
-19731015,192,Kiyoski Tanabe,NA,0
+19731015,192,Kiyoski Tanabe,,0
 19731015,192,Tony Bardsley,B120,0
 19731015,192,Hans Engert,E063,0
 19731015,192,William Brown,B134,0
@@ -2247,7 +2225,7 @@ date,rank,name,id,points
 19731022,148,Herb Fitzgibbon,F109,2
 19731022,148,Rolf Norberg,N048,2
 19731022,148,Patrick Hombergen,H127,2
-19731022,151,Fred McNair,NA,2
+19731022,151,Fred McNair IV,,2
 19731022,152,Roy Barth,B121,4
 19731022,153,Colin Dowdeswell,D037,2
 19731022,153,Frank Gebert,G071,2
@@ -2268,7 +2246,7 @@ date,rank,name,id,points
 19731022,167,John Whitlinger,W051,1
 19731022,167,Ray Ruffels,R076,1
 19731022,167,Pancho Musalem,M222,1
-19731022,167,Teimuraz Kakoulia,NA,1
+19731022,167,Teimuraz Kakoulia,,1
 19731022,167,Mike Machette,M132,1
 19731022,167,Shamil Tarpischev,T035,1
 19731022,167,Ulrich Pinner,P034,1
@@ -2321,7 +2299,7 @@ date,rank,name,id,points
 19731022,192,Tony Bardsley,B120,0
 19731022,192,Jose Castanon,C189,0
 19731022,192,Kenichi Hirai,H023,0
-19731022,192,Kiyoski Tanabe,NA,0
+19731022,192,Kiyoski Tanabe,,0
 19731022,192,Hans Engert,E063,0
 19731022,192,Felix Ponte,P179,0
 19731022,192,Humphrey Hose,H064,0
@@ -2331,10 +2309,6 @@ date,rank,name,id,points
 19731022,192,Piero Toci,T086,0
 19731022,192,Vincenzo Franchitti,F103,0
 19731022,234,William Lloyd,L064,0
-19731022,0,Alejandro Riba,NA,0
-19731022,0,Luis Bruguera,B195,0
-19731022,0,Rafael Ruiz,R209,0
-19731022,0,Jose Guerrero,G183,0
 19731029,1,Ilie Nastase,N008,254
 19731029,2,John Newcombe,N044,162
 19731029,3,Stan Smith,S060,210
@@ -2480,7 +2454,7 @@ date,rank,name,id,points
 19731029,137,Robert Machan,M194,2
 19731029,144,Joaquin Loyo-Mayo,L066,4
 19731029,144,John Bartlett,B123,4
-19731029,146,Fred McNair,NA,2
+19731029,146,Fred McNair IV,,2
 19731029,146,Premjit Lall,L117,2
 19731029,148,Jan Pisecky,P167,2
 19731029,148,Herb Fitzgibbon,F109,2
@@ -2508,7 +2482,7 @@ date,rank,name,id,points
 19731029,169,John Whitlinger,W051,1
 19731029,169,Ray Ruffels,R076,1
 19731029,169,Pancho Musalem,M222,1
-19731029,169,Teimuraz Kakoulia,NA,1
+19731029,169,Teimuraz Kakoulia,,1
 19731029,169,Mike Machette,M132,1
 19731029,169,Shamil Tarpischev,T035,1
 19731029,169,Ulrich Pinner,P034,1
@@ -2562,7 +2536,7 @@ date,rank,name,id,points
 19731029,192,Tony Bardsley,B120,0
 19731029,192,Jose Castanon,C189,0
 19731029,192,Kenichi Hirai,H023,0
-19731029,192,Kiyoski Tanabe,NA,0
+19731029,192,Kiyoski Tanabe,,0
 19731029,192,Hans Engert,E063,0
 19731029,192,Felix Ponte,P179,0
 19731029,192,Humphrey Hose,H064,0
@@ -2723,7 +2697,7 @@ date,rank,name,id,points
 19731105,146,Ray Keldie,K047,2
 19731105,146,Rolf Norberg,N048,2
 19731105,146,Patrick Hombergen,H127,2
-19731105,152,Fred McNair,NA,2
+19731105,152,Fred McNair IV,,2
 19731105,153,Terry Ryan,R078,2
 19731105,154,Roy Barth,B121,4
 19731105,155,Colin Dowdeswell,D037,2
@@ -2746,7 +2720,7 @@ date,rank,name,id,points
 19731105,169,Ray Ruffels,R076,1
 19731105,169,Gondo Widjojo,W084,1
 19731105,169,Pancho Musalem,M222,1
-19731105,169,Teimuraz Kakoulia,NA,1
+19731105,169,Teimuraz Kakoulia,,1
 19731105,169,Mike Machette,M132,1
 19731105,169,Shamil Tarpischev,T035,1
 19731105,169,Ulrich Pinner,P034,1
@@ -2805,7 +2779,7 @@ date,rank,name,id,points
 19731105,194,Tony Bardsley,B120,0
 19731105,194,Jose Castanon,C189,0
 19731105,194,Kenichi Hirai,H023,0
-19731105,194,Kiyoski Tanabe,NA,0
+19731105,194,Kiyoski Tanabe,,0
 19731105,194,Hans Engert,E063,0
 19731105,194,Humphrey Hose,H064,0
 19731105,194,Victor Amaya,A044,0
@@ -2813,7 +2787,6 @@ date,rank,name,id,points
 19731105,194,Jean-Francois Caujolle,C082,0
 19731105,194,Piero Toci,T086,0
 19731105,194,Vincenzo Franchitti,F103,0
-19731105,0,Jean-Claude Barclay,B119,0
 19731112,1,Ilie Nastase,N008,248
 19731112,2,John Newcombe,N044,151
 19731112,3,Tom Okker,O032,208
@@ -2965,7 +2938,7 @@ date,rank,name,id,points
 19731112,147,Ray Keldie,K047,2
 19731112,147,Birger Andersson,A086,2
 19731112,147,Patrick Hombergen,H127,2
-19731112,152,Fred McNair,NA,2
+19731112,152,Fred McNair IV,,2
 19731112,153,Roy Barth,B121,4
 19731112,154,Terry Ryan,R078,2
 19731112,155,Colin Dowdeswell,D037,2
@@ -2990,7 +2963,7 @@ date,rank,name,id,points
 19731112,169,Bo Holmstrom,H181,1
 19731112,169,Olle Palmer,P005,1
 19731112,169,Pancho Musalem,M222,1
-19731112,169,Teimuraz Kakoulia,NA,1
+19731112,169,Teimuraz Kakoulia,,1
 19731112,169,Mike Machette,M132,1
 19731112,169,Shamil Tarpischev,T035,1
 19731112,169,Ulrich Pinner,P034,1
@@ -3051,7 +3024,7 @@ date,rank,name,id,points
 19731112,197,Jose Castanon,C189,0
 19731112,197,Hans Engert,E063,0
 19731112,197,Kenichi Hirai,H023,0
-19731112,197,Kiyoski Tanabe,NA,0
+19731112,197,Kiyoski Tanabe,,0
 19731112,197,Humphrey Hose,H064,0
 19731112,197,Victor Amaya,A044,0
 19731112,197,Felix Ponte,P179,0
@@ -3185,7 +3158,7 @@ date,rank,name,id,points
 19731119,125,Graham Stilwell,S147,10
 19731119,126,Jose Edison Mandarino,M135,6
 19731119,126,Jasjit Singh,S142,5
-19731119,128,Fred McNair,NA,4
+19731119,128,Fred McNair IV,,4
 19731119,129,Torben Ulrich,U011,7
 19731119,130,Tom Edlefsen,E035,8
 19731119,131,John Feaver,F008,4
@@ -3233,7 +3206,7 @@ date,rank,name,id,points
 19731119,169,Bo Holmstrom,H181,1
 19731119,169,Olle Palmer,P005,1
 19731119,169,Pancho Musalem,M222,1
-19731119,169,Teimuraz Kakoulia,NA,1
+19731119,169,Teimuraz Kakoulia,,1
 19731119,169,Mike Machette,M132,1
 19731119,169,Shamil Tarpischev,T035,1
 19731119,169,Ulrich Pinner,P034,1
@@ -3293,7 +3266,7 @@ date,rank,name,id,points
 19731119,196,Jose Castanon,C189,0
 19731119,196,Hans Engert,E063,0
 19731119,196,Kenichi Hirai,H023,0
-19731119,196,Kiyoski Tanabe,NA,0
+19731119,196,Kiyoski Tanabe,,0
 19731119,196,Humphrey Hose,H064,0
 19731119,196,Victor Amaya,A044,0
 19731119,196,Jean-Francois Caujolle,C082,0
@@ -3301,7 +3274,6 @@ date,rank,name,id,points
 19731119,196,Felix Ponte,P179,0
 19731119,196,Vincenzo Franchitti,F103,0
 19731119,196,David Lloyd,L083,0
-19731119,0,John De Mendoza,D136,0
 19731126,1,Ilie Nastase,N008,240
 19731126,2,John Newcombe,N044,141
 19731126,3,Jimmy Connors,C044,125
@@ -3430,7 +3402,7 @@ date,rank,name,id,points
 19731126,126,Jose Edison Mandarino,M135,6
 19731126,127,Jasjit Singh,S142,5
 19731126,128,Graham Stilwell,S147,10
-19731126,129,Fred McNair,NA,4
+19731126,129,Fred McNair IV,,4
 19731126,130,Torben Ulrich,U011,7
 19731126,131,Tom Edlefsen,E035,8
 19731126,132,John Feaver,F008,4
@@ -3482,7 +3454,7 @@ date,rank,name,id,points
 19731126,171,Pancho Musalem,M222,1
 19731126,171,Shamil Tarpischev,T035,1
 19731126,171,Ulrich Pinner,P034,1
-19731126,171,Teimuraz Kakoulia,NA,1
+19731126,171,Teimuraz Kakoulia,,1
 19731126,171,Tony Parun,P071,1
 19731126,171,George Hardie,H056,1
 19731126,171,Balazs Taroczy,T007,1
@@ -3525,7 +3497,7 @@ date,rank,name,id,points
 19731126,197,Rudy Hernando,H098,0
 19731126,197,Takeshi Koura,K137,0
 19731126,197,Ramanathan Krishnan,K103,0
-19731126,197,Thomas Koch,NA,0
+19731126,197,Thomaz Koch,,0
 19731126,197,Vittorio Crotta,C123,0
 19731126,197,Jan Hordijk,H166,0
 19731126,197,Alejandro Olmedo,O042,0
@@ -3541,7 +3513,7 @@ date,rank,name,id,points
 19731126,197,Hans Engert,E063,0
 19731126,197,Kenichi Hirai,H023,0
 19731126,197,Victor Amaya,A044,0
-19731126,197,Kiyoski Tanabe,NA,0
+19731126,197,Kiyoski Tanabe,,0
 19731126,197,Humphrey Hose,H064,0
 19731126,197,Jean-Francois Caujolle,C082,0
 19731126,197,Piero Toci,T086,0
@@ -3676,7 +3648,7 @@ date,rank,name,id,points
 19731203,126,Jose Edison Mandarino,M135,6
 19731203,127,Jasjit Singh,S142,5
 19731203,128,Graham Stilwell,S147,10
-19731203,129,Fred McNair,NA,4
+19731203,129,Fred McNair IV,,4
 19731203,130,Torben Ulrich,U011,7
 19731203,131,Tom Edlefsen,E035,8
 19731203,132,John Feaver,F008,4
@@ -3725,7 +3697,7 @@ date,rank,name,id,points
 19731203,171,Bo Holmstrom,H181,1
 19731203,171,Olle Palmer,P005,1
 19731203,171,Pancho Musalem,M222,1
-19731203,171,Teimuraz Kakoulia,NA,1
+19731203,171,Teimuraz Kakoulia,,1
 19731203,171,Mike Machette,M132,1
 19731203,171,Shamil Tarpischev,T035,1
 19731203,171,Ulrich Pinner,P034,1
@@ -3773,7 +3745,7 @@ date,rank,name,id,points
 19731203,197,Takeshi Koura,K137,0
 19731203,197,Ramanathan Krishnan,K103,0
 19731203,197,Richard Lewis,L025,0
-19731203,197,Thomas Koch,NA,0
+19731203,197,Thomaz Koch,,0
 19731203,197,Vittorio Crotta,C123,0
 19731203,197,Hans-Joachim Ploetz,P081,0
 19731203,197,Zan Guerry,G116,0
@@ -3786,7 +3758,7 @@ date,rank,name,id,points
 19731203,197,Jose Castanon,C189,0
 19731203,197,Hans Engert,E063,0
 19731203,197,Kenichi Hirai,H023,0
-19731203,197,Kiyoski Tanabe,NA,0
+19731203,197,Kiyoski Tanabe,,0
 19731203,197,Humphrey Hose,H064,0
 19731203,197,Victor Amaya,A044,0
 19731203,197,Jean-Francois Caujolle,C082,0
@@ -3922,7 +3894,7 @@ date,rank,name,id,points
 19731210,126,Jose Edison Mandarino,M135,6
 19731210,127,Jasjit Singh,S142,5
 19731210,128,Graham Stilwell,S147,10
-19731210,129,Fred McNair,NA,4
+19731210,129,Fred McNair IV,,4
 19731210,130,Torben Ulrich,U011,7
 19731210,131,Tom Edlefsen,E035,8
 19731210,132,John Feaver,F008,4
@@ -3971,7 +3943,7 @@ date,rank,name,id,points
 19731210,171,Bo Holmstrom,H181,1
 19731210,171,Olle Palmer,P005,1
 19731210,171,Pancho Musalem,M222,1
-19731210,171,Teimuraz Kakoulia,NA,1
+19731210,171,Teimuraz Kakoulia,,1
 19731210,171,Mike Machette,M132,1
 19731210,171,Shamil Tarpischev,T035,1
 19731210,171,Ulrich Pinner,P034,1
@@ -4019,7 +3991,7 @@ date,rank,name,id,points
 19731210,197,Takeshi Koura,K137,0
 19731210,197,Ramanathan Krishnan,K103,0
 19731210,197,Richard Lewis,L025,0
-19731210,197,Thomas Koch,NA,0
+19731210,197,Thomaz Koch,,0
 19731210,197,Vittorio Crotta,C123,0
 19731210,197,Hans-Joachim Ploetz,P081,0
 19731210,197,Zan Guerry,G116,0
@@ -4032,7 +4004,7 @@ date,rank,name,id,points
 19731210,197,Jose Castanon,C189,0
 19731210,197,Hans Engert,E063,0
 19731210,197,Kenichi Hirai,H023,0
-19731210,197,Kiyoski Tanabe,NA,0
+19731210,197,Kiyoski Tanabe,,0
 19731210,197,Humphrey Hose,H064,0
 19731210,197,Victor Amaya,A044,0
 19731210,197,Jean-Francois Caujolle,C082,0
@@ -4168,7 +4140,7 @@ date,rank,name,id,points
 19731217,126,Jose Edison Mandarino,M135,6
 19731217,127,Jasjit Singh,S142,5
 19731217,128,Graham Stilwell,S147,10
-19731217,129,Fred McNair,NA,4
+19731217,129,Fred McNair IV,,4
 19731217,130,Torben Ulrich,U011,7
 19731217,131,Tom Edlefsen,E035,8
 19731217,132,John Feaver,F008,4
@@ -4217,7 +4189,7 @@ date,rank,name,id,points
 19731217,171,Bo Holmstrom,H181,1
 19731217,171,Olle Palmer,P005,1
 19731217,171,Pancho Musalem,M222,1
-19731217,171,Teimuraz Kakoulia,NA,1
+19731217,171,Teimuraz Kakoulia,,1
 19731217,171,Mike Machette,M132,1
 19731217,171,Shamil Tarpischev,T035,1
 19731217,171,Ulrich Pinner,P034,1
@@ -4265,7 +4237,7 @@ date,rank,name,id,points
 19731217,197,Takeshi Koura,K137,0
 19731217,197,Ramanathan Krishnan,K103,0
 19731217,197,Richard Lewis,L025,0
-19731217,197,Thomas Koch,NA,0
+19731217,197,Thomaz Koch,,0
 19731217,197,Vittorio Crotta,C123,0
 19731217,197,Hans-Joachim Ploetz,P081,0
 19731217,197,Zan Guerry,G116,0
@@ -4278,7 +4250,7 @@ date,rank,name,id,points
 19731217,197,Jose Castanon,C189,0
 19731217,197,Hans Engert,E063,0
 19731217,197,Kenichi Hirai,H023,0
-19731217,197,Kiyoski Tanabe,NA,0
+19731217,197,Kiyoski Tanabe,,0
 19731217,197,Humphrey Hose,H064,0
 19731217,197,Victor Amaya,A044,0
 19731217,197,Jean-Francois Caujolle,C082,0
@@ -4408,7 +4380,7 @@ date,rank,name,id,points
 19731224,118,Richard Pancho Gonzales,G077,4
 19731224,118,Brian Teacher,T011,4
 19731224,122,Anand Amritraj,A021,6
-19731224,123,Fred McNair,NA,5
+19731224,123,Fred McNair IV,,5
 19731224,124,Pat Cramer,C091,7
 19731224,124,Jim Delaney,D072,4
 19731224,124,Attila Korpas,K090,4
@@ -4464,7 +4436,7 @@ date,rank,name,id,points
 19731224,171,Bo Holmstrom,H181,1
 19731224,171,Olle Palmer,P005,1
 19731224,171,Pancho Musalem,M222,1
-19731224,171,Teimuraz Kakoulia,NA,1
+19731224,171,Teimuraz Kakoulia,,1
 19731224,171,Mike Machette,M132,1
 19731224,171,Shamil Tarpischev,T035,1
 19731224,171,Ulrich Pinner,P034,1
@@ -4515,7 +4487,7 @@ date,rank,name,id,points
 19731224,198,Zan Guerry,G116,0
 19731224,198,Gaurav Misra,M773,0
 19731224,198,Richard Lewis,L025,0
-19731224,198,Thomas Koch,NA,0
+19731224,198,Thomaz Koch,,0
 19731224,198,Alejandro Olmedo,O042,0
 19731224,198,Belus Prajoux,P046,0
 19731224,198,Terry Moor,M081,0
@@ -4524,7 +4496,7 @@ date,rank,name,id,points
 19731224,198,Jose Castanon,C189,0
 19731224,198,Hans Engert,E063,0
 19731224,198,Kenichi Hirai,H023,0
-19731224,198,Kiyoski Tanabe,NA,0
+19731224,198,Kiyoski Tanabe,,0
 19731224,198,Humphrey Hose,H064,0
 19731224,198,Victor Amaya,A044,0
 19731224,198,Jean-Francois Caujolle,C082,0
@@ -4636,7 +4608,7 @@ date,rank,name,id,points
 19731231,102,Byron Bertram,B130,32
 19731231,103,Corrado Barazzutti,B007,41
 19731231,104,Patricio Cornejo,C088,58
-19731231,105,Fred McNair,NA,35
+19731231,105,Fred McNair IV,,35
 19731231,106,Jim McManus,M144,79
 19731231,107,John Paish,P142,32
 19731231,108,Anand Amritraj,A021,39
@@ -4704,7 +4676,7 @@ date,rank,name,id,points
 19731231,167,David Lloyd,L083,11
 19731231,171,Jan Pisecky,P167,10
 19731231,171,Toma Ovici,O069,10
-19731231,171,Kiyoski Tanabe,NA,10
+19731231,171,Kiyoski Tanabe,,10
 19731231,171,Jun Kuki,K054,10
 19731231,171,Jean-Francois Caujolle,C082,10
 19731231,171,Rolf Norberg,N048,10
@@ -4746,7 +4718,7 @@ date,rank,name,id,points
 19731231,211,Zan Guerry,G116,4
 19731231,211,Gaurav Misra,M773,4
 19731231,211,Richard Lewis,L025,4
-19731231,211,Thomas Koch,NA,4
+19731231,211,Thomaz Koch,,4
 19731231,211,Alejandro Olmedo,O042,4
 19731231,211,Belus Prajoux,P046,4
 19731231,211,Terry Moor,M081,4
@@ -4780,7 +4752,7 @@ date,rank,name,id,points
 19731231,244,Thies Roepcke,R180,2
 19731231,244,Jean-Paul Meyer,M280,2
 19731231,244,Thierry Bernasconi,B261,2
-19731231,249,Teimuraz Kakoulia,NA,1
+19731231,249,Teimuraz Kakoulia,,1
 19731231,249,Hans-Joachim Ploetz,P081,1
 19731231,249,Michael Phillips,P180,1
 19731231,249,Max Senior,S249,1
@@ -4794,5 +4766,3 @@ date,rank,name,id,points
 19731231,249,Larry Parker,P168,1
 19731231,249,John James,J029,1
 19731231,249,Ernie Ewert,E066,1
-19731231,0,Chris Kachel,K044,0
-19731231,0,John Stephens,S304,0
